@@ -1042,6 +1042,12 @@ a.page-link {
   color: rgb(156 163 175 / var(--tw-text-opacity));
 }
 /* Tailwind's utility classes - generated based on config file */
+.static {
+  position: static;
+}
+.fixed {
+  position: fixed;
+}
 .absolute {
   position: absolute;
 }
@@ -1161,11 +1167,11 @@ a.page-link {
 .max-w-3xl {
   max-width: 48rem;
 }
-.max-w-4xl {
-  max-width: 56rem;
-}
 .max-w-5xl {
   max-width: 64rem;
+}
+.max-w-6xl {
+  max-width: 72rem;
 }
 .max-w-full {
   max-width: 100%;
@@ -1175,6 +1181,9 @@ a.page-link {
 }
 .flex-1 {
   flex: 1 1 0%;
+}
+.flex-auto {
+  flex: 1 1 auto;
 }
 .rotate-6 {
   --tw-rotate: 6deg;
@@ -1265,6 +1274,9 @@ a.page-link {
 .object-cover {
   -o-object-fit: cover;
      object-fit: cover;
+}
+.p-0 {
+  padding: 0px;
 }
 .p-1 {
   padding: 0.25rem;
@@ -1784,9 +1796,6 @@ a.page-link {
 @media (min-width: 1024px) {
   .lg\:grid-cols-3 {
     grid-template-columns: repeat(3, minmax(0, 1fr));
-  }
-  .lg\:gap-16 {
-    gap: 4rem;
   }
   .lg\:gap-6 {
     gap: 1.5rem;

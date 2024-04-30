@@ -1,5 +1,4 @@
 baseurl = "https://NetVerify.github.io"
-metaDataFormat = "yaml"
 title = "NetVerify"
 theme = "blist"
 languageCode = 'en-us'
@@ -10,29 +9,35 @@ languageCode = 'en-us'
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Network Verification Group"
-      introSubtitle = "ANTS Group in XJTU"
+      introTitle = "NetVerify Group - Network Verification"
+      introSubtitle = "@ ANTS (<b>A</b>dvanced <b>N</b>etwork <b>T</b>echnology & <b>S</b>ystem) Group in XJTU (<b>X</b>i'an <b>J</b>iao<b>t</b>ong <b>U</b>niversity)"
       introPhoto = "/picture.jpg"
-      logo = "/blist-logo.png"
-    [[languages.en.menu.main]]
-        name = "Blog"
-        url = "blog"
-        weight = 1
+      logo = "/logo-square-remake.png"
 
     [[languages.en.menu.main]]
         name = "About"
         url = "about"
+        weight = 1
+
+    [[languages.en.menu.main]]
+        name = "People"
+        url = "people/group"
         weight = 2
 
     [[languages.en.menu.main]]
-        name = "Tags"
-        url = "tags"
+        name = "Publications"
+        url = "publications"
         weight = 3
 
     [[languages.en.menu.main]]
-        name = "Top Post"
-        url = "/blog/emoji-support/"
+        name = "Courses"
+        url = "courses"
         weight = 4
+
+    [[languages.en.menu.main]]
+        name = "Blog"
+        url = "blog"
+        weight = 5
 
   [languages.zh]
     contentDir = "content"
@@ -43,11 +48,39 @@ languageCode = 'en-us'
       introTitle = "网络验证团队"
       introSubtitle = "西安交通大学网络系统组"
       introPhoto = "/picture.jpg"
-      logo = "/blist-logo.png"
+      logo = "/logo-square-remake.png"
+
     [[languages.zh.menu.main]]
-        name = "团队介绍"
+        name = "实验室介绍"
         url = "about"
+        weight = 1
+
+    [[languages.zh.menu.main]]
+        name = "团队成员"
+        url = "people"
         weight = 2
+
+    [[languages.zh.menu.main]]
+        name = "论文发表"
+        url = "publications"
+        weight = 3
+
+    [[languages.zh.menu.main]]
+        name = "课程信息"
+        url = "courses"
+        weight = 4
+
+    [[languages.zh.menu.main]]
+        name = "博客"
+        url = "blog"
+        weight = 5
+
+[[params.introImages]]
+  src = "/group.jpeg"
+[[params.introImages]]
+  src = "/group2.jpeg"
+[[params.introImages]]
+  src = "/group3.jpeg"
 
 [params]
   defaultContentLanguage = "en"
@@ -62,25 +95,31 @@ languageCode = 'en-us'
   darkModeToggle = true
   
   # Enable search in header
-  enableSearch = true
+  # enableSearch = true
 
   # Option to customize the search parameters of a page
   # Below are the supported options; Note that including entire content
   # may slowdown the loading of search results
   # Title of page is included by default
-  searchKeys = [
-    "tags",
-    "date",
-    "categories",
-    "summary",
-    "content",
-    "link",
-    "author"
-  ]
+  # searchKeys = [
+  #   "tags",
+  #   "date",
+  #   "categories",
+  #   "summary",
+  #   "content",
+  #   "link",
+  #   "author"
+  # ]
 
   # Custom copyright - optional
   copyright = "Copyright © 2024 - NetVerify Group - ANTS in XJTU · All rights reserved"
-  favicon = "/favicon.svg"
+  favicon = "/logo-square-remake.png"
+
+  about = """
+Network controllers are complex software systems that must simultaneously implement a wide range of policies and services on top of a highly asynchronous environment (the network). As any complex software systems, network controllers are likely to be plagued by bugs that must be discovered and fixed. While discovering these bugs is often hard, fixing them is even harder. As network controllers are critical entity, they cannot simply be “rebooted”, they must run at all time to ensure smooth and continuous network operations. As such, network controllers need also to be upgraded on-the-fly.
+<br>
+Our group is involved in verifying that network controllers are correct through static and dynamic analysis. We are also studying how we can make network controller “hot-swappable”, enabling controllers to be upgraded at runtime without creating any disruption.
+  """
 
   # Color for the intro details and social links block, not applicable for dark mode
   # Supported values: Any color from TailwindCSS default colors
@@ -88,7 +127,7 @@ languageCode = 'en-us'
   ascentColor = "bg-blue-100"
 
   # The page bundle that is shown on the front page
-  frontBundle = "blog"
+  frontBundle = "news"
 
   # Used to hide the post metadata such as posted date, reading time and word count
   # Can be used at site level or page level
@@ -107,92 +146,17 @@ languageCode = 'en-us'
   # This setting can also be in page's markdown file
   hidePageThumbnail = false
 
-# Comments system
-[params.comments]
-  # Supports disqus, giscus and utterances
-  # Check hugo docs for setting up disqus
-  system = "giscus"
-
-  # Options for giscus, exclude hyphens
-  repo = ""
-  repoid = ""
-  category = ""
-  categoryid = ""
-  mapping = ""
-  strict = ""
-  reactionsenabled = ""
-  emitmetadata = ""
-  inputposition = ""
-  theme = ""
-
-  # Options for utterances, exclude hyphens
-  # repo = ""
-  # issueterm = ""
-  # theme = ""
-
 [params.homepage.social]
   # Global params common for both languages
-  title = "Follow me"
-  description = "I work on everything coding and tweet developer memes"
+  title = "Contact Us"
+  description = "If you are interested in our NetVerify group in ANTS Lab, feel free to contact."
 
   [[params.homepage.social.icons]]
-    website = "twitter"
-    url = "https://twitter.com/"
-  [[params.homepage.social.icons]]
-    website = "linkedin"
-    url = "https://linkedin.com/in/"
-  [[params.homepage.social.icons]]
-    website = "xing"
-    url = "https://www.xing.com/profile/"
-  [[params.homepage.social.icons]]
-    website = "telegram"
-    url = "https://t.me/"
+    website = "email"
+    url = "mailto:augists@duck.com"
   [[params.homepage.social.icons]]
     website = "github"
-    url = "https://github.com/"
-  [[params.homepage.social.icons]]
-    website = "buymeacoffee"
-    url = "https://www.buymeacoffee.com/"
-  [[params.homepage.social.icons]]
-    website = "medium"
-    url = "https://medium.com/"
-  [[params.homepage.social.icons]]
-    website = "reddit"
-    url = "https://reddit.com/"
-  [[params.homepage.social.icons]]
-    website = "dribbble"
-    url = "https://dribbble.com/"
-  [[params.homepage.social.icons]]
-    website = "stackoverflow"
-    url = "https://stackoverflow.com/"
-  [[params.homepage.social.icons]]
-    website = "xda"
-    url = "https://forum.xda-developers.com/"
-  [[params.homepage.social.icons]]
-    website = "tiktok"
-    url = "https://tiktok.com"
-  [[params.homepage.social.icons]]
-    website = "googlescholar"
-    url = "https://scholar.google.com/"
-  [[params.homepage.social.icons]]
-    website = "mastodon"
-    url = "https://joinmastodon.org"
-  [[params.homepage.social.icons]]
-    website = "youtube"
-    url = "https://youtube.com"
-  [[params.homepage.social.icons]]
-    website = "instagram"
-    url = "https://instagram.com"
-  [[params.homepage.social.icons]]
-    website = "facebook"
-    url = "https://facebook.com"
-  [[params.homepage.social.icons]]
-    website = "behance"
-    url = "https://behance.net"
-
-[[menu.main]]
-  name = "About"
-  url = "/about"
+    url = "https://github.com/XJTU-NetVerify"
 
 [build]
   writeStats = true
