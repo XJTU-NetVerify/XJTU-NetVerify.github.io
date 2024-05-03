@@ -2,8 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/people/zyc/</loc>
+    <lastmod>2024-04-30T14:27:08+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/people/danw/</loc>
+    <lastmod>2024-04-30T14:27:08+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-04-29T17:01:43+08:00</lastmod>
+    <lastmod>2024-04-30T14:27:08+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -23,9 +29,6 @@
   </url><url>
     <loc>http://localhost:1313/news/</loc>
     <lastmod>2024-04-29T16:27:02+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/people/group/</loc>
-    <lastmod>2024-04-28T20:26:03+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/people/</loc>
     <lastmod>2024-04-28T20:26:03+08:00</lastmod>

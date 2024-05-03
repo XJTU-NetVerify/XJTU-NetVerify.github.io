@@ -21,7 +21,7 @@ languageCode = 'en-us'
 
     [[languages.en.menu.main]]
         name = "People"
-        url = "people/group"
+        url = "people"
         weight = 2
 
     [[languages.en.menu.main]]
