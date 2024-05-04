@@ -15,12 +15,5 @@
       <guid>http://localhost:1313/people/zyc/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Dan Wang (王丹)</title>
-      <link>http://localhost:1313/people/danw/</link>
-      <pubDate>Tue, 30 Apr 2024 14:27:08 +0800</pubDate>
-      <guid>http://localhost:1313/people/danw/</guid>
-      <description>image = &amp;lsquo;/danw.jpeg&amp;rsquo;</description>
-    </item>
   </channel>
 </rss>

@@ -1,4 +1,4 @@
-baseurl = "https://NetVerify.github.io"
+baseurl = "https://xjtu-netverify.github.io"
 title = "NetVerify"
 theme = "blist"
 languageCode = 'en-us'

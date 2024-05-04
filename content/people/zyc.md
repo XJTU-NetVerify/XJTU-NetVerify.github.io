@@ -11,38 +11,62 @@ name_en = 'Augists'
 degree = 'Master Student'
 image = '/zyc.jpeg'
 
-introduction = """
+email = 'augists@duck.com'
+github = 'Augists'
 
-"""
+[[introduction]]
+    content = "I am a student"
 
-[[education.part]]
+[[introduction]]
+    content = "second"
+
+[[introduction]]
+    content = "third"
+
+[[education]]
     school = "Xi'an Jiaotong University"
-    degree = 'Master'
+    degree = 'Master Degree'
     work = 'Network Verification Tools with User-Friendly Interface'
-[[education.part]]
+[[education]]
     school = 'Dalian University of Technology'
-    degree = 'Bachelor'
+    degree = 'Bachelor Degree'
     rank = '1/1'
-    work = 'Human Activity Detection by WiFi / Leader of NAOSI'
+    work = 'Human Activity Detection by Wi-Fi / Leader of NAOSI'
 
-paperOrNot = true
 [[paper]]
-    title = 'paper title'
-    author = 'Augists'
-    pdfOrNot = true
+    title = 'PAPER TITLE 1'
+    publisher = 'SIGCOMM'
     pdf = 'url of pdf'
-    slideOrNot = true
     slide = 'url of slide'
-    videoOrNot = true
     video = 'url of video'
+    poster = 'url of poster'
+    code = 'url of code'
+    web = 'url of website'
+    [[paper.author]]
+        name = 'Augists 1'
+        url = 'zyc'
+    [[paper.author]]
+        name = 'Augists 1'
+        url = 'zyc'
 
-awardOrNot = true
+[[paper]]
+    title = 'PAPER TITLE 2'
+    pdf = 'url of pdf'
+    slide = 'url of slide'
+    video = 'url of video'
+    [[paper.author]]
+        name = 'Augists 2'
+    [[paper.author]]
+        name = 'Augists 2'
+
 [[award]]
     title = 'Hackathon'
     award = 'Champion'
 
-email = 'mailto:augists@duck.com'
-github = 'https://github.com/Augists'
+[[award]]
+    title = 'Hackathon'
+    award = 'Champion'
+
 [[social]]
     website = 'blog'
     url = 'https://augists.top'
@@ -51,5 +75,8 @@ github = 'https://github.com/Augists'
     url = 'https://t.me/Augists'
 [[social]]
     website = 'twitter'
+    url = 'https://t.me/Augists'
+[[social]]
+    website = 'googlescholar'
     url = 'https://t.me/Augists'
 +++
