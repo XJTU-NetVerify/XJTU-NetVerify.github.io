@@ -6,7 +6,35 @@
     <description>Recent content on NetVerify</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 14:27:08 +0800</lastBuildDate>
     <atom:link href="https://xjtu-netverify.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Augists (张亦弛)</title>
+      <link>https://xjtu-netverify.github.io/people/zyc/</link>
+      <pubDate>Tue, 30 Apr 2024 14:27:08 +0800</pubDate>
+      <guid>https://xjtu-netverify.github.io/people/zyc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chongzhi Wang (王崇智)</title>
+      <link>https://xjtu-netverify.github.io/people/wcz/</link>
+      <pubDate>Tue, 30 Apr 2024 14:27:08 +0800</pubDate>
+      <guid>https://xjtu-netverify.github.io/people/wcz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>New routing security paper accepted at S&amp;P 24!</title>
+      <link>https://xjtu-netverify.github.io/news/test/</link>
+      <pubDate>Mon, 29 Apr 2024 16:27:02 +0800</pubDate>
+      <guid>https://xjtu-netverify.github.io/news/test/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://xjtu-netverify.github.io/about/</link>
+      <pubDate>Sun, 28 Apr 2024 14:45:43 +0800</pubDate>
+      <guid>https://xjtu-netverify.github.io/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&#xA;Hugo makes use of a variety of open source projects including:&#xA;https://github.com/yuin/goldmark https://github.</description>
+    </item>
   </channel>
 </rss>

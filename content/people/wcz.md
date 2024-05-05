@@ -1,7 +1,7 @@
 +++
 title = 'Chongzhi Wang (王崇智)'
 date = 2024-04-30T14:27:08+08:00
-draft = true
+draft = false
 
 type = 'people'
 layout = 'people'

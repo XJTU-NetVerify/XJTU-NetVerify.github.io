@@ -1,7 +1,7 @@
 +++
 title = 'Our Group'
 date = 2024-04-28T20:26:03+08:00
-draft = true
+draft = false
 type = 'people'
 layout = 'peopleList'
 +++

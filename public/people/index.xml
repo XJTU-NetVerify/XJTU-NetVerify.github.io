@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our Group on NetVerify</title>
+    <link>https://xjtu-netverify.github.io/people/</link>
+    <description>Recent content in Our Group on NetVerify</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 30 Apr 2024 14:27:08 +0800</lastBuildDate>
+    <atom:link href="https://xjtu-netverify.github.io/people/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Augists (张亦弛)</title>
+      <link>https://xjtu-netverify.github.io/people/zyc/</link>
+      <pubDate>Tue, 30 Apr 2024 14:27:08 +0800</pubDate>
+      <guid>https://xjtu-netverify.github.io/people/zyc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chongzhi Wang (王崇智)</title>
+      <link>https://xjtu-netverify.github.io/people/wcz/</link>
+      <pubDate>Tue, 30 Apr 2024 14:27:08 +0800</pubDate>
+      <guid>https://xjtu-netverify.github.io/people/wcz/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
