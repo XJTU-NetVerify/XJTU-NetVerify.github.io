@@ -82,6 +82,11 @@ languageCode = 'en-us'
 [[params.introImages]]
   src = "/group3.jpeg"
 
+[params.mentor]
+  name_en = 'peng zhang'
+  name_cn = '张鹏'
+  url = 'https://gr.xjtu.edu.cn/en/web/p-zhang/home'
+
 [params]
   defaultContentLanguage = "en"
   defaultContentLanguageInSubdir = true

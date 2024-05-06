@@ -1,7 +1,7 @@
 +++
 title = 'Dan Wang (王丹)'
 date = 2024-04-30T14:27:08+08:00
-draft = true
+draft = false
 
 type = 'people'
 layout = 'people'
@@ -11,35 +11,52 @@ name_en = 'Dan Wang'
 degree = 'Ph.D Student'
 image = '/danw.jpg'
 
-email = '1134882553@qq.com'
+email = 'dan-wang@stu.xjtu.edu.cn'
 github = 'heroinedd'
 
 [[introduction]]
-    content = "I'm interested in network control plane verification, including deterministic/probabilistic failure tolerance analyzing, external route induced property violations, and distributed control plane simulation."
+    content = "I am a Phd student in the ANTS group (Xi'an Jiaotong University) led by prof.Peng Zhang. My research topics of interest include network control plane verification. Specifically, I'm have published papers working on deterministic/probabilistic failure tolerance analyzing (SRE, SIGCOMM2022), external route reasoning (Expresso, SIGCOMM2024), and now working distributed control plane simulation."
 
 [[education]]
     school = "Xi'an Jiaotong University"
     degree = 'Ph.D Degree'
-    work = 'Network Control Plane Verification'
+    work = 'Network control plane verification, including deterministic/probabilistic failure tolerance analyzing.'
     time = '2021.9 - now'
 [[education]]
     school = "Xi'an Jiaotong University"
     degree = 'Bachelor Degree'
+    work = 'Network control plane verification, including external route induced property violations, and distributed control plane simulatio.'
     time = '2017.9 - 2021.6'
 
 [[paper]]
-    title = 'PAPER TITLE 1'
-    publisher = 'SIGCOMM'
-    pdf = 'url of pdf'
-    slide = 'url of slide'
-    video = 'url of video'
-    poster = 'url of poster'
-    code = 'url of code'
-    web = 'url of website'
+    title = 'Symbolic Router Execution'
+    publisher = "Proceedings of ACM SIGCOMM'22"
+    pdf = 'https://dl.acm.org/doi/abs/10.1145/3544216.3544264'
+    slide = 'https://aaron.gember-jacobson.com/docs/sigcomm2022sre_slides.pdf'
+    video = 'https://www.youtube.com/watch?v=1rHItyAY4RE'
     [[paper.author]]
-        name = 'Augists 1'
-        url = 'zyc'
+        name = 'Peng Zhang'
+        url = 'https://gr.xjtu.edu.cn/en/web/p-zhang'
     [[paper.author]]
-        name = 'Augists 1'
-        url = 'zyc'
+        name = 'Dan Wang'
+        url = 'danw'
+    [[paper.author]]
+        name = 'Aaron Gember-Jacobson'
+        url = 'https://aaron.gember-jacobson.com'
+
+[[paper]]
+    title = 'Expersso: Comprehensively Reasoning About External Routes Using Symbolic Simulation'
+    publisher = "Proceedings of ACM SIGCOMM'24"
+    [[paper.author]]
+        name = 'Dan Wang'
+        url = 'danw'
+    [[paper.author]]
+        name = 'Peng Zhang'
+        url = 'https://gr.xjtu.edu.cn/en/web/p-zhang'
+    [[paper.author]]
+        name = 'Aaron Gember-Jacobson'
+        url = 'https://aaron.gember-jacobson.com'
+
+[[award]]
+    title = "National Scholarships for Master's Degree Students, 2022"
 +++
