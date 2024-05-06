@@ -10,9 +10,16 @@ languageCode = 'en-us'
     languageName = "English"
     [languages.en.params]
       introTitle = "NetVerify Group - Network Verification"
-      introSubtitle = "@ ANTS (<b>A</b>dvanced <b>N</b>etwork <b>T</b>echnology & <b>S</b>ystem) Group in XJTU (<b>X</b>i'an <b>J</b>iao<b>t</b>ong <b>U</b>niversity)"
-      introPhoto = "/picture.jpg"
+      introSubtitle = "@ ANTS (<b>A</b>dvanced <b>N</b>etwork <b>T</b>echnology & <b>S</b>ystem) Lab in XJTU (<b>X</b>i'an <b>J</b>iao<b>t</b>ong <b>U</b>niversity)"
       logo = "/logo-square-remake.png"
+
+      news = "News"
+
+      about = """
+Network controllers are complex software systems that must simultaneously implement a wide range of policies and services on top of a highly asynchronous environment (the network). As any complex software systems, network controllers are likely to be plagued by bugs that must be discovered and fixed. While discovering these bugs is often hard, fixing them is even harder. As network controllers are critical entity, they cannot simply be “rebooted”, they must run at all time to ensure smooth and continuous network operations. As such, network controllers need also to be upgraded on-the-fly.
+<br>
+Our group is involved in verifying that network controllers are correct through static and dynamic analysis. We are also studying how we can make network controller “hot-swappable”, enabling controllers to be upgraded at runtime without creating any disruption.
+      """
 
     [[languages.en.menu.main]]
         name = "About"
@@ -46,10 +53,19 @@ languageCode = 'en-us'
     languageName = "Chinese"
     [languages.zh.params]
       description = "网络验证团队"
-      introTitle = "网络验证团队"
-      introSubtitle = "西安交通大学网络系统组"
-      introPhoto = "/picture.jpg"
+      introTitle = "网络验证团队 NetVerify Group - Network Verification"
+      introSubtitle = "西安交通大学网络系统组 @ ANTS (<b>A</b>dvanced <b>N</b>etwork <b>T</b>echnology & <b>S</b>ystem) Lab in XJTU (<b>X</b>i'an <b>J</b>iao<b>t</b>ong <b>U</b>niversity)"
       logo = "/logo-square-remake.png"
+
+      news = "新闻"
+      homepage.social.title = "联系我们团队"
+      homepage.social.description = "如果你对我们 NetVerify 团队感兴趣，欢迎联系我们！"
+
+      about = """
+测试Network controllers are complex software systems that must simultaneously implement a wide range of policies and services on top of a highly asynchronous environment (the network). As any complex software systems, network controllers are likely to be plagued by bugs that must be discovered and fixed. While discovering these bugs is often hard, fixing them is even harder. As network controllers are critical entity, they cannot simply be “rebooted”, they must run at all time to ensure smooth and continuous network operations. As such, network controllers need also to be upgraded on-the-fly.
+<br>
+Our group is involved in verifying that network controllers are correct through static and dynamic analysis. We are also studying how we can make network controller “hot-swappable”, enabling controllers to be upgraded at runtime without creating any disruption.
+      """
 
     [[languages.zh.menu.main]]
         name = "实验室介绍"
@@ -122,12 +138,6 @@ languageCode = 'en-us'
   # Custom copyright - optional
   copyright = "Copyright © 2024 - NetVerify Group - ANTS in XJTU · All rights reserved"
   favicon = "/logo-square-remake.png"
-
-  about = """
-Network controllers are complex software systems that must simultaneously implement a wide range of policies and services on top of a highly asynchronous environment (the network). As any complex software systems, network controllers are likely to be plagued by bugs that must be discovered and fixed. While discovering these bugs is often hard, fixing them is even harder. As network controllers are critical entity, they cannot simply be “rebooted”, they must run at all time to ensure smooth and continuous network operations. As such, network controllers need also to be upgraded on-the-fly.
-<br>
-Our group is involved in verifying that network controllers are correct through static and dynamic analysis. We are also studying how we can make network controller “hot-swappable”, enabling controllers to be upgraded at runtime without creating any disruption.
-  """
 
   # Color for the intro details and social links block, not applicable for dark mode
   # Supported values: Any color from TailwindCSS default colors
