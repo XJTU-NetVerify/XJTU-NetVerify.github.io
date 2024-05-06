@@ -8,19 +8,26 @@ layout = 'people'
 
 name_cn = '顾真榕'
 name_en = 'Zhenrong (Daniel) Gu'
-degree = 'Master Student'
+degree = 'Undergraduate, Senior Student'
 image = '/zrgu.png'
 
 email = 'endaytrer@gmail.com'
 github = 'endaytrer'
 
 [[introduction]]
-    content = "I am a senior student at Xi'an Jiaotong University, majoring in Computer Science. Expecting M.S. at Advanced Networked System Group, Institute of Computer System Architecture and Networks, XJTU."
+    content = "I am a senior student at Xi'an Jiaotong University (XJTU), majoring in Computer Science. Expecting M. S. at ANTS (ANTS is a NeTworked System Group), Institute of Computer System Architecture and Networks, XJTU, advised by Prof. Peng Zhang."
+
+[[introduction]]
+    content = "My research interests are majorly in computer systems: networked systems and operating systems. Currently I'm working on the scalable emulation of data center networks. Previous research experiences include computer vision and natural language processing."
+
+[[introduction]]
+    content = "In extracurricular life, I love photography, tennis, running, graphics design, web development, video editing, etc."
 
 [[education]]
     school = "Xi'an Jiaotong University"
     degree = 'Bachelor Degree'
-    rank = '4/37'
+    work = 'Scalable Emulation of Data Center Networks'
+    rank = '3/37'
     gpa = '4.00/4.3'
     averagescore = '92.1'
 [[education]]
