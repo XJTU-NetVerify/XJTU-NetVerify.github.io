@@ -11,7 +11,7 @@ name_en = 'Zhenrong (Daniel) Gu'
 degree = 'Master Student'
 image = '/zrgu.png'
 
-email = 'endaytrer0120@stu.xjtu.edu.cn'
+email = 'endaytrer@gmail.com'
 github = 'endaytrer'
 
 [[introduction]]
@@ -34,4 +34,14 @@ github = 'endaytrer'
 [[award]]
     title = '12th “Lanqiao” Cup National Software and Information Technology Contest'
     award = 'First Prize, Track of Java Software Development (Ranked 6th Nationally)'
+
+[[social]]
+    website = 'blog'
+    url = 'https://danielgu.org'
+[[social]]
+    website = 'twitter'
+    url = 'https://twitter.com/endaytrer'
+[[social]]
+    website = 'instagram'
+    url = 'https://www.instagram.com/endaytrer'
 +++

@@ -26,7 +26,8 @@ languageCode = 'en-us'
 
     [[languages.en.menu.main]]
         name = "Publications"
-        url = "publications"
+        # url = "publications"
+        url = "https://gr.xjtu.edu.cn/en/web/p-zhang/publication"
         weight = 3
 
     [[languages.en.menu.main]]
