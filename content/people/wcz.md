@@ -65,5 +65,4 @@ github = 'chris3will'
     website = 'blog'
     url = 'https://chris3will.github.io'
     title = 'chris3will’s homepage | recording what I did and will do, maybe.'
-
 +++

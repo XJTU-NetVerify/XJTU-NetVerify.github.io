@@ -12,7 +12,7 @@ degree = 'Ph.D Student'
 image = '/danw.jpg'
 
 email = '1134882553@qq.com'
-github = 'https://github.com/Augists'
+github = 'heroinedd'
 
 [[introduction]]
     content = "I'm interested in network control plane verification, including deterministic/probabilistic failure tolerance analyzing, external route induced property violations, and distributed control plane simulation."
