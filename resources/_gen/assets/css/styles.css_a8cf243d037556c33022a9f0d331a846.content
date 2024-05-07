@@ -1080,12 +1080,6 @@ a.page-link {
   color: rgb(156 163 175 / var(--tw-text-opacity));
 }
 /* Tailwind's utility classes - generated based on config file */
-.static {
-  position: static;
-}
-.fixed {
-  position: fixed;
-}
 .absolute {
   position: absolute;
 }

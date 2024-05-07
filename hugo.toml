@@ -16,9 +16,7 @@ languageCode = 'en-us'
       news = "News"
 
     [[languages.en.params.about]]
-      content = "Network controllers are complex software systems that must simultaneously implement a wide range of policies and services on top of a highly asynchronous environment (the network). As any complex software systems, network controllers are likely to be plagued by bugs that must be discovered and fixed. While discovering these bugs is often hard, fixing them is even harder. As network controllers are critical entity, they cannot simply be “rebooted”, they must run at all time to ensure smooth and continuous network operations. As such, network controllers need also to be upgraded on-the-fly."
-    [[languages.en.params.about]]
-      content = "Our group is involved in verifying that network controllers are correct through static and dynamic analysis. We are also studying how we can make network controller “hot-swappable”, enabling controllers to be upgraded at runtime without creating any disruption."
+      content = "The research group belongs to Academician Xiaohong Guan's team, and its main research directions include: future Internet, data center network; trying to mine real problems from real scenarios to improve the stability and security of China's network infrastructure; publishing academic papers with international influence, and cultivating top talents in the field of network systems. Undergraduate students who are interested in the field of systems and have self-driven are welcome to join the research group."
 
     [[languages.en.menu.main]]
         name = "About"
@@ -41,10 +39,10 @@ languageCode = 'en-us'
         url = "courses"
         weight = 4
 
-    [[languages.en.menu.main]]
-        name = "Blog"
-        url = "blog"
-        weight = 5
+    # [[languages.en.menu.main]]
+    #     name = "Blog"
+    #     url = "blog"
+    #     weight = 5
 
   [languages.zh]
     contentDir = "content"
@@ -61,9 +59,9 @@ languageCode = 'en-us'
       homepage.social.description = "如果你对我们 NetVerify 团队感兴趣，欢迎联系我们！"
 
     [[languages.zh.params.about]]
-      content = "测试 Network controllers are complex software systems that must simultaneously implement a wide range of policies and services on top of a highly asynchronous environment (the network). As any complex software systems, network controllers are likely to be plagued by bugs that must be discovered and fixed. While discovering these bugs is often hard, fixing them is even harder. As network controllers are critical entity, they cannot simply be “rebooted”, they must run at all time to ensure smooth and continuous network operations. As such, network controllers need also to be upgraded on-the-fly."
+      content = "研究组隶属于管晓宏院士团队，主要研究方向包括：未来互联网、数据中心网络；力图从真实场景中挖掘真实问题，提高我国网络基础设施的稳定性和安全性；发表有国际影响力的学术论文，培养网络系统领域顶尖人才。欢迎对系统领域感兴趣、有自我驱动力的本科生同学加入研究组。"
     [[languages.zh.params.about]]
-      content = "测试2 Our group is involved in verifying that network controllers are correct through static and dynamic analysis. We are also studying how we can make network controller “hot-swappable”, enabling controllers to be upgraded at runtime without creating any disruption."
+      content = "The research group belongs to Academician Xiaohong Guan's team, and its main research directions include: future Internet, data center network; trying to mine real problems from real scenarios to improve the stability and security of China's network infrastructure; publishing academic papers with international influence, and cultivating top talents in the field of network systems. Undergraduate students who are interested in the field of systems and have self-driven are welcome to join the research group."
 
     [[languages.zh.menu.main]]
         name = "实验室介绍"
@@ -85,10 +83,10 @@ languageCode = 'en-us'
         url = "courses"
         weight = 4
 
-    [[languages.zh.menu.main]]
-        name = "博客"
-        url = "blog"
-        weight = 5
+    # [[languages.zh.menu.main]]
+    #     name = "博客"
+    #     url = "blog"
+    #     weight = 5
 
 [[params.introImages]]
   src = "/group.jpeg"
