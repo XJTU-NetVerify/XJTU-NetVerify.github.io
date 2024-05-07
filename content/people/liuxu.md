@@ -23,7 +23,7 @@ github = 'x-reason'
     work = 'Network Verification, Diagnosis and Repair'
 [[education]]
     school = "Xi'an Jiaotong University"
-    degree = 'Master Degree'
+    degree = 'Bachelor Degree'
     work = 'Network Data Plane Verification'
 
 [[paper]]

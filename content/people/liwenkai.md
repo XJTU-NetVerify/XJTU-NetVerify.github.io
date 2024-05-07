@@ -18,7 +18,7 @@ github = 'tuchendis'
     content = "I'm a undergraduate student at LZU. I'm working on distributed dataplane verification."
 
 [[education]] 
-    school = "Lanzhou Jiaotong University" 
+    school = "Lanzhou University" 
     degree = 'Bachelor Degree'
     work = 'Distributed Dataplane Verification' 
     time = '2020.9 - 2024.6'
