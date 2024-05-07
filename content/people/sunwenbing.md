@@ -26,6 +26,23 @@ github = 'wblingSun'
     degree = 'Bachelor Degree'
     time = '2018.9 - 2022.6'
 
+[[paper]]
+    title = 'Modular Data Plane Verification for Compositional Networks'
+    publisher = "Proceedings of ACM CoNEXT'23"
+    web = 'https://dl.acm.org/doi/abs/10.1145/3629145'
+    [[paper.author]]
+        name = 'Xu Liu'
+        url = 'liuxu'
+    [[paper.author]]
+        name = 'Peng Zhang'
+        url = 'https://gr.xjtu.edu.cn/en/web/p-zhang'
+    [[paper.author]]
+        name = 'Hao Li'
+        url = "https://gr.xjtu.edu.cn/en/web/hao.li"
+    [[paper.author]]
+        name = 'Wenbing Sun'
+        url = "sunwenbing"
+
 [[award]]
     title = '2020 National ScholarShip'
 

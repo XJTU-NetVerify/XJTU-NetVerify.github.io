@@ -15,11 +15,10 @@ languageCode = 'en-us'
 
       news = "News"
 
-      about = """
-Network controllers are complex software systems that must simultaneously implement a wide range of policies and services on top of a highly asynchronous environment (the network). As any complex software systems, network controllers are likely to be plagued by bugs that must be discovered and fixed. While discovering these bugs is often hard, fixing them is even harder. As network controllers are critical entity, they cannot simply be “rebooted”, they must run at all time to ensure smooth and continuous network operations. As such, network controllers need also to be upgraded on-the-fly.
-<br>
-Our group is involved in verifying that network controllers are correct through static and dynamic analysis. We are also studying how we can make network controller “hot-swappable”, enabling controllers to be upgraded at runtime without creating any disruption.
-      """
+    [[languages.en.params.about]]
+      content = "Network controllers are complex software systems that must simultaneously implement a wide range of policies and services on top of a highly asynchronous environment (the network). As any complex software systems, network controllers are likely to be plagued by bugs that must be discovered and fixed. While discovering these bugs is often hard, fixing them is even harder. As network controllers are critical entity, they cannot simply be “rebooted”, they must run at all time to ensure smooth and continuous network operations. As such, network controllers need also to be upgraded on-the-fly."
+    [[languages.en.params.about]]
+      content = "Our group is involved in verifying that network controllers are correct through static and dynamic analysis. We are also studying how we can make network controller “hot-swappable”, enabling controllers to be upgraded at runtime without creating any disruption."
 
     [[languages.en.menu.main]]
         name = "About"
@@ -61,11 +60,10 @@ Our group is involved in verifying that network controllers are correct through 
       homepage.social.title = "联系我们团队"
       homepage.social.description = "如果你对我们 NetVerify 团队感兴趣，欢迎联系我们！"
 
-      about = """
-测试Network controllers are complex software systems that must simultaneously implement a wide range of policies and services on top of a highly asynchronous environment (the network). As any complex software systems, network controllers are likely to be plagued by bugs that must be discovered and fixed. While discovering these bugs is often hard, fixing them is even harder. As network controllers are critical entity, they cannot simply be “rebooted”, they must run at all time to ensure smooth and continuous network operations. As such, network controllers need also to be upgraded on-the-fly.
-<br>
-Our group is involved in verifying that network controllers are correct through static and dynamic analysis. We are also studying how we can make network controller “hot-swappable”, enabling controllers to be upgraded at runtime without creating any disruption.
-      """
+    [[languages.zh.params.about]]
+      content = "测试 Network controllers are complex software systems that must simultaneously implement a wide range of policies and services on top of a highly asynchronous environment (the network). As any complex software systems, network controllers are likely to be plagued by bugs that must be discovered and fixed. While discovering these bugs is often hard, fixing them is even harder. As network controllers are critical entity, they cannot simply be “rebooted”, they must run at all time to ensure smooth and continuous network operations. As such, network controllers need also to be upgraded on-the-fly."
+    [[languages.zh.params.about]]
+      content = "测试2 Our group is involved in verifying that network controllers are correct through static and dynamic analysis. We are also studying how we can make network controller “hot-swappable”, enabling controllers to be upgraded at runtime without creating any disruption."
 
     [[languages.zh.menu.main]]
         name = "实验室介绍"
@@ -98,13 +96,6 @@ Our group is involved in verifying that network controllers are correct through 
   src = "/group2.jpeg"
 [[params.introImages]]
   src = "/group3.jpeg"
-
-[params.mentor]
-  title = 'Peng Zhang (张鹏)'
-  name_en = 'Peng Zhang'
-  name_cn = '张鹏'
-  url = 'https://gr.xjtu.edu.cn/en/web/p-zhang/home'
-  photo = "https://gr.xjtu.edu.cn/documents/1748990/0/%E5%AD%A6%E9%99%A2%E5%B1%95%E6%9D%BF.jpg/871f8399-0555-f8a6-2f6a-e8a263cd1ebc?t=1682773340329"
 
 [params]
   defaultContentLanguage = "en"

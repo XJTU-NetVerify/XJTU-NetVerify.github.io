@@ -39,7 +39,7 @@ github = 'heroinedd'
         url = 'https://gr.xjtu.edu.cn/en/web/p-zhang'
     [[paper.author]]
         name = 'Dan Wang'
-        url = 'danw'
+        url = 'wangdan'
     [[paper.author]]
         name = 'Aaron Gember-Jacobson'
         url = 'https://aaron.gember-jacobson.com'
@@ -49,7 +49,7 @@ github = 'heroinedd'
     publisher = "Proceedings of ACM SIGCOMM'24"
     [[paper.author]]
         name = 'Dan Wang'
-        url = 'danw'
+        url = 'wangdan'
     [[paper.author]]
         name = 'Peng Zhang'
         url = 'https://gr.xjtu.edu.cn/en/web/p-zhang'
