@@ -15,7 +15,7 @@ email = 'dan-wang@stu.xjtu.edu.cn'
 github = 'heroinedd'
 
 [[introduction]]
-    content = "I am a Phd student in the ANTS group (Xi'an Jiaotong University) led by prof.Peng Zhang. My research topics of interest include network control plane verification. Specifically, I'm have published papers working on deterministic/probabilistic failure tolerance analyzing (SRE, SIGCOMM2022), external route reasoning (Expresso, SIGCOMM2024), and now working distributed control plane simulation."
+    content = "I am a Phd student in the ANTS lab (Xi'an Jiaotong University) led by prof.Peng Zhang. My research topics of interest include network control plane verification. Specifically, I have published papers working on deterministic/probabilistic failure tolerance analyzing (SRE, SIGCOMM2022), external route reasoning (Expresso, SIGCOMM2024), and now I am working distributed control plane simulation."
 
 [[education]]
     school = "Xi'an Jiaotong University"
@@ -25,7 +25,7 @@ github = 'heroinedd'
 [[education]]
     school = "Xi'an Jiaotong University"
     degree = 'Bachelor Degree'
-    work = 'Network control plane verification, including external route induced property violations, and distributed control plane simulatio.'
+    work = 'Network control plane verification, including external route induced property violations, and distributed control plane simulation.'
     time = '2017.9 - 2021.6'
 
 [[paper]]
