@@ -1221,6 +1221,9 @@ a.page-link {
 .max-w-screen-lg {
   max-width: 1024px;
 }
+.max-w-screen-md {
+  max-width: 768px;
+}
 .flex-1 {
   flex: 1 1 0%;
 }
@@ -1270,6 +1273,9 @@ a.page-link {
 }
 .justify-between {
   justify-content: space-between;
+}
+.justify-around {
+  justify-content: space-around;
 }
 .gap-2 {
   gap: 0.5rem;

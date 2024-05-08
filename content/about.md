@@ -4,20 +4,10 @@ date = 2024-04-28T14:45:43+08:00
 draft = false
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+We are a research lab led by Prof. Peng Zhang, focusing on Network Verification. Network verfication is an exciting new direction in computer network: it leverages formal methods, together with simulation/emulation to ensure the correctness of large and complex computer networks, e.g., datacenter networks, and wide area networks.
 
-Hugo makes use of a variety of open source projects including:
+Our lab has been working in network verifiction ever since 2015, with the work of VeriDP (CoNEXT'16). Then, we proposed data plane verifiers APKeep (NSDI'20) and MNV (CoNEXT'23). The current research focuse is control plane verification, with preliminary work like DNA (NSDI'22), SRE (SIGCOMM'22), and Expresso (SIGCOMM'24). Some of the work are already open sourced.
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+The research group belongs to Academician Xiaohong Guan's team, and its main research directions include: future Internet, data center network; trying to mine real problems from real scenarios to improve the stability and security of China's network infrastructure; publishing academic papers with international influence, and cultivating top talents in the field of network systems.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Undergraduate students who are interested in the field of systems and have self-driven are welcome to join the research group.
