@@ -33,5 +33,5 @@ github = 'Mayflyyh'
 
 [[award]]
     title = '2021 International Collegial Programming Contest'
-    award = 'Gold Award, Asia Jinan Regional Contest'
+    award = 'Gold Medal, Asia Jinan Regional Contest'
 +++

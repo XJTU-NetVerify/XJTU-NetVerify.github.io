@@ -27,12 +27,14 @@ github = '916267142'
     degree = 'Ph.D Degree'
     work =  'Network control plane verification / Network intent mining'
     gpa = '87.7 / 3.52'
+    time = '2019.9 - now'
 
 [[education]]
     school = "Chang'an University"
     degree = 'Bachelor Degree'
     rank = '3 / 60'
     work = 'Indoor positioning / Network data plane verification'
+    time = '2015.9 - 2019.6'
 
 [[award]]
     title = "Outstanding Graduate Student"

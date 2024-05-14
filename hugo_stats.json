@@ -50,7 +50,6 @@
       "capitalize",
       "container",
       "cursor-pointer",
-      "dark:bg-gray-700",
       "dark:bg-gray-800",
       "dark:bg-gray-900",
       "dark:hover:border-gray-300",

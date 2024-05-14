@@ -31,13 +31,14 @@ github = 'endaytrer'
     rank = '3/37'
     gpa = '4.00/4.3'
     averagescore = '92.1'
+    time = '2020.9 - 2024.6'
 [[education]]
     school = 'University of Wisconsin-Madison'
     degree = 'Visiting International Student Program (VISP), Computer Science Thematic Track'
 
 [[award]]
     title = '2021 International Collegial Programming Contest'
-    award = 'Bronze Award, Asia Jinan Regional Contest (Ranked 108th / 726)'
+    award = 'Bronze Medal, Asia Jinan Regional Contest (Ranked 108th / 726)'
 
 [[award]]
     title = '12th “Lanqiao” Cup National Software and Information Technology Contest'
