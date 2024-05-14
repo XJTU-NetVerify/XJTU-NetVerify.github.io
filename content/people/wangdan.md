@@ -15,8 +15,7 @@ email = 'dan-wang@stu.xjtu.edu.cn'
 github = 'heroinedd'
 
 [[introduction]]
-    content = "I am a PhD student in the NetVerify lab, ANTS, Xi'an Jiaotong University, 
-    supervised by prof.Peng Zhang. My research topics of interest include network control plane verification. Specifically, I have proposed symbolic router execution which can reason about network failures (SRE, SIGCOMM '22), and external routes (Expresso, SIGCOMM '24).
+    content = "I am a PhD student in the NetVerify lab, ANTS, Xi'an Jiaotong University, supervised by prof.Peng Zhang. My research topics of interest include network control plane verification. Specifically, I have proposed symbolic router execution which can reason about network failures (SRE, SIGCOMM '22), and external routes (Expresso, SIGCOMM '24).
 
 [[education]]
     school = "Xi'an Jiaotong University"
