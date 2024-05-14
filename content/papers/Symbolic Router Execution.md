@@ -1,0 +1,29 @@
++++
+title = 'Symbolic Router Execution'
+date = 2024
+type = 'paper'
+layout = 'paper'
+draft = false
+
+bibtex = """@inproceedings{zhang2022symbolic,
+  title={Symbolic router execution},
+  author={Zhang, Peng and Wang, Dan and Gember-Jacobson, Aaron},
+  booktitle={Proceedings of the ACM SIGCOMM 2022 Conference},
+  pages={336--349},
+  year={2022}
+}"""
+publisher = "Proceedings of ACM SIGCOMM'22"
+ccfa = true
+pdf = 'https://dl.acm.org/doi/abs/10.1145/3544216.3544264'
+slide = 'https://aaron.gember-jacobson.com/docs/sigcomm2022sre_slides.pdf'
+video = 'https://www.youtube.com/embed/1rHItyAY4RE?si=V0ZQ67LENdvBQf6N'
+[[paper.author]]
+    name = 'Peng Zhang'
+    id = 'zhangpeng'
+[[paper.author]]
+    name = 'Dan Wang'
+    id = 'wangdan'
+[[paper.author]]
+    name = 'Aaron Gember-Jacobson'
+    url = 'https://aaron.gember-jacobson.com'
++++

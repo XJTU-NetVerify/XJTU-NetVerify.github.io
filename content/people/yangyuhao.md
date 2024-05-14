@@ -6,10 +6,11 @@ draft = false
 type = 'people'
 layout = 'people'
 
+name = 'yangyuhao'
 name_cn = '杨雨豪'
 name_en = 'Yuhao Yang'
 degree = 'Undergraduate, Senior Student'
-image = '/yyh.jpg'
+image = '/people/yangyuhao/photo.jpg'
 
 email = 'yhyang201@gmail.com'
 github = 'Mayflyyh'
@@ -21,6 +22,11 @@ github = 'Mayflyyh'
     school = "Sichuan University"
     degree = 'Bachelor Degree'
     time = '2020.9 - 2024.6'
+
+[[practice]]
+    enterprise = 'Tencent'
+    work = 'WXG'
+    time = '2023.6-2023.8'
 
 [[award]]
     title = '2023 National ScholarShip'

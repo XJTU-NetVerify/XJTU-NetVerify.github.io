@@ -1,15 +1,16 @@
 +++
-title = 'Charlie (康宁)'
-date = 2024-04-30T14:27:08+08:00
+title = 'Ning Kang (康宁)'
+date = 2019-04-30T14:27:08+08:00
 draft = false
 
 type = 'people'
 layout = 'people'
 
+name = "kangning"
 name_cn = '康宁'
-name_en = 'Charlie'
+name_en = 'Ning Kang'
 degree = 'Ph.D Student'
-image = '/kn.jpg'
+image = '/people/kangning/photo.jpg'
 
 email = 'kangning2018@foxmail.com'
 github = '916267142'
@@ -32,56 +33,6 @@ github = '916267142'
     degree = 'Bachelor Degree'
     rank = '3 / 60'
     work = 'Indoor positioning / Network data plane verification'
-
-[[paper]]
-    title = 'Network Specification Mining with High Fidelity and Scalability'
-    publisher = "Proceedings of IEEE ICNP'23"
-    pdf = 'https://ieeexplore.ieee.org/abstract/document/10355598'
-    slide = '/NetMiner_ICNP_10_10.pdf'
-    [[paper.author]]
-        name = 'Ning Kang'
-        url = "/kangning"
-    [[paper.author]]
-        name = 'Peng Zhang'
-        url = 'https://gr.xjtu.edu.cn/en/web/p-zhang'
-    [[paper.author]]
-        name = 'Hao Li'
-        url = "https://gr.xjtu.edu.cn/en/web/hao.li"
-    [[paper.author]]
-        name = 'Sisi Wen'
-        url = "/"
-    [[paper.author]]
-        name = 'Chaoyang Ji'
-        url = "/"
-    [[paper.author]]
-        name = 'Yongqiang Yang'
-        url = "/"
-
-[[paper]]
-    title = 'APKeep: Realtime Verification for Real Networks'
-    publisher = "Proceedings of USENIX NSDI'20"
-    pdf = 'https://www.usenix.org/system/files/nsdi20-paper-zhang-peng.pdf'
-    slide = 'https://www.usenix.org/sites/default/files/conference/protected-files/nsdi20_slides_zhang_1.pdf'
-    video = 'https://www.usenix.org/conference/nsdi20/presentation/zhang-peng'
-    web = 'https://www.usenix.org/conference/nsdi20/presentation/zhang-peng'
-    [[paper.author]]
-        name = 'Peng Zhang'
-        url = 'https://gr.xjtu.edu.cn/en/web/p-zhang'
-    [[paper.author]]
-        name = 'Xu Liu'
-        url = 'liuxu'
-    [[paper.author]]
-        name = 'Hongkun Yang'
-        url = "/"
-    [[paper.author]]
-        name = 'Ning Kang'
-        url = "/kangning"
-    [[paper.author]]
-        name = 'Zhengchang Gu'
-        url = "/"
-    [[paper.author]]
-        name = 'Hao Li'
-        url = "https://gr.xjtu.edu.cn/en/web/hao.li"
 
 [[award]]
     title = "Outstanding Graduate Student"

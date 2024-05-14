@@ -1,15 +1,16 @@
 +++
-title = 'Daniel (顾真榕)'
+title = 'Zhenrong Gu (顾真榕)'
 date = 2024-04-30T14:27:08+08:00
 draft = false
 
 type = 'people'
 layout = 'people'
 
+name = 'guzhenrong'
 name_cn = '顾真榕'
-name_en = 'Zhenrong (Daniel) Gu'
+name_en = 'Zhenrong Gu'
 degree = 'Undergraduate, Senior Student'
-image = '/zrgu.png'
+image = '/people/guzhenrong/photo.png'
 
 email = 'endaytrer@gmail.com'
 github = 'endaytrer'

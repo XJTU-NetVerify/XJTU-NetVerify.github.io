@@ -1,15 +1,16 @@
 +++
-title = 'Augists (张亦弛)'
-date = 2024-04-30T14:27:08+08:00
+title = 'Yichi Zhang (张亦弛)'
+date = 2023-04-30T14:27:08+08:00
 draft = false
 
 type = 'people'
 layout = 'people'
 
+name = 'zhangyichi'
 name_cn = '张亦弛'
-name_en = 'Augists'
+name_en = 'Yichi Zhang'
 degree = 'Master Student'
-image = '/zyc.jpg'
+image = '/people/zhangyichi/photo.jpg'
 
 email = 'augists@duck.com'
 github = 'Augists'
@@ -27,10 +28,17 @@ github = 'Augists'
     school = "Xi'an Jiaotong University"
     degree = 'Master Degree'
     work = 'Network Verification Tools'
+    time = '2023.9 - now'
 [[education]]
     school = 'Dalian University of Technology'
     degree = 'Bachelor Degree'
     work = 'Human Activity Detection by Wi-Fi / Leader of NAOSI'
+    time = '2019.9 - 2023.6'
+
+[[practice]]
+    enterprise = 'Hisense - Qingdao HiStone Intelligent Commercial System Co. Ltd (HICS)'
+    work = 'Developer'
+    time = '2022.1 - 2022.2'
 
 [[award]]
     title = 'BMW China Hackathon'

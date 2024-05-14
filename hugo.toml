@@ -39,8 +39,8 @@ languageCode = 'en-us'
 
     [[languages.en.menu.main]]
         name = "Publications"
-        # url = "publications"
-        url = "https://gr.xjtu.edu.cn/en/web/p-zhang/publication"
+        url = "papers"
+        # url = "https://gr.xjtu.edu.cn/en/web/p-zhang/publication"
         weight = 3
 
     [[languages.en.menu.main]]
@@ -84,20 +84,20 @@ languageCode = 'en-us'
         url = "zh/about"
         weight = 1
 
-    [[languages.zh.menu.main]]
-        name = "团队成员"
-        url = "zh/people"
-        weight = 2
-
-    [[languages.zh.menu.main]]
-        name = "论文发表"
-        url = "https://gr.xjtu.edu.cn/en/web/p-zhang/publication"
-        weight = 3
-
-    [[languages.zh.menu.main]]
-        name = "课程信息"
-        url = "zh/courses"
-        weight = 4
+    # [[languages.zh.menu.main]]
+    #     name = "团队成员"
+    #     url = "zh/people"
+    #     weight = 2
+    #
+    # [[languages.zh.menu.main]]
+    #     name = "论文发表"
+    #     url = "https://gr.xjtu.edu.cn/en/web/p-zhang/publication"
+    #     weight = 3
+    #
+    # [[languages.zh.menu.main]]
+    #     name = "课程信息"
+    #     url = "zh/courses"
+    #     weight = 4
 
     # [[languages.zh.menu.main]]
     #     name = "博客"

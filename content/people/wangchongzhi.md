@@ -1,15 +1,16 @@
 +++
 title = 'Chongzhi Wang (王崇智)'
-date = 2024-04-30T14:27:08+08:00
+date = 2021-04-30T14:27:08+08:00
 draft = false
 
 type = 'people'
 layout = 'people'
 
+name = 'wangchongzhi'
 name_cn = '王崇智'
 name_en = 'Chongzhi Wang'
 degree = 'Master Student'
-image = '/wcz.jpg'
+image = '/people/wangchongzhi/photo.jpg'
 
 email = 'chongzhiw@163.com'
 github = 'chris3will'
@@ -24,10 +25,17 @@ github = 'chris3will'
     school = "Xi'an Jiaotong University"
     degree = 'Master Degree'
     work = 'Machine Learning-Based Algorithms for Network Traffic Forecasting and Anomaly Detection'
+    time = '2021.6 - now'
 [[education]]
     school = 'Sichuan University'
     degree = 'Bachelor Degree'
     work = 'A Design and Realization of Automated Network Synthesis Method'
+    time = '2017.9 - 2021.6'
+
+[[practice]]
+    enterprise = '招银网络科技（深圳）有限公司'
+    work = 'Backend Development'
+    time = '2023.6-2023.8'
 
 [[award]]
     title = 'National College Students Innovation and Entrepreneurship Training Program'
@@ -65,4 +73,7 @@ github = 'chris3will'
     website = 'blog'
     url = 'https://chris3will.github.io'
     title = 'chris3will’s homepage | recording what I did and will do, maybe.'
+[[social]]
+    website = 'bilibili'
+    url = 'https://space.bilibili.com/249125856'
 +++
