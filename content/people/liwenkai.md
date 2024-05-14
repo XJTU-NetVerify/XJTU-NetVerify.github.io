@@ -8,30 +8,30 @@ layout = 'people'
 
 name_cn = '李文凯'
 name_en = 'Wenkai Li'
-degree = 'Undergraduate, Senior Student'
+degree = 'Undergraduate (Senior year)'
 image = '/lwk.jpg'
 
 email = 'tartar2002@gmail.com'
 github = 'tuchendis'
 
 [[introduction]] 
-    content = "I'm a undergraduate student at LZU. I'm working on distributed dataplane verification."
+    content = "I'm currently a undergraduate student at Lanzhou University, and will join in the NetVerify lab on Sept. 2024. My research focus is dataplane verification."
 
 [[education]] 
     school = "Lanzhou University" 
     degree = 'Bachelor Degree'
-    work = 'Distributed Dataplane Verification' 
+    work = 'Dataplane Verification' 
     time = '2020.9 - 2024.6'
 
 [[award]] 
-    title = '2023 International Collegial Programming Contest'
-    award = "Gold Award, Asia Xi'an Regional Contest"
+    title = 'The 2023 International Collegial Programming Contest (ICPC)'
+    award = "Gold Medal, Asia Xi'an Regional Contest"
 
 [[award]] 
-    title = '2022 International Collegial Programming Contest'
-    award = "Gold Award, Asia Shenyang Regional Contest"
+    title = 'The 2022 International Collegial Programming Contest (ICPC)'
+    award = "Gold Medal, Asia Shenyang Regional Contest"
 
 [[award]] 
-    title = '2021 International Collegial Programming Contest'
-    award = "Silver Award, Asia-East Continent Final Contest"
+    title = 'The 2021 International Collegial Programming Contest'
+    award = "Silver Medal, Asia-East Continent Final Contest"
 +++
