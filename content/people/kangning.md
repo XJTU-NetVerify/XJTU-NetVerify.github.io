@@ -41,15 +41,28 @@ github = '916267142'
     work = 'Network intent mining'
     time = '2022.6 - 2022.10'
 
+    enterprise = 'Newegg.'
+    work = 'Team communication software development'
+    time = '2018.9 - 2018.12'
+
 [[award]]
     title = "Outstanding Graduate Student"
     award = "Xi'an Jiaotong University, 2019"
 
 [[award]]
     title = 'The 2018 International Collegial Programming Contest (ICPC)'
-    award = 'Sliver Medal, 2018'
+    award = 'Bronze Medal, Asia Shang'hai Regional Contest'
 
 [[award]]
     title = 'Internet Plus College Students Innovation and Entrepreneurship Competition'
     award = 'National Second Prize, 2017'
+
+[[award]]
+    title = 'National Scholarships for Master's Degree Students, 2029'
+
+[[award]]
+    title = 'National Scholarships for Bachelor's Degree Students, 2016'
+    
+[[award]]
+    title = 'National Scholarships for Bachelor's Degree Students, 2015'
 +++
