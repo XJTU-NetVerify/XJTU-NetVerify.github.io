@@ -58,11 +58,11 @@ github = '916267142'
     award = 'Silver Medal, 2017'
 
 [[award]]
-    title = 'National Scholarships for Master's Degree Students, 2019'
+    title = "National Scholarships for Master's Degree Students, 2019"
 
 [[award]]
-    title = 'National Scholarships for Bachelor's Degree Students, 2016'
+    title = "National Scholarships for Bachelor's Degree Students, 2016"
     
 [[award]]
-    title = 'National Scholarships for Bachelor's Degree Students, 2015'
+    title = "National Scholarships for Bachelor's Degree Students, 2015"
 +++
