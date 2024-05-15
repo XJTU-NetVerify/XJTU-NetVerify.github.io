@@ -21,7 +21,6 @@ github = '916267142'
 [[introduction]]
     content = "My previous research primarily focused on network data plane verification (APKeep, NSDI20) and network intent mining (NeMiner, ICNP23). Currently, I am working on improve the scalability of formal network control plane verification based on SMT solvers."
 
-
 [[education]]
     school = "Xi'an Jiaotong University"
     degree = 'Ph.D Degree'
@@ -43,7 +42,7 @@ github = '916267142'
     
 [[practice]]
     enterprise = 'Newegg.'
-    work = 'Team communication software development'
+    work = 'Team Communication Software Development'
     time = '2018.9 - 2018.12'
 
 [[award]]
@@ -56,10 +55,10 @@ github = '916267142'
 
 [[award]]
     title = 'Internet Plus College Students Innovation and Entrepreneurship Competition'
-    award = 'National Second Prize, 2017'
+    award = 'Silver Medal, 2017'
 
 [[award]]
-    title = 'National Scholarships for Master's Degree Students, 2029'
+    title = 'National Scholarships for Master's Degree Students, 2019'
 
 [[award]]
     title = 'National Scholarships for Bachelor's Degree Students, 2016'
