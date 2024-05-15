@@ -163,11 +163,14 @@ languageCode = 'en-us'
   # Add support for Table of contents
   # Can be added to a page level also in markdown frontmatter
   toc = true
+  tocOpen = true
 
   # Hides the thumbnail in post view
   # Thumbnails in home and blog pages will still be shown
   # This setting can also be in page's markdown file
   hidePageThumbnail = false
+
+  joinus = true
 
 [params.homepage.social]
   # Global params common for both languages

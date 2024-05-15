@@ -20,7 +20,7 @@ layout = 'peopleList'
   name = "Yuhao Huang (黄宇浩)"
   work = "Ant Group"
 [[Alumni]]
-  name = "Yueshang Zuo (左越尚)"
+  name = "Yueshang Zuo (左岳尚)"
   work = "Alibaba Cloud"
 [[Alumni]]
   name = "Yuxiao Liu (刘雨潇)"
