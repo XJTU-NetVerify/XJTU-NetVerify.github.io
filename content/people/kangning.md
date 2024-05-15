@@ -36,13 +36,18 @@ github = '916267142'
     work = 'Indoor positioning / Network data plane verification'
     time = '2015.9 - 2019.6'
 
+[[practice]]
+    enterprise = 'Huawei Cloud Computing Technologies Co., Ltd.'
+    work = 'Network intent mining'
+    time = '2022.6 - 2022.10'
+
 [[award]]
     title = "Outstanding Graduate Student"
     award = "Xi'an Jiaotong University, 2019"
 
 [[award]]
-    title = 'Mathematical Modeling'
-    award = 'National Second Prize, 2018'
+    title = 'The 2018 International Collegial Programming Contest (ICPC)'
+    award = 'Sliver Medal, 2018'
 
 [[award]]
     title = 'Internet Plus College Students Innovation and Entrepreneurship Competition'

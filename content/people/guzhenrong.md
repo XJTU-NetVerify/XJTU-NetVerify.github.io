@@ -37,7 +37,7 @@ github = 'endaytrer'
     degree = 'Visiting International Student Program (VISP), Computer Science Thematic Track'
 
 [[award]]
-    title = '2021 International Collegial Programming Contest'
+    title = 'The 2021 International Collegial Programming Contest (ICPC)'
     award = 'Bronze Medal, Asia Jinan Regional Contest (Ranked 108th / 726)'
 
 [[award]]

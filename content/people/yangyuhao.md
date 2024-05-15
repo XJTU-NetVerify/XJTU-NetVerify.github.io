@@ -32,6 +32,6 @@ github = 'Mayflyyh'
     title = '2023 National ScholarShip'
 
 [[award]]
-    title = '2021 International Collegial Programming Contest'
+    title = 'The 2021 International Collegial Programming Contest (ICPC)'
     award = 'Gold Medal, Asia Jinan Regional Contest'
 +++
