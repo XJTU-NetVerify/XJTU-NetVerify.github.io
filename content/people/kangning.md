@@ -40,7 +40,8 @@ github = '916267142'
     enterprise = 'Huawei Cloud Computing Technologies Co., Ltd.'
     work = 'Network intent mining'
     time = '2022.6 - 2022.10'
-
+    
+[[practice]]
     enterprise = 'Newegg.'
     work = 'Team communication software development'
     time = '2018.9 - 2018.12'
