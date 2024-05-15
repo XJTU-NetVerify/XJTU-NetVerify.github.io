@@ -51,7 +51,7 @@ github = '916267142'
 
 [[award]]
     title = 'The 2018 International Collegial Programming Contest (ICPC)'
-    award = 'Bronze Medal, Asia Shang'hai Regional Contest'
+    award = "Bronze Medal, Asia Shang'hai Regional Contest"
 
 [[award]]
     title = 'Internet Plus College Students Innovation and Entrepreneurship Competition'
