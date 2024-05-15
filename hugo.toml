@@ -105,11 +105,9 @@ languageCode = 'en-us'
     #     weight = 5
 
 [[params.introImages]]
-  src = "/group.jpeg"
+  src = "/intro/group.jpeg"
 [[params.introImages]]
-  src = "/group2.jpeg"
-[[params.introImages]]
-  src = "/group3.jpeg"
+  src = "/intro/group2.jpg"
 
 [params]
   defaultContentLanguage = "en"

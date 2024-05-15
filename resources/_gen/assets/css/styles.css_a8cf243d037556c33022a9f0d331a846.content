@@ -1557,6 +1557,12 @@ a.page-link {
 .button-4:-webkit-details-marker {
   display: none;
 }
+.prose a {
+  text-decoration-style: dotted;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+  text-decoration-color: #d4d4d8;
+}
 .dark\:prose-invert:is(.dark *) {
   --tw-prose-body: var(--tw-prose-invert-body);
   --tw-prose-headings: var(--tw-prose-invert-headings);

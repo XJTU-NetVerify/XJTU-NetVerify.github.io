@@ -50,4 +50,7 @@ github = 'Augists'
 [[social]]
     website = 'telegram'
     url = 'https://t.me/Augists'
+[[social]]
+    website = 'bilibili'
+    url = 'https://space.bilibili.com/484868244'
 +++

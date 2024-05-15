@@ -9,7 +9,7 @@ layout = 'people'
 name = 'guzhenrong'
 name_cn = '顾真榕'
 name_en = 'Zhenrong Gu'
-degree = 'Undergraduate, Senior Student'
+degree = 'Undergraduate (Senior Year)'
 image = '/people/guzhenrong/photo.png'
 
 email = 'endaytrer@gmail.com'

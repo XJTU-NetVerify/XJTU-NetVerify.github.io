@@ -9,7 +9,7 @@ layout = 'people'
 name = "liwenkai"
 name_cn = '李文凯'
 name_en = 'Wenkai Li'
-degree = 'Undergraduate (Senior year)'
+degree = 'Undergraduate (Senior Year)'
 image = '/people/liwenkai/photo.jpg'
 
 email = 'tartar2002@gmail.com'

@@ -37,7 +37,7 @@ github = '916267142'
 
 [[practice]]
     enterprise = 'Huawei Cloud Computing Technologies Co., Ltd.'
-    work = 'Network intent mining'
+    work = 'Network Intent Mining'
     time = '2022.6 - 2022.10'
     
 [[practice]]

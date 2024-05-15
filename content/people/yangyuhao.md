@@ -9,7 +9,7 @@ layout = 'people'
 name = 'yangyuhao'
 name_cn = '杨雨豪'
 name_en = 'Yuhao Yang'
-degree = 'Undergraduate, Senior Student'
+degree = 'Undergraduate (Senior Year)'
 image = '/people/yangyuhao/photo.jpg'
 
 email = 'yhyang201@gmail.com'
