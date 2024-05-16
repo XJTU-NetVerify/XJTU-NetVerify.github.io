@@ -48,6 +48,11 @@ languageCode = 'en-us'
         url = "courses"
         weight = 4
 
+    [[languages.en.menu.main]]
+        name = "Join us"
+        url = "joinus"
+        weight = 5
+
   [languages.zh]
     contentDir = "content"
     weight = 2

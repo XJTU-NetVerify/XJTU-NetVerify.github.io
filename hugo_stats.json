@@ -36,6 +36,7 @@
       "section",
       "span",
       "stop",
+      "strong",
       "summary",
       "svg",
       "title",
@@ -52,9 +53,12 @@
       "border-transparent",
       "bottom-44",
       "button-4",
+      "button-light",
       "capitalize",
       "container",
       "cursor-pointer",
+      "dark:bg-gray-200",
+      "dark:bg-gray-600",
       "dark:bg-gray-700",
       "dark:bg-gray-800",
       "dark:bg-gray-900",
@@ -202,7 +206,11 @@
       "how-to-contact-us",
       "what-is-our-life-in-netverify",
       "what-is-required-on-you",
-      "why-choose-our-netverify"
+      "why-choose-our-netverify",
+      "为什么选择网络验证组",
+      "如何加入我们",
+      "我们希望你有什么",
+      "我们的日常生活是什么样的"
     ]
   }
 }

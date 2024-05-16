@@ -13,7 +13,6 @@ bibtex = """@article{li2023programming,
   publisher={IEEE}
 }"""
 publisher = "IEEE/ACM Transactions on Networking"
-ccfa = true
 [[paper.author]]
     name = 'Hao Li'
     url = "https://gr.xjtu.edu.cn/en/web/hao.li"

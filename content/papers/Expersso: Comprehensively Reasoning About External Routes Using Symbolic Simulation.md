@@ -8,7 +8,6 @@ draft = false
 bibtex = """
 """
 publisher = "Proceedings of ACM SIGCOMM'24"
-ccfa = true
 [[paper.author]]
     name = 'Dan Wang'
     id = 'wangdan'

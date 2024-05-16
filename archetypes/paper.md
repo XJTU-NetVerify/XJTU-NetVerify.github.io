@@ -8,7 +8,6 @@ draft = false
 bibtex = """
 """
 publisher = ""
-ccfa = true
 pdf = ''
 slide = ''
 video = ''

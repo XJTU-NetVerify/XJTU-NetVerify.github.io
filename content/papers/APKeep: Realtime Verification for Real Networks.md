@@ -18,7 +18,6 @@ bibtex = """@inproceedings {246370,
 }"""
 
 publisher = "Proceedings of USENIX NSDI'20"
-ccfa = true
 pdf = 'https://www.usenix.org/system/files/nsdi20-paper-zhang-peng.pdf'
 slide = 'https://www.usenix.org/sites/default/files/conference/protected-files/nsdi20_slides_zhang_1.pdf'
 video = 'https://www.youtube.com/embed/SHDVeGM4h8E?si=PREHXlJwmek1ji2B'

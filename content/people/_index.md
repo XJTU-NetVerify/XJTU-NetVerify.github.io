@@ -11,7 +11,7 @@ layout = 'peopleList'
   title = 'Peng Zhang (张鹏)'
   degree = 'Professor'
   url = 'mentor/zhangpeng'
-  photo = "https://gr.xjtu.edu.cn/documents/1748990/0/%E5%AD%A6%E9%99%A2%E5%B1%95%E6%9D%BF.jpg/871f8399-0555-f8a6-2f6a-e8a263cd1ebc?t=1682773340329"
+  photo = "/people/zhangpeng/photo.jpg"
 
 [[Alumni]]
   name = "Sisi Wen (文思思)"
