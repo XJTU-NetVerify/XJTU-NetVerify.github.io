@@ -10,7 +10,7 @@ name = 'guzhenrong'
 name_cn = '顾真榕'
 name_en = 'Zhenrong Gu'
 degree = 'Undergraduate (Senior Year)'
-image = '/people/guzhenrong/photo.png'
+image = '/people/guzhenrong/photo.jpg'
 
 email = 'endaytrer@gmail.com'
 github = 'endaytrer'
@@ -35,6 +35,7 @@ github = 'endaytrer'
 [[education]]
     school = 'University of Wisconsin-Madison'
     degree = 'Visiting International Student Program (VISP), Computer Science Thematic Track'
+    time = '2022.9 - 2022.12'
 
 [[award]]
     title = 'The 2021 International Collegial Programming Contest (ICPC)'
