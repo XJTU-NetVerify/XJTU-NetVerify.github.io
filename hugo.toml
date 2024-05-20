@@ -12,7 +12,8 @@ languageCode = 'en-us'
       introTitle = "NetVerify Lab - Network Verification"
       introSubtitle = "@ ANTS (<b>A</b>dvanced <b>N</b>e<b>T</b>worked <b>S</b>ystem) Group in XJTU (<b>X</b>i'an <b>J</b>iao<b>t</b>ong <b>U</b>niversity)"
       logo = "/logo-square-remake.png"
-
+      altLogo = "/ants-logo.png"
+      teamLogo = "/netverify.png"
       news = "News"
 
     [[languages.en.params.about]]
@@ -32,16 +33,17 @@ languageCode = 'en-us'
         url = "about"
         weight = 1
 
+
     [[languages.en.menu.main]]
         name = "People"
         url = "people"
-        weight = 2
+        weight = 3
 
     [[languages.en.menu.main]]
         name = "Publications"
         url = "papers"
         # url = "https://gr.xjtu.edu.cn/en/web/p-zhang/publication"
-        weight = 3
+        weight = 4
 
     # [[languages.en.menu.main]]
     #     name = "Courses"
