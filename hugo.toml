@@ -33,25 +33,30 @@ languageCode = 'en-us'
         weight = 1
 
     [[languages.en.menu.main]]
+        name = "Research"
+        url = "research"
+        weight = 2
+
+    [[languages.en.menu.main]]
         name = "People"
         url = "people"
-        weight = 2
+        weight = 3
 
     [[languages.en.menu.main]]
         name = "Publications"
         url = "papers"
         # url = "https://gr.xjtu.edu.cn/en/web/p-zhang/publication"
-        weight = 3
+        weight = 4
 
     [[languages.en.menu.main]]
         name = "Courses"
         url = "courses"
-        weight = 4
+        weight = 5
 
     [[languages.en.menu.main]]
         name = "Join us"
         url = "joinus"
-        weight = 5
+        weight = 6
 
   [languages.zh]
     contentDir = "content"
