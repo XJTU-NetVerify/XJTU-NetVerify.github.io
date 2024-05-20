@@ -12,7 +12,8 @@ languageCode = 'en-us'
       introTitle = "NetVerify Group - Network Verification"
       introSubtitle = "@ ANTS (<b>A</b>dvanced <b>N</b>etwork <b>T</b>echnology & <b>S</b>ystem) Lab in XJTU (<b>X</b>i'an <b>J</b>iao<b>t</b>ong <b>U</b>niversity)"
       logo = "/logo-square-remake.png"
-
+      altLogo = "/ants-logo.png"
+      teamLogo = "/netverify.png"
       news = "News"
 
     [[languages.en.params.about]]
@@ -32,10 +33,6 @@ languageCode = 'en-us'
         url = "about"
         weight = 1
 
-    [[languages.en.menu.main]]
-        name = "Research"
-        url = "research"
-        weight = 2
 
     [[languages.en.menu.main]]
         name = "People"
