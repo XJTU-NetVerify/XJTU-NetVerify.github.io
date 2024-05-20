@@ -7,12 +7,14 @@ draft = false
 
 bibtex = """
 """
+doi=""
 publisher = ""
 pdf = ''
 slide = ''
 video = ''
 poster = ''
 code = ''
+web = ''
 [[paper.author]]
     name = ''
     id = ""
