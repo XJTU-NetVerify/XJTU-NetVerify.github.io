@@ -18,8 +18,6 @@
 │   └── people
 └── themes
     └── blist
-
-166 directories
 ```
 
 * `archetypes`: template
@@ -42,3 +40,14 @@ runs on [localhost:1313](http://localhost:1313)
 
 * use parameter `--disableFastRender` if needed
 * cause it needs to convert and generate labels, you can restart the server if new class ([tailwind css](https://tailwindcss.com/docs)) or style makes no effect
+
+## GitHub Actions
+
+Now the project is powered by GitHub Actions. Check `.github/workflows/gh-pages.yml`
+
+1. Setup Hugo with version 0.125.4 (same as development environment)
+2. Setup Node.js and NPM with version 20
+3. Download packages
+4. `hugo` (`--minify`) for deployment 
+    * **replace baseurl in `hugo.toml`**
+    * deploy on branch `gh-pages` (for GitHub Pages)
