@@ -43,11 +43,11 @@ languageCode = 'en-us'
         # url = "https://gr.xjtu.edu.cn/en/web/p-zhang/publication"
         weight = 3
 
-    [[languages.en.menu.main]]
-        name = "Courses"
-        url = "courses"
-        weight = 4
-
+    # [[languages.en.menu.main]]
+    #     name = "Courses"
+    #     url = "courses"
+    #     weight = 4
+    #
     [[languages.en.menu.main]]
         name = "Join us"
         url = "joinus"

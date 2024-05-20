@@ -10,7 +10,7 @@ layout = 'peopleList'
 [leader]
   title = 'Peng Zhang (张鹏)'
   degree = 'Professor'
-  url = 'mentor/zhangpeng'
+  url = 'zhangpeng'
   photo = "/people/zhangpeng/photo.jpg"
 
 [[Alumni]]

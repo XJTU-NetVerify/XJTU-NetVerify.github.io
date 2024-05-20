@@ -54,23 +54,17 @@ github = 'pzhang101'
     time = '2004.9 - 2008.6'
 
 [[award]]
-    title = '国家级青年人才计划'
-    award = '2022'
+    title = '国家级青年人才计划, 2022'
 [[award]]
-    title = 'CCF青年人才托举计划'
-    award = '2017'
+    title = 'CCF青年人才托举计划, 2017'
 [[award]]
-    title = '王宽诚青年学者'
-    award = '2017'
+    title = '王宽诚青年学者, 2017'
 [[award]]
-    title = '清华大学优秀博士毕业生'
-    award = '2013'
+    title = '清华大学优秀博士毕业生, 2013'
 [[award]]
-    title = '清华大学优秀博士论文'
-    award = '2013'
+    title = '清华大学优秀博士论文, 2013'
 [[award]]
-    title = '北京市优秀博士毕业生'
-    award = '2013'
+    title = '北京市优秀博士毕业生, 2013'
 
 [[social]]
     website = 'localtion'
