@@ -25,7 +25,7 @@ github = 'pzhang101'
     
 [[education]]
     school = "Tsinghua University"
-    degree = 'Ph.D in Computer Science'
+    degree = 'Ph.D. in Computer Science'
     time = '2008.9 - 2013.7'
     
 [[education]]
