@@ -7,7 +7,7 @@ draft = false
 
 bibtex = """
 """
-doi=""
+doi = ""
 publisher = ""
 pdf = ''
 slide = ''

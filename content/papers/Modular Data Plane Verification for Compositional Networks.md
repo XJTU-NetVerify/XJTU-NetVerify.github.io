@@ -14,6 +14,7 @@ bibtex = """@article{liu2023modular,
   year={2023},
   publisher={ACM New York, NY, USA}
 }"""
+doi = "10.1145/3629145"
 publisher = "Proceedings of ACM CoNEXT'23"
 web = 'https://dl.acm.org/doi/abs/10.1145/3629145'
 [[paper.author]]
