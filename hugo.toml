@@ -11,9 +11,6 @@ languageCode = 'en-us'
     [languages.en.params]
       introTitle = "NetVerify Lab - Network Verification"
       introSubtitle = "@ ANTS (<b>A</b>dvanced <b>N</b>e<b>T</b>worked <b>S</b>ystem) Group in XJTU (<b>X</b>i'an <b>J</b>iao<b>t</b>ong <b>U</b>niversity)"
-      logo = "/logo-square-remake.png"
-      altLogo = "/ants-logo.png"
-      teamLogo = "/netverify.png"
       news = "News"
 
     [[languages.en.params.about]]
@@ -64,7 +61,6 @@ languageCode = 'en-us'
       description = "网络验证团队"
       introTitle = "网络验证团队 NetVerify Lab - Network Verification"
       introSubtitle = "西安交通大学网络系统组 @ ANTS (<b>A</b>dvanced <b>N</b>etwork <b>T</b>echnology & <b>S</b>ystem) Group in XJTU (<b>X</b>i'an <b>J</b>iao<b>t</b>ong <b>U</b>niversity)"
-      logo = "/logo-square-remake.png"
 
       news = "新闻"
       homepage.social.title = "联系我们团队"
@@ -117,7 +113,20 @@ languageCode = 'en-us'
 [[params.introImages]]
   src = "/intro/group2.jpg"
 
+[[params.logo]]
+  src = "/xjtu.png"
+  url = "http://www.xjtu.edu.cn/"
+[[params.logo]]
+  src = "/logo-square-remake.png"
+  url = "/"
+
 [params]
+  altLogo = "/ants-logo.png"
+  teamLogo = "/netverify.png"
+
+  group = "ANTS"
+  groupUrl = "https://github.com/XJTU-NetVerify"
+
   defaultContentLanguage = "en"
   defaultContentLanguageInSubdir = true
 
