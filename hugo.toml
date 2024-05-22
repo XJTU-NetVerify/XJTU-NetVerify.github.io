@@ -113,9 +113,9 @@ languageCode = 'en-us'
 [[params.introImages]]
   src = "/intro/group2.jpg"
 
-[[params.logo]]
-  src = "/xjtu.png"
-  url = "http://www.xjtu.edu.cn/"
+# [[params.logo]]
+#   src = "/xjtu.png"
+#   url = "http://www.xjtu.edu.cn/"
 [[params.logo]]
   src = "/logo-square-remake.png"
   url = "/"

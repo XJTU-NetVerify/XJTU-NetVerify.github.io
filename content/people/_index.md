@@ -8,12 +8,6 @@ draft = false
 type = 'people'
 layout = 'peopleList'
 
-[leader]
-  title = 'Peng Zhang (张鹏)'
-  degree = 'Professor'
-  url = 'zhangpeng'
-  photo = "/people/zhangpeng/photo.jpg"
-
 [[Alumni]]
   name = "Sisi Wen (文思思)"
   work = "ByteDance"
