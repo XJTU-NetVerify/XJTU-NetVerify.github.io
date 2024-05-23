@@ -29,7 +29,10 @@ languageCode = 'en-us'
         name = "About"
         url = "about"
         weight = 1
-
+    [[languages.en.menu.main]]
+        name = "Research"
+        url = "research"
+        weight = 2
 
     [[languages.en.menu.main]]
         name = "People"
@@ -202,7 +205,7 @@ languageCode = 'en-us'
   [[params.homepage.social.icons]]
     website = "logo"
     src = "/xjtu.png"
-    url = "https://xjtu.edu.cn"
+    url = "https://www.xjtu.edu.cn"
 
 [build]
   writeStats = true
