@@ -9,7 +9,7 @@ languageCode = 'en-us'
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "NetVerify Lab - Network Verification"
+      introTitle = "NetVerify Lab"
       introSubtitle = "@ ANTS (<b>A</b>dvanced <b>N</b>e<b>T</b>worked <b>S</b>ystem) Group in XJTU (<b>X</b>i'an <b>J</b>iao<b>t</b>ong <b>U</b>niversity)"
       news = "News"
 
@@ -59,7 +59,7 @@ languageCode = 'en-us'
     languageName = "Chinese"
     [languages.zh.params]
       description = "网络验证团队"
-      introTitle = "网络验证团队 NetVerify Lab - Network Verification"
+      introTitle = "网络验证团队"
       introSubtitle = "西安交通大学网络系统组 @ ANTS (<b>A</b>dvanced <b>N</b>etwork <b>T</b>echnology & <b>S</b>ystem) Group in XJTU (<b>X</b>i'an <b>J</b>iao<b>t</b>ong <b>U</b>niversity)"
 
       news = "新闻"
@@ -111,23 +111,22 @@ languageCode = 'en-us'
 [[params.introImages]]
   src = "/intro/group.jpeg"
 [[params.introImages]]
-  src = "/intro/group2.jpg"
+  src = "/intro/group2.jpeg"
 [[params.introImages]]
-  src = "/intro/xjtu.jpeg"
+  src = "/intro/group3.jpeg"
 
-# [[params.logo]]
-#   src = "/xjtu.png"
-#   url = "http://www.xjtu.edu.cn/"
 [[params.logo]]
   src = "/logo-square-remake.png"
   url = "/"
+# [[params.logo]]
+#   src = "/netverify.png"
+#   url = "/"
 
 [params]
   altLogo = "/ants-logo.png"
+  altLogoDark = "/ants-logo-dark.png"
   teamLogo = "/netverify.png"
-
-  group = "ANTS"
-  groupUrl = "https://github.com/XJTU-NetVerify"
+  teamLogoDark = "/netverify-dark.png"
 
   defaultContentLanguage = "en"
   defaultContentLanguageInSubdir = true
@@ -200,6 +199,10 @@ languageCode = 'en-us'
   [[params.homepage.social.icons]]
     website = "github"
     url = "https://github.com/XJTU-NetVerify"
+  [[params.homepage.social.icons]]
+    website = "logo"
+    src = "/xjtu.png"
+    url = "https://xjtu.edu.cn"
 
 [build]
   writeStats = true

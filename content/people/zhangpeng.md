@@ -46,4 +46,30 @@ github = 'pzhang101'
 [[social]]
     website = 'blog'
     url = 'https://gr.xjtu.edu.cn/en/web/p-zhang/home'
+
+[[honor]]
+    content = "国家级青年人才计划"
+    time = '2022'
+[[honor]]
+    content = '西安交通大学“青年拔尖人才A类”'
+    time = '2023'
+[[honor]]
+    content = "中国电子学会科技进步一等奖"
+    time = '2023'
+[[honor]]
+    content = '西安交通大学“王宽诚青年学者”'
+    time = '2017'
+[[honor]]
+    content = "中国计算机学会青年人才托举计划"
+    time = '2017'
+
+[[service]]
+    commission = "国际会议程序委员会（TPC）"
+    conference = ["USENIX NSDI (2025)", "IEEE INFOCOM (2025, 2024, 2023, 2022, 2021)", "IEEE ICNP (2024)"]
+[[service]]
+    commission = "国际期刊编委"
+    conference = ["IEEE Journal on Selected Areas in Communications（CCF A类）,  Series on Network Softwarization & Enable"]
+[[service]]
+    commission = "中国计算机学会"
+    conference = ["高级会员", "互联网专委会委员", "网络与数据通信专委会委员"]
 +++
