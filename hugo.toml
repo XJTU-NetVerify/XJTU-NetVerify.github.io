@@ -112,6 +112,8 @@ languageCode = 'en-us'
   src = "/intro/group.jpeg"
 [[params.introImages]]
   src = "/intro/group2.jpg"
+[[params.introImages]]
+  src = "/intro/xjtu.jpeg"
 
 # [[params.logo]]
 #   src = "/xjtu.png"
