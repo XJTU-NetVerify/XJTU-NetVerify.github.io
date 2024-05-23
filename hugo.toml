@@ -115,16 +115,18 @@ languageCode = 'en-us'
 [[params.introImages]]
   src = "/intro/group3.jpeg"
 
-# [[params.logo]]
-#   src = "/xjtu.png"
-#   url = "http://www.xjtu.edu.cn/"
 [[params.logo]]
   src = "/logo-square-remake.png"
   url = "/"
+# [[params.logo]]
+#   src = "/netverify.png"
+#   url = "/"
 
 [params]
   altLogo = "/ants-logo.png"
+  altLogoDark = "/ants-logo-dark.png"
   teamLogo = "/netverify.png"
+  teamLogoDark = "/netverify-dark.png"
 
   defaultContentLanguage = "en"
   defaultContentLanguageInSubdir = true
