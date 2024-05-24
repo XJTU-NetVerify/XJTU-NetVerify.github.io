@@ -118,8 +118,12 @@ languageCode = 'en-us'
 [[params.introImages]]
   src = "/intro/group3.jpeg"
 
+# [[params.logo]]
+#   src = "/logo-square-remake.png"
+#   url = "/"
 [[params.logo]]
-  src = "/logo-square-remake.png"
+  light = "/ants-logo.png"
+  dark = "/ants-logo-dark.png"
   url = "/"
 # [[params.logo]]
 #   src = "/netverify.png"
