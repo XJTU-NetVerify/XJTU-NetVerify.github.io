@@ -31,7 +31,7 @@ github = 'wblingSun'
 [[practice]]
     enterprise = 'Huawei Technologies Co., Ltd.'
     work = 'Cloud Core'
-    time = '2021.77 - 2021.9'
+    time = '2021.7 - 2021.9'
 [[practice]]
     enterprise = 'Huawei Technologies Co., Ltd.'
     work = 'MAE-CN'
