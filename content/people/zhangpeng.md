@@ -18,7 +18,7 @@ github = 'pzhang101'
 [[introduction]]
     content = "Peng Zhang is a professor at Xi’an Jiaotong University. Before joining XJTU, Peng Zhang received his B.E. degree from Beijing University of Posts and Telecommunications in 2008, and Ph.D. degree from Tsinghua University (with honor) in 2013, both in computer science. He was a visiting researcher at Chinese University of Hong Kong (2009) and Yale University (2011-2012). His research interests include network verification, programmable networks, and network security. He is a member of IEEE and a member of CCF."
 
-[[education]]
+[[work]]
     school = "Xi'an Jiaotong University"
     degree = 'Professor'
     time = '2013.7 - now'
@@ -47,29 +47,10 @@ github = 'pzhang101'
     website = 'blog'
     url = 'https://gr.xjtu.edu.cn/en/web/p-zhang/home'
 
-[[honor]]
-    content = "国家级青年人才计划"
-    time = '2022'
-[[honor]]
-    content = '西安交通大学“青年拔尖人才A类”'
-    time = '2023'
-[[honor]]
-    content = "中国电子学会科技进步一等奖"
-    time = '2023'
-[[honor]]
-    content = '西安交通大学“王宽诚青年学者”'
-    time = '2017'
-[[honor]]
-    content = "中国计算机学会青年人才托举计划"
-    time = '2017'
-
 [[service]]
-    commission = "国际会议程序委员会（TPC）"
+    commission = "Technical Program Committee (TPC)"
     conference = ["USENIX NSDI (2025)", "IEEE INFOCOM (2025, 2024, 2023, 2022, 2021)", "IEEE ICNP (2024)"]
 [[service]]
-    commission = "国际期刊编委"
-    conference = ["IEEE Journal on Selected Areas in Communications（CCF A类）,  Series on Network Softwarization & Enable"]
-[[service]]
-    commission = "中国计算机学会"
-    conference = ["高级会员", "互联网专委会委员", "网络与数据通信专委会委员"]
+    commission = "Editorial Board"
+    conference = ["IEEE Journal on Selected Areas in Communications,  Series on Network Softwarization & Enable"]
 +++
