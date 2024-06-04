@@ -24,15 +24,19 @@ github = 'Augists'
 [[introduction]]
     content = "You can access NAOSI open source resources here: https://github.com/NAOSI-DLUT"
 
+[[research]]
+    interest = 'Network Verification Tools / Model Checking'
+[[research]]
+    time = 'Bachelor'
+    interest = 'Human Activity Detection by Wi-Fi / Leader of NAOSI'
+
 [[education]]
     school = "Xi'an Jiaotong University"
     degree = 'Master Degree'
-    work = 'Network Verification Tools'
     time = '2023.9 - now'
 [[education]]
     school = 'Dalian University of Technology'
     degree = 'Bachelor Degree'
-    work = 'Human Activity Detection by Wi-Fi / Leader of NAOSI'
     time = '2019.9 - 2023.6'
 
 [[practice]]

@@ -18,10 +18,12 @@ github = 'wblingSun'
 [[introduction]] 
     content = "I'm a master student at ANTS (Advanced Networked System) group. My research includes DataPlane Verification and Distributed Network Simulation."
 
+[[research]]
+    interest = 'DataPlane Verification and Network Simulation'
+
 [[education]]
     school = "Xi'an Jiaotong University"
     degree = 'Master Degree'
-    work = 'DataPlane Verification and Network Simulation'
     time = '2022.9 - now'
 [[education]] 
     school = "Xi'an Jiaotong University"

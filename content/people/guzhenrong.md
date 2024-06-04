@@ -24,10 +24,12 @@ github = 'endaytrer'
 [[introduction]]
     content = "In extracurricular life, I love photography, tennis, running, graphics design, web development, video editing, etc."
 
+[[research]]
+    interest = 'Scalable Emulation of Data Center Networks'
+
 [[education]]
     school = "Xi'an Jiaotong University"
     degree = 'Bachelor Degree'
-    work = 'Scalable Emulation of Data Center Networks'
     rank = '3/37'
     gpa = '4.00/4.3'
     averagescore = '92.1'

@@ -21,10 +21,15 @@ github = '916267142'
 [[introduction]]
     content = "My previous research primarily focused on network data plane verification (APKeep, NSDI20) and network intent mining (NeMiner, ICNP23). Currently, I am working on improve the scalability of formal network control plane verification based on SMT solvers."
 
+[[research]]
+    interest =  'Network control plane verification / Network intent mining'
+[[research]]
+    time = 'Bachelor'
+    interest = 'Indoor positioning / Network data plane verification'
+
 [[education]]
     school = "Xi'an Jiaotong University"
     degree = 'Ph.D Degree'
-    work =  'Network control plane verification / Network intent mining'
     gpa = '87.7 / 3.52'
     time = '2019.9 - now'
 
@@ -32,7 +37,6 @@ github = '916267142'
     school = "Chang'an University"
     degree = 'Bachelor Degree'
     rank = '3 / 60'
-    work = 'Indoor positioning / Network data plane verification'
     time = '2015.9 - 2019.6'
 
 [[practice]]

@@ -21,15 +21,19 @@ github = 'chris3will'
 [[introduction]]
     content = "In my role focusing on network validation, I handle crucial information at the data link layer. I design and implement algorithms related to spanning trees, performing simulations and verifications of MAC and STP data to ensure the seamless operation of industrial control devices. Additionally, I am engaged in the domain of network traffic forecasting and anomaly detection, where I apply machine learning algorithms for efficient forecasting and classification. I have developed methodologies such as DMFM for prediction and SEMK for classification, both of which have demonstrated high generalizability and effectiveness in empirical tests."
 
+[[research]]
+    interest = 'Machine Learning-Based Algorithms for Network Traffic Forecasting and Anomaly Detection'
+[[research]]
+    time = 'Bachelor'
+    interest = 'A Design and Realization of Automated Network Synthesis Method'
+
 [[education]]
     school = "Xi'an Jiaotong University"
     degree = 'Master Degree'
-    work = 'Machine Learning-Based Algorithms for Network Traffic Forecasting and Anomaly Detection'
     time = '2021.6 - now'
 [[education]]
     school = 'Sichuan University'
     degree = 'Bachelor Degree'
-    work = 'A Design and Realization of Automated Network Synthesis Method'
     time = '2017.9 - 2021.6'
 
 [[practice]]

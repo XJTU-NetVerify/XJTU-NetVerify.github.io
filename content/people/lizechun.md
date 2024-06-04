@@ -24,15 +24,19 @@ github = 'LZC-xjtu'
 [[introduction]]
     content = "Welcome to join us."
 
+[[research]]
+    interest = 'Scalable Network Verification / Model Checking'
+[[research]]
+    time = 'Bachelor'
+    interest = 'Parallel Network Verification'
+
 [[education]]
     school = "Xi'an Jiaotong University"
     degree = 'Master Degree'
-    work = 'Scalable Network Verification / Model Checking'
 [[education]]
     school = "Xi'an Jiaotong University"
     degree = 'Bachelor Degree'
     rank = '1/160'
-    work = 'Parallel Network Verification'
 
 [[award]]
     title = 'Tencent Scholarship'

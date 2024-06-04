@@ -18,10 +18,12 @@ github = 'tuchendis'
 [[introduction]] 
     content = "I'm currently a undergraduate student at Lanzhou University, and will join in the NetVerify lab on Sept. 2024. My research focus is dataplane verification."
 
+[[research]]
+    interest = 'Dataplane Verification' 
+
 [[education]] 
     school = "Lanzhou University" 
     degree = 'Bachelor Degree'
-    work = 'Dataplane Verification' 
     time = '2020.9 - 2024.6'
 
 [[practice]]
