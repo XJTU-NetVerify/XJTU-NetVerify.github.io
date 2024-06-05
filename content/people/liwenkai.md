@@ -23,6 +23,7 @@ github = 'tuchendis'
 
 [[education]] 
     school = "Lanzhou University" 
+    major = "School of Computer Science and Technology"
     degree = 'Bachelor Degree'
     time = '2020.9 - 2024.6'
 

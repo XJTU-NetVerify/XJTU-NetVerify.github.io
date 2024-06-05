@@ -29,6 +29,7 @@ github = 'endaytrer'
 
 [[education]]
     school = "Xi'an Jiaotong University"
+    major = "School of Computer Science and Technology"
     degree = 'Bachelor Degree'
     rank = '3/37'
     gpa = '4.00/4.3'

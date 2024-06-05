@@ -29,12 +29,14 @@ github = '916267142'
 
 [[education]]
     school = "Xi'an Jiaotong University"
+    major = "School of Computer Science and Technology"
     degree = 'Ph.D Degree'
     gpa = '87.7 / 3.52'
     time = '2019.9 - now'
 
 [[education]]
     school = "Chang'an University"
+    major = "School of Computer Science and Technology"
     degree = 'Bachelor Degree'
     rank = '3 / 60'
     time = '2015.9 - 2019.6'

@@ -29,10 +29,12 @@ github = 'chris3will'
 
 [[education]]
     school = "Xi'an Jiaotong University"
+    major = "School of Computer Science and Technology"
     degree = 'Master Degree'
     time = '2021.6 - now'
 [[education]]
     school = 'Sichuan University'
+    major = "School of Computer Science and Technology"
     degree = 'Bachelor Degree'
     time = '2017.9 - 2021.6'
 

@@ -26,10 +26,12 @@ github = 'heroinedd'
 
 [[education]]
     school = "Xi'an Jiaotong University"
+    major = "School of Computer Science and Technology"
     degree = 'Ph.D Degree'
     time = '2021.9 - now'
 [[education]]
     school = "Xi'an Jiaotong University"
+    major = "School of Computer Science and Technology"
     degree = 'Bachelor Degree'
     time = '2017.9 - 2021.6'
 

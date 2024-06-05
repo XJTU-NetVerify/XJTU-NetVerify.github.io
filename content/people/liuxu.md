@@ -26,15 +26,17 @@ github = 'x-reason'
 
 [[education]]
     school = "Xi'an Jiaotong University"
+    major = "School of Computer Science and Technology"
     degree = 'Ph.D Degree'
     time = '2019.9 - now'
 [[education]]
     school = "Xi'an Jiaotong University"
+    major = "School of Computer Science and Technology"
     degree = 'Bachelor Degree'
     time = '2015.9 - 2019.6'
 
 [[practice]]
     enterprise = 'ByteDance Ltd.'
-    work = 'Network'
+    work = 'Network Infrastructure Department'
     time = '2024.4 - now'
 +++

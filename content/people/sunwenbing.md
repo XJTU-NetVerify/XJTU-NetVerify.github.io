@@ -23,10 +23,12 @@ github = 'wblingSun'
 
 [[education]]
     school = "Xi'an Jiaotong University"
+    major = "School of Computer Science and Technology"
     degree = 'Master Degree'
     time = '2022.9 - now'
 [[education]] 
     school = "Xi'an Jiaotong University"
+    major = "School of Computer Science and Technology"
     degree = 'Bachelor Degree'
     time = '2018.9 - 2022.6'
 
@@ -40,7 +42,7 @@ github = 'wblingSun'
     time = '2023.7 - 2023.11'
 [[practice]]
     enterprise = 'ByteDance Ltd.'
-    work = 'Network'
+    work = 'Network Infrastructure Department'
     time = '2023.11 - 2024.5'
 
 [[award]]

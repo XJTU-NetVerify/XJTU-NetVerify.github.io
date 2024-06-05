@@ -32,9 +32,11 @@ github = 'LZC-xjtu'
 
 [[education]]
     school = "Xi'an Jiaotong University"
+    major = "School of Computer Science and Technology"
     degree = 'Master Degree'
 [[education]]
     school = "Xi'an Jiaotong University"
+    major = "School of Computer Science and Technology"
     degree = 'Bachelor Degree'
     rank = '1/160'
 

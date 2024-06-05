@@ -32,10 +32,12 @@ github = 'Augists'
 
 [[education]]
     school = "Xi'an Jiaotong University"
+    major = "School of Computer Science and Technology"
     degree = 'Master Degree'
     time = '2023.9 - now'
 [[education]]
     school = 'Dalian University of Technology'
+    major = "School of Software"
     degree = 'Bachelor Degree'
     time = '2019.9 - 2023.6'
 
