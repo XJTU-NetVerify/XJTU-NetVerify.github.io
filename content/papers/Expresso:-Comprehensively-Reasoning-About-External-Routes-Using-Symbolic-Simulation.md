@@ -1,5 +1,5 @@
 +++
-title = 'Expersso: Comprehensively Reasoning About External Routes Using Symbolic Simulation'
+title = 'Expresso: Comprehensively Reasoning About External Routes Using Symbolic Simulation'
 date = 2024
 type = 'paper'
 layout = 'paper'
