@@ -1,5 +1,5 @@
 +++
-title = 'Our Group'
+title = 'People'
 mentor = "Faculty"
 students = "Students"
 alumni_title = "Alumni"
@@ -22,3 +22,4 @@ layout = 'peopleList'
   work = "Huawei"
 +++
 
+# Our Group
