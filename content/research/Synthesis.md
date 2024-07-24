@@ -5,6 +5,7 @@ draft = false
 type = 'research'
 layout = 'research'
 
-intro = """Network controllers are complex and highly critical software systems in charge of enforcing a wide range of policies and services on top of a highly asynchronous environment (the network). As with any complex software, network controllers are likely to be plagued by bugs that must be discovered and fixed. While discovering these bugs is often hard, fixing them is even harder as controllers cannot simply be "rebooted" but need to be upgraded on-the-fly."""
+intro = """Today, network configurations are very complex. Manually configuring network devices (routers, switches, etc.) is a challenging task, and can easily go wrong and even cause global network outages. Can we automate the process of network configurations, without human in the loop? We envision this is possible, given the success of previous work on hardware synthesis and program synthesis. In recent years, large language models provide new hopes for this vision. We are quite interested in adapting those techniques to make the network configuration process fully automatic, and even more importantly, proven to be correct.
+"""
 img = "/research/Synthesis.jpg"
 +++
