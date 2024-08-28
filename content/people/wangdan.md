@@ -19,10 +19,13 @@ github = 'heroinedd'
     content = "I am a PhD student in the NetVerify lab, ANTS, Xi'an Jiaotong University, supervised by prof.Peng Zhang. My research topics of interest include network control plane verification. Specifically, I have proposed symbolic router execution which can reason about network failures (SRE, SIGCOMM '22), and external routes (Expresso, SIGCOMM '24)."
 
 [[research]]
-    interest = 'Network control plane verification, including deterministic/probabilistic failure tolerance analyzing.'
+    interest = 'Network control plane verification reasoning about deterministic/probabilistic failures.'
 [[research]]
-    time = 'Bachelor'
-    interest = 'Network control plane verification.'
+    interest = 'Network control plane verification reasoning about external routes.'
+[[research]]
+    interest = 'Distributed network control plane verification.'
+[[research]]
+    interest = 'Cloud service verification'
 
 [[education]]
     school = "Xi'an Jiaotong University"
