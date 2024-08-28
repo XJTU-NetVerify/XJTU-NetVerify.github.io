@@ -32,6 +32,18 @@
 
 ## Build
 
+### Clone
+
+```bash
+git clone git@github.com:XJTU-NetVerify/XJTU-NetVerify.github.io.git --recurse-submodules
+```
+
+Download with all [submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules) init and update
+
+Check that theme project `themes/blist` has been prepared
+
+### Run
+
 ```bash
 rm -rf public; hugo server
 ```
