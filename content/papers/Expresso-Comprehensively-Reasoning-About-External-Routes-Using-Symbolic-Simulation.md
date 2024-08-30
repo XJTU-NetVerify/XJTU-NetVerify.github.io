@@ -20,10 +20,10 @@ video = 'https://www.youtube.com/watch?v=cafm5zeSf68'
 top = true
 [[paper.author]]
     name = 'Dan Wang'
-    id = 'wangdan'
+    id = 'dwang'
 [[paper.author]]
     name = 'Peng Zhang'
-    id = 'zhangpeng'
+    id = 'pzhang'
 [[paper.author]]
     name = 'Aaron Gember-Jacobson'
     url = 'https://aaron.gember-jacobson.com'

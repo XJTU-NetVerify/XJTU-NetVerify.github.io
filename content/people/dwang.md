@@ -2,6 +2,7 @@
 title = 'Dan Wang (王丹)'
 date = 2021-04-30T14:26:08+08:00
 draft = false
+alumni = false
 
 type = 'people'
 layout = 'people'
@@ -10,7 +11,7 @@ name = 'wangdan'
 name_cn = '王丹'
 name_en = 'Dan Wang'
 degree = 'Ph.D Student'
-image = '/people/wangdan/photo.jpg'
+image = '/people/dwang/photo.jpg'
 
 email = 'dan-wang@stu.xjtu.edu.cn'
 github = 'heroinedd'

@@ -21,7 +21,7 @@ slide = "https://www.usenix.org/system/files/nsdi22_slides_zhang-peng.pdf"
 video = "https://www.youtube.com/embed/DnGxG_Qe2pY?si=IXVsM372Mqydawjn"
 [[paper.author]]
     name = 'Peng Zhang'
-    id = "zhangpeng"
+    id = "pzhang"
 [[paper.author]]
     name = 'Aaron Gember-Jacobson'
     url = 'https://aaron.gember-jacobson.com'
@@ -31,7 +31,7 @@ video = "https://www.youtube.com/embed/DnGxG_Qe2pY?si=IXVsM372Mqydawjn"
     name = 'Yuhao Huang'
 [[paper.author]]
     name = 'Xu Liu'
-    id = 'liuxu'
+    id = 'xliu'
 [[paper.author]]
     name = 'Hao Li'
     url = "https://gr.xjtu.edu.cn/en/web/hao.li"

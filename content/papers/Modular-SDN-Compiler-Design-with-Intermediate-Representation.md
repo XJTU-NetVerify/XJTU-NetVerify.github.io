@@ -23,7 +23,7 @@ poster = "http://nskeylab.xjtu.edu.cn/people/pzhang/files/2016/09/sigcomm16-li.p
     name = 'Chengchen Hu'
 [[paper.author]]
     name = 'Peng Zhang'
-    id = 'zhangpeng'
+    id = 'pzhang'
 [[paper.author]]
     name = 'Lei Xie'
 +++

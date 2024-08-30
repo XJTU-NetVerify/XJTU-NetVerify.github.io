@@ -2,6 +2,7 @@
 title = 'Zechun Li (李泽春)'
 date = 2022-04-30T14:27:08+08:00
 draft = false
+alumni = false
 
 type = 'people'
 layout = 'people'
@@ -10,7 +11,7 @@ name = 'lizechun'
 name_cn = '李泽春'
 name_en = 'Zechun Li'
 degree = 'Master Student'
-image = '/people/lizechun/photo.jpg'
+image = '/people/zcli/photo.jpg'
 
 email = '1467874668@qq.com'
 github = 'LZC-xjtu'

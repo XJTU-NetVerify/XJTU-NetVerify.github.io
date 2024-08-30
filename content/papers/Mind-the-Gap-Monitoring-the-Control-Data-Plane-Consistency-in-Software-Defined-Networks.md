@@ -22,7 +22,7 @@ code = ''
 web = 'https://dl.acm.org/doi/abs/10.1145/2999572.2999605'
 [[paper.author]]
     name = 'Peng Zhang'
-    id = 'zhangpeng'
+    id = 'pzhang'
 [[paper.author]]
     name = 'Hao Li'
     url = "https://gr.xjtu.edu.cn/en/web/hao.li"

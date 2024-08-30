@@ -2,6 +2,7 @@
 title = 'Peng Zhang (张鹏)'
 date = 2000-04-30T14:27:08+08:00
 draft = false
+alumni = false
 
 type = 'people'
 layout = 'mentor'
@@ -10,7 +11,7 @@ name = 'zhangpeng'
 name_cn = '张鹏'
 name_en = 'Peng Zhang'
 degree = 'Professor'
-image = "/people/zhangpeng/photo.jpg"
+image = "/people/pzhang/photo.jpg"
 
 email = 'p-zhang@xjtu.edu.cn'
 github = 'pzhang101'

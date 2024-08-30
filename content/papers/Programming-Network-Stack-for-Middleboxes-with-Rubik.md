@@ -30,7 +30,7 @@ slide = "https://www.usenix.org/system/files/nsdi21_slides_li-hao.pdf"
     name = 'Guangda Sun'
 [[paper.author]]
     name = 'Peng Zhang'
-    id = 'zhangpeng'
+    id = 'pzhang'
 [[paper.author]]
     name = 'Danfeng Shan'
 [[paper.author]]

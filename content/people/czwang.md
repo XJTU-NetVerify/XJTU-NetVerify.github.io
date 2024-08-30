@@ -2,6 +2,7 @@
 title = 'Chongzhi Wang (王崇智)'
 date = 2021-04-30T14:27:08+08:00
 draft = false
+alumni = true
 
 type = 'people'
 layout = 'people'
@@ -10,7 +11,7 @@ name = 'wangchongzhi'
 name_cn = '王崇智'
 name_en = 'Chongzhi Wang'
 degree = 'Master Student'
-image = '/people/wangchongzhi/photo.jpg'
+image = '/people/czwang/photo.jpg'
 
 email = 'chongzhiw@163.com'
 github = 'chris3will'

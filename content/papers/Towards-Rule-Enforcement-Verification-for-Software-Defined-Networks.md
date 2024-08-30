@@ -23,5 +23,5 @@ code = ''
 web = 'https://ieeexplore.ieee.org/abstract/document/8056994'
 [[paper.author]]
     name = 'Peng Zhang'
-    id = 'zhangpeng'
+    id = 'pzhang'
 +++

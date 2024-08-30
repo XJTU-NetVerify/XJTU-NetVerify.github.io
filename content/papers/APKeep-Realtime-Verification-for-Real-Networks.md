@@ -25,15 +25,15 @@ web = 'https://www.usenix.org/conference/nsdi20/presentation/zhang-peng'
 code = "https://github.com/XJTU-NetVerify/apkeep"
 [[paper.author]]
     name = 'Peng Zhang'
-    id = 'zhangpeng'
+    id = 'pzhang'
 [[paper.author]]
     name = 'Xu Liu'
-    id = 'liuxu'
+    id = 'xliu'
 [[paper.author]]
     name = 'Hongkun Yang'
 [[paper.author]]
     name = 'Ning Kang'
-    id = "kangning"
+    id = "nkang"
 [[paper.author]]
     name = 'Zhengchang Gu'
 [[paper.author]]

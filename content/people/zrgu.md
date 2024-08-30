@@ -2,6 +2,7 @@
 title = 'Zhenrong Gu (顾真榕)'
 date = 2024-04-30T14:27:08+08:00
 draft = false
+alumni = false
 
 type = 'people'
 layout = 'people'
@@ -10,7 +11,7 @@ name = 'guzhenrong'
 name_cn = '顾真榕'
 name_en = 'Zhenrong Gu'
 degree = 'Undergraduate (Senior Year)'
-image = '/people/guzhenrong/photo.jpg'
+image = '/people/zrgu/photo.jpg'
 
 email = 'endaytrer@gmail.com'
 github = 'endaytrer'

@@ -20,14 +20,14 @@ web = 'https://dl.acm.org/doi/abs/10.1145/3629145'
 video = 'https://www.youtube.com/embed/SXem7FXMUZo?si=uVPMH7226YmTEO03'
 [[paper.author]]
     name = 'Xu Liu'
-    id = 'liuxu'
+    id = 'xliu'
 [[paper.author]]
     name = 'Peng Zhang'
-    id = 'zhangpeng'
+    id = 'pzhang'
 [[paper.author]]
     name = 'Hao Li'
     url = "https://gr.xjtu.edu.cn/en/web/hao.li"
 [[paper.author]]
     name = 'Wenbing Sun'
-    id = "sunwenbing"
+    id = "wbsun"
 +++

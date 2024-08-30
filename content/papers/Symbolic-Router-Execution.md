@@ -20,10 +20,10 @@ slide = 'https://aaron.gember-jacobson.com/docs/sigcomm2022sre_slides.pdf'
 video = 'https://www.youtube.com/embed/1rHItyAY4RE?si=V0ZQ67LENdvBQf6N'
 [[paper.author]]
     name = 'Peng Zhang'
-    id = 'zhangpeng'
+    id = 'pzhang'
 [[paper.author]]
     name = 'Dan Wang'
-    id = 'wangdan'
+    id = 'dwang'
 [[paper.author]]
     name = 'Aaron Gember-Jacobson'
     url = 'https://aaron.gember-jacobson.com'

@@ -16,7 +16,7 @@ publisher = "Proceedings of ACM HotNets'20"
 pdf = 'http://nskeylab.xjtu.edu.cn/people/pzhang/files/2020/10/hotnets20.pdf'
 [[paper.author]]
     name = 'Peng Zhang'
-    id = 'zhangpeng'
+    id = 'pzhang'
 [[paper.author]]
     name = 'Yuhao Huang'
 [[paper.author]]
@@ -26,7 +26,7 @@ pdf = 'http://nskeylab.xjtu.edu.cn/people/pzhang/files/2020/10/hotnets20.pdf'
     name = 'Wenbo Shi'
 [[paper.author]]
     name = 'Xu Liu'
-    id = 'liuxu'
+    id = 'xliu'
 [[paper.author]]
     name = 'Hongkun Yang'
 [[paper.author]]

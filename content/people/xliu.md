@@ -2,6 +2,7 @@
 title = 'Xu Liu (刘旭)'
 date = 2019-04-30T14:26:08+08:00
 draft = false
+alumni = false
 
 type = 'people'
 layout = 'people'
@@ -10,7 +11,7 @@ name = "liuxu"
 name_cn = '刘旭'
 name_en = 'Xu Liu'
 degree = 'Ph.D Student'
-image = '/people/liuxu/photo.jpg'
+image = '/people/xliu/photo.jpg'
 
 email = 'x.liu.reason@outlook.com'
 github = 'x-reason'

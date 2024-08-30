@@ -2,6 +2,7 @@
 title = 'Yichi Zhang (张亦弛)'
 date = 2023-04-30T14:27:08+08:00
 draft = false
+alumni = false
 
 type = 'people'
 layout = 'people'
@@ -10,7 +11,7 @@ name = 'zhangyichi'
 name_cn = '张亦弛'
 name_en = 'Yichi Zhang'
 degree = 'Master Student'
-image = '/people/zhangyichi/photo.jpg'
+image = '/people/yczhang/photo.jpg'
 
 email = 'augists@duck.com'
 github = 'Augists'

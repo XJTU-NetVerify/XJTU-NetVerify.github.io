@@ -18,10 +18,10 @@ pdf = 'https://ieeexplore.ieee.org/abstract/document/10355598'
 slide = '/papers/Network Specification Mining with High Fidelity and Scalability/NetMiner_ICNP_10_10.pdf'
 [[paper.author]]
     name = 'Ning Kang'
-    id = "kangning"
+    id = "nkang"
 [[paper.author]]
     name = 'Peng Zhang'
-    id = 'zhangpeng'
+    id = 'pzhang'
 [[paper.author]]
     name = 'Hao Li'
     url = "https://gr.xjtu.edu.cn/en/web/hao.li"

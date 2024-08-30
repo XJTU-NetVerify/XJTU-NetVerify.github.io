@@ -2,6 +2,7 @@
 title = 'Wenbing Sun (孙文冰)'
 date = 2022-04-30T14:27:08+08:00
 draft = false
+alumni = false
 
 type = 'people'
 layout = 'people'
@@ -10,7 +11,7 @@ name = 'sunwenbing'
 name_cn = '孙文冰'
 name_en = 'Wenbing Sun'
 degree = 'Master Student'
-image = '/people/sunwenbing/photo.jpg'
+image = '/people/wbsun/photo.jpg'
 
 email = 'wblingsun@gmail.com'
 github = 'wblingSun'

@@ -26,7 +26,7 @@ poster = "http://nskeylab.xjtu.edu.cn/people/pzhang/files/2016/09/sigcomm16-yang
     name = 'Ruilong Wang'
 [[paper.author]]
     name = 'Peng Zhang'
-    id = 'zhangpeng'
+    id = 'pzhang'
 [[paper.author]]
     name = 'Xiaohong Guan'
 +++

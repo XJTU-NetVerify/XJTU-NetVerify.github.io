@@ -2,6 +2,7 @@
 title = 'Ning Kang (康宁)'
 date = 2019-04-30T14:27:08+08:00
 draft = false
+alumni = false
 
 type = 'people'
 layout = 'people'
@@ -10,7 +11,7 @@ name = "kangning"
 name_cn = '康宁'
 name_en = 'Ning Kang'
 degree = 'Ph.D Student'
-image = '/people/kangning/photo.jpg'
+image = '/people/nkang/photo.jpg'
 
 email = 'kangning2018@foxmail.com'
 github = '916267142'
