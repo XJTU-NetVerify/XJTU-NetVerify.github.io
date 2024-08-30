@@ -7,7 +7,7 @@ alumni = false
 type = 'people'
 layout = 'people'
 
-name = 'wangdan'
+name = 'dwang'
 name_cn = '王丹'
 name_en = 'Dan Wang'
 degree = 'Ph.D Student'

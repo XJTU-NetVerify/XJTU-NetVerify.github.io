@@ -1,5 +1,5 @@
 +++
-title = ''
+title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 date = 2024
 type = 'paper'
 layout = 'paper'

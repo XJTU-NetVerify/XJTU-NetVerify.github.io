@@ -7,7 +7,7 @@ alumni = false
 type = 'people'
 layout = 'people'
 
-name = 'guzhenrong'
+name = 'zrgu'
 name_cn = '顾真榕'
 name_en = 'Zhenrong Gu'
 degree = 'Undergraduate (Senior Year)'
