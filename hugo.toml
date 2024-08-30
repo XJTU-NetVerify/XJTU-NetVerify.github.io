@@ -5,7 +5,7 @@ languageCode = 'en-us'
 
 [languages]
   [languages.en]
-    contentDir = "content"
+    contentDir = "content/en"
     weight = 1
     languageName = "English"
     [languages.en.params]
@@ -57,7 +57,7 @@ languageCode = 'en-us'
         weight = 5
 
   [languages.zh]
-    contentDir = "content"
+    contentDir = "content/zh"
     weight = 2
     languageName = "Chinese"
     [languages.zh.params]
@@ -80,19 +80,29 @@ languageCode = 'en-us'
 
     [[languages.zh.menu.main]]
         name = "实验室介绍"
-        url = "zh/about"
+        url = "about"
         weight = 1
 
-    # [[languages.zh.menu.main]]
-    #     name = "团队成员"
-    #     url = "zh/people"
-    #     weight = 2
-    #
-    # [[languages.zh.menu.main]]
-    #     name = "论文发表"
-    #     url = "https://gr.xjtu.edu.cn/en/web/p-zhang/publication"
-    #     weight = 3
-    #
+    [[languages.zh.menu.main]]
+        name = "研究领域"
+        url = "research"
+        weight = 2
+
+    [[languages.zh.menu.main]]
+        name = "团队成员"
+        url = "people"
+        weight = 3
+
+    [[languages.zh.menu.main]]
+        name = "论文发表"
+        url = "papers"
+        weight = 4
+
+    [[languages.zh.menu.main]]
+        name = "Join us"
+        url = "/joinus"
+        weight = 5
+
     # [[languages.zh.menu.main]]
     #     name = "课程信息"
     #     url = "zh/courses"
