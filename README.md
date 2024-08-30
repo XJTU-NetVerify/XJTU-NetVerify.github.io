@@ -42,7 +42,26 @@ Download with all [submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodule
 
 Check that theme project `themes/blist` has been prepared
 
+```bash
+git submodule update --init
+```
+
+Alternative choice
+
+```bash
+rm -rf themes/blist
+git clone https://github.com/Augists/blist-hugo-theme.git themes/blist
+```
+
 ### Run
+
+Setup Node.js dependencies (use `ci` instead of `install` in case of version-not-match)
+
+```bash
+npm ci
+```
+
+Run server
 
 ```bash
 rm -rf public; hugo server
