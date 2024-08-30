@@ -38,6 +38,12 @@ jobs:
       - name: npm install
         run: npm ci
 
+      - name: update papers in zh
+        run: rsync -a content/en/papers/* content/zh/papers/
+
+      - name: update people in zh
+        run: rsync -a content/en/people/* content/zh/people/
+
       - name: Build
         run: hugo --minify
 
