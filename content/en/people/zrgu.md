@@ -17,7 +17,7 @@ email = 'endaytrer@gmail.com'
 github = 'endaytrer'
 
 [[introduction]]
-    content = "I am a senior student at Xi'an Jiaotong University (XJTU), majoring in Computer Science. Expecting M. S. at ANTS (ANTS is a NeTworked System Group), Institute of Computer System Architecture and Networks, XJTU, advised by Prof. Peng Zhang."
+    content = "I am a master student at Xi'an Jiaotong University (XJTU), advised by Prof. Peng Zhang."
 
 [[introduction]]
     content = "My research interests are majorly in computer systems: networked systems and operating systems. Currently I'm working on the scalable emulation of data center networks. Previous research experiences include computer vision and natural language processing."
@@ -26,12 +26,12 @@ github = 'endaytrer'
     content = "In extracurricular life, I love photography, tennis, running, graphics design, web development, video editing, etc."
 
 [[research]]
-    interest = 'Scalable Emulation of Data Center Networks'
+    interest = 'Network Emulation'
 
 [[education]]
     school = "Xi'an Jiaotong University"
     major = "School of Computer Science and Technology"
-    degree = 'Bachelor Degree'
+    degree = 'B.E. in Computer Science'
     rank = '3/37'
     gpa = '4.00/4.3'
     averagescore = '92.1'

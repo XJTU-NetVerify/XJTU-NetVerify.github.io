@@ -10,29 +10,29 @@ layout = 'people'
 name = 'dwang'
 name_cn = '王丹'
 name_en = 'Dan Wang'
-degree = 'Ph.D Student'
+degree = 'Ph.D. Student'
 image = '/people/dwang/photo.jpg'
 
 email = 'dan-wang@stu.xjtu.edu.cn'
 github = 'heroinedd'
 
 [[introduction]]
-    content = "I am a PhD student in the NetVerify lab, ANTS, Xi'an Jiaotong University, supervised by prof.Peng Zhang. My research topics of interest include network control plane verification. Specifically, I have proposed symbolic router execution which can reason about network failures (SRE, SIGCOMM '22), and external routes (Expresso, SIGCOMM '24)."
+    content = "I am a PhD student in the NetVerify lab of ANTS group, Xi'an Jiaotong University, supervised by Prof. Peng Zhang. My research interests include verification and simulation of computer networks. Specifically, we have proposed the Symbolic Router Execution framework, which can comprehensively reason about network failures (SRE, SIGCOMM '22), and external routes (Expresso, SIGCOMM '24)."
 
 [[research]]
-    interest = 'Distributed network control plane verification.'
+    interest = 'Network control plane verification'
 [[research]]
-    interest = 'Access control verification'
+    interest = 'Cloud access control verification'
 
 [[education]]
     school = "Xi'an Jiaotong University"
     major = "School of Computer Science and Technology"
-    degree = 'Ph.D Degree'
+    degree = 'Ph.D. Student in Computer Science'
     time = '2021.9 - now'
 [[education]]
     school = "Xi'an Jiaotong University"
     major = "School of Computer Science and Technology"
-    degree = 'Bachelor Degree'
+    degree = 'B.E. in Computer Science'
     time = '2017.9 - 2021.6'
 
 [[award]]
