@@ -5,6 +5,7 @@ type = 'paper'
 layout = 'paper'
 draft = false
 
+research_label = ["", ""]
 bibtex = """@article{zhang2018fast,
   title={Fast data plane testing for software-defined networks with RuleChecker},
   author={Zhang, Peng and Zhang, Cheng and Hu, Chengchen},
@@ -15,6 +16,10 @@ bibtex = """@article{zhang2018fast,
   year={2018},
   publisher={IEEE}
 }"""
+abstract = [
+    "",
+    ""
+]
 doi="10.1109/TNET.2018.2885532"
 publisher = "IEEE/ACM Transactions on Networking"
 pdf = ''

@@ -1,5 +1,5 @@
 +++
-title = 'Zhenrong Gu (顾真榕)'
+title = 'Zhenrong Gu'
 date = 2024-04-30T14:27:08+08:00
 draft = false
 alumni = false
@@ -10,11 +10,14 @@ layout = 'people'
 name = 'zrgu'
 name_cn = '顾真榕'
 name_en = 'Zhenrong Gu'
-degree = 'Undergraduate (Senior Year)'
+degree = 'Master Student'
 image = '/people/zrgu/photo.jpg'
 
 email = 'endaytrer@gmail.com'
 github = 'endaytrer'
+
+# Verification | Simulation | Synthesis
+research_label = ["Verification", "Simulation"]
 
 [[introduction]]
     content = "I am a master student at Xi'an Jiaotong University (XJTU), advised by Prof. Peng Zhang."

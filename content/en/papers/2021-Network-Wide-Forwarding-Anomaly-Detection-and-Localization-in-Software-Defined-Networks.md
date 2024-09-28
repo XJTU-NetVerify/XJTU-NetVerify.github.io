@@ -5,6 +5,7 @@ type = 'paper'
 layout = 'paper'
 draft = false
 
+research_label = ["", ""]
 bibtex = """@article{zhang2020network,
   title={Network-wide forwarding anomaly detection and localization in software defined networks},
   author={Zhang, Peng and Zhang, Fangzheng and Xu, Shimin and Yang, Zuoru and Li, Hao and Li, Qi and Wang, Huanzhao and Shen, Chao and Hu, Chengchen},
@@ -15,6 +16,10 @@ bibtex = """@article{zhang2020network,
   year={2020},
   publisher={IEEE}
 }"""
+abstract = [
+    "",
+    ""
+]
 doi = "10.1109/TNET.2020.3033588"
 publisher = "IEEE/ACM Transactions on Networking"
 pdf = 'https://aquatoney.github.io/files/foces-ton21-zhang.pdf'

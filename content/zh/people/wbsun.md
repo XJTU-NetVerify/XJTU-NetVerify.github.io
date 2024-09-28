@@ -1,5 +1,5 @@
 +++
-title = 'Wenbing Sun (孙文冰)'
+title = 'Wenbing Sun'
 date = 2022-04-30T14:27:08+08:00
 draft = false
 alumni = false
@@ -15,6 +15,9 @@ image = '/people/wbsun/photo.jpg'
 
 email = 'wblingsun@gmail.com'
 github = 'wblingSun'
+
+# Verification | Simulation | Synthesis
+research_label = ["Verification", "Simulation"]
 
 [[introduction]] 
     content = "I'm a master student at ANTS (Advanced Networked System) group. My research includes DataPlane Verification and Distributed Network Simulation."

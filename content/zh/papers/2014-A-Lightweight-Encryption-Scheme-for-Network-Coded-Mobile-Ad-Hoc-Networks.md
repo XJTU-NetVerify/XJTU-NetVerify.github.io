@@ -15,6 +15,10 @@ bibtex = """@article{zhang2013lightweight,
   year={2013},
   publisher={IEEE}
 }"""
+abstract = [
+    "",
+    ""
+]
 doi="10.1109/TPDS.2013.161"
 publisher = "IEEE Transactions on Parallel and Distributed Systems"
 pdf = 'https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=e791f1419af13d4b2e00cd610186ceb4bff973c4'

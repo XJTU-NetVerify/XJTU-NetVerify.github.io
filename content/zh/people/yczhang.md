@@ -1,5 +1,5 @@
 +++
-title = 'Yichi Zhang (张亦弛)'
+title = 'Yichi Zhang'
 date = 2023-04-30T14:27:08+08:00
 draft = false
 alumni = false
@@ -16,30 +16,30 @@ image = '/people/yczhang/photo.jpg'
 email = 'augists@duck.com'
 github = 'Augists'
 
-[[introduction]]
-    content = "I am a master student in ANTS Lab in 2023."
+# Verification | Simulation | Synthesis
+research_label = ["Verification"]
 
 [[introduction]]
-    content = "I studied in the School of Software at Dalian University of Technology as an undergraduate, and researched Wi-Fi based human action recognition in Mr. Lei Wang's WiLNA Lab, with a focus on multimodal deep learning of video and Wi-Fi CSI data. During that time, I have been the deputy director of Media Design Center, the minister of Sunshine Mental Health Association and the president of NAOSI (Network And Open Source Initiate)."
+    content = "I am a master student of NetVerify lab, Xi'an Jiaotong University."
+
+[[introduction]]
+    content = "I studied in the School of Software at Dalian University of Technology as an undergraduate. During that time, I have been the deputy director of Media Design Center, the minister of Sunshine Mental Health Association and the president of NAOSI (Network And Open Source Initiate)."
 
 [[introduction]]
     content = "You can access NAOSI open source resources here: https://github.com/NAOSI-DLUT"
 
 [[research]]
-    interest = 'Network Verification Tools / Model Checking'
-[[research]]
-    time = 'Bachelor'
-    interest = 'Human Activity Detection by Wi-Fi / Leader of NAOSI'
+    interest = 'Network Verification'
 
 [[education]]
     school = "Xi'an Jiaotong University"
     major = "School of Computer Science and Technology"
-    degree = 'Master Degree'
+    degree = 'Master in Computer Science'
     time = '2023.9 - now'
 [[education]]
     school = 'Dalian University of Technology'
     major = "School of Software"
-    degree = 'Bachelor Degree'
+    degree = 'B.E. in Software Engineering'
     time = '2019.9 - 2023.6'
 
 [[practice]]

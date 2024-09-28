@@ -5,6 +5,7 @@ type = 'paper'
 layout = 'paper'
 draft = false
 
+research_label = ["", ""]
 bibtex = """@article{zhang2018shiftroute,
   title={ShiftRoute: Achieving location privacy for map services on smartphones},
   author={Zhang, Peng and Hu, Chengchen and Chen, Di and Li, Hao and Li, Qi},
@@ -15,6 +16,10 @@ bibtex = """@article{zhang2018shiftroute,
   year={2018},
   publisher={IEEE}
 }"""
+abstract = [
+    "",
+    ""
+]
 doi="10.1109/TVT.2018.2791402"
 publisher = "IEEE Transactions on Vehicular Technology"
 pdf = 'https://aquatoney.github.io/files/shiftroute-tvt18-zhang.pdf'

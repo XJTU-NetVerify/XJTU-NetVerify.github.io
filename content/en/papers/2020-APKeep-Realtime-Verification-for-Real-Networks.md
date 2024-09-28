@@ -4,6 +4,7 @@ date = 2020
 type = 'paper'
 layout = 'paper'
 
+research_label = ["", ""]
 bibtex = """@inproceedings {246370,
     author = {Peng Zhang and Xu Liu and Hongkun Yang and Ning Kang and Zhengchang Gu and Hao Li},
     title = {{APKeep}: Realtime Verification for Real Networks },
@@ -16,6 +17,10 @@ bibtex = """@inproceedings {246370,
     publisher = {USENIX Association},
     month = feb
 }"""
+abstract = [
+    "",
+    ""
+]
 publisher = "Proceedings of USENIX NSDI'20"
 top = true
 pdf = 'https://www.usenix.org/system/files/nsdi20-paper-zhang-peng.pdf'

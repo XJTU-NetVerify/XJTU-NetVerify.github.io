@@ -5,9 +5,13 @@ type = 'paper'
 layout = 'paper'
 draft = false
 
+research_label = ["", ""]
 bibtex = """
 """
-doi = ""
+abstract = [
+    "",
+    ""
+]
 publisher = ""
 pdf = ''
 slide = ''

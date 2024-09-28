@@ -5,6 +5,7 @@ type = 'paper'
 layout = 'paper'
 draft = false
 
+research_label = ["", ""]
 bibtex = """@inproceedings{zhang2022differential,
   title={Differential network analysis},
   author={Zhang, Peng and Gember-Jacobson, Aaron and Zuo, Yueshang and Huang, Yuhao and Liu, Xu and Li, Hao},
@@ -12,6 +13,10 @@ bibtex = """@inproceedings{zhang2022differential,
   pages={601--615},
   year={2022}
 }"""
+abstract = [
+    "",
+    ""
+]
 publisher = "Proceedings of USENIX NSDI'22"
 top = true
 pdf = 'https://gr.xjtu.edu.cn/documents/1748990/0/dna_nsdi22.pdf/bc7e8943-85e4-ffa2-d00e-86fc09ea5313?t=1632275920827'

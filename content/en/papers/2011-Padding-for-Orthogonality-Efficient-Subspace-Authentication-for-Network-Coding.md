@@ -5,6 +5,7 @@ type = 'paper'
 layout = 'paper'
 draft = false
 
+research_label = ["", ""]
 bibtex = """@inproceedings{zhang2011padding,
   title={Padding for orthogonality: Efficient subspace authentication for network coding},
   author={Zhang, Peng and Jiang, Yixin and Lin, Chuang and Yao, Hongyi and Wasef, Albert and Shenz, Xuemin},
@@ -13,6 +14,10 @@ bibtex = """@inproceedings{zhang2011padding,
   year={2011},
   organization={IEEE}
 }"""
+abstract = [
+    "",
+    ""
+]
 doi="10.1109/INFCOM.2011.5934876"
 publisher = "Proceedings of IEEE INFOCOM'11"
 pdf = 'https://pdfs.semanticscholar.org/6ccc/c96ecad4ab6cace902b79ea21010e4df8e0a.pdf'

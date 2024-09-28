@@ -4,6 +4,7 @@ date = 2016
 type = 'paper'
 layout = 'paper'
 
+research_label = ["", ""]
 bibtex = """@inproceedings{li2016modular,
   title={Modular sdn compiler design with intermediate representation},
   author={Li, Hao and Hu, Chengchen and Zhang, Peng and Xie, Lei},
@@ -11,6 +12,10 @@ bibtex = """@inproceedings{li2016modular,
   pages={587--588},
   year={2016}
 }"""
+abstract = [
+    "",
+    ""
+]
 doi = "10.1145/2934872.2959061"
 publisher = "Poster Session of ACM SIGCOMM'16"
 top = true

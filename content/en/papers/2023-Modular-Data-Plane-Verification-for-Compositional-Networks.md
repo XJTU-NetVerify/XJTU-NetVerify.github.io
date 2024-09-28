@@ -4,6 +4,7 @@ date = 2023
 type = 'paper'
 layout = 'paper'
 
+research_label = ["", ""]
 bibtex = """@article{liu2023modular,
   title={Modular Data Plane Verification for Compositional Networks},
   author={Liu, Xu and Zhang, Peng and Li, Hao and Sun, Wenbing},
@@ -14,6 +15,10 @@ bibtex = """@article{liu2023modular,
   year={2023},
   publisher={ACM New York, NY, USA}
 }"""
+abstract = [
+    "",
+    ""
+]
 doi = "10.1145/3629145"
 publisher = "Proceedings of ACM CoNEXT'23"
 web = 'https://dl.acm.org/doi/abs/10.1145/3629145'

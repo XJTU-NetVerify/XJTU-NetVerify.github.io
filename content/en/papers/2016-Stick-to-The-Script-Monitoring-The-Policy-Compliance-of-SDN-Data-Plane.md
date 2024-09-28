@@ -5,6 +5,7 @@ type = 'paper'
 layout = 'paper'
 draft = false
 
+research_label = ["", ""]
 bibtex = """@inproceedings{zhang2016stick,
   title={Stick to the script: Monitoring the policy compliance of SDN data plane},
   author={Zhang, Peng and Li, Hao and Hu, Chengchen and Hu, Liujia and Xiong, Lei},
@@ -12,6 +13,10 @@ bibtex = """@inproceedings{zhang2016stick,
   pages={81--86},
   year={2016}
 }"""
+abstract = [
+    "",
+    ""
+]
 doi="10.1145/2881025.2881038"
 publisher = "Proceedings of ACM/IEEE ANCS'16"
 pdf = 'http://nskeylab.xjtu.edu.cn/people/pzhang/files/2016/07/ancs16.pdf'

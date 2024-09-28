@@ -12,6 +12,10 @@ bibtex = """@inproceedings{zhang2016mind,
   pages={19--33},
   year={2016}
 }"""
+abstract = [
+    "",
+    ""
+]
 doi="10.1145/2999572.2999605"
 publisher = "Proceedings of ACM CoNEXT'16"
 pdf = 'https://aquatoney.github.io/files/veridp-conext16-zhang.pdf'

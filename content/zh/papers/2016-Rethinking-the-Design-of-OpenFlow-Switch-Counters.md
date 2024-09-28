@@ -11,6 +11,10 @@ bibtex = """@inproceedings{yang2016rethinking,
   pages={589--590},
   year={2016}
 }"""
+abstract = [
+    "",
+    ""
+]
 doi = "10.1145/2934872.2959062"
 publisher = "Poster Session of ACM SIGCOMM'16"
 top = true

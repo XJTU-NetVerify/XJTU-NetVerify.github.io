@@ -15,6 +15,10 @@ bibtex = """@article{zhang2020verifying,
   year={2020},
   publisher={IEEE}
 }"""
+abstract = [
+    "",
+    ""
+]
 doi="10.1109/TNET.2020.2977006"
 publisher = "IEEE/ACM Transactions on Networking"
 pdf = 'http://kresttechnology.com/krest-academic-projects/krest-mtech-projects/CSE/M.Tech%20Computer%20Science%202020/Networking%2020-21/4.pdf'

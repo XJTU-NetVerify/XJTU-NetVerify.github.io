@@ -11,6 +11,10 @@ bibtex = """@inproceedings{li2016modular,
   pages={587--588},
   year={2016}
 }"""
+abstract = [
+    "",
+    ""
+]
 doi = "10.1145/2934872.2959061"
 publisher = "Poster Session of ACM SIGCOMM'16"
 top = true

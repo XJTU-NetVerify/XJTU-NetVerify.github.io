@@ -1,8 +1,9 @@
 +++
-title = 'Chongzhi Wang (王崇智)'
+title = 'Chongzhi Wang'
 date = 2021-04-30T14:27:08+08:00
 draft = false
 alumni = true
+work = "Bank"
 
 type = 'people'
 layout = 'people'

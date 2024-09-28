@@ -4,6 +4,7 @@ date = 2023
 type = 'paper'
 layout = 'paper'
 
+research_label = ["", ""]
 bibtex = """@inproceedings{kang2023network,
   title={Network Specification Mining with High Fidelity and Scalability},
   author={Kang, Ning and Zhang, Peng and Li, Hao and Wen, Sisi and Ji, Chaoyang and Yang, Yongqiang},
@@ -12,6 +13,10 @@ bibtex = """@inproceedings{kang2023network,
   year={2023},
   organization={IEEE}
 }"""
+abstract = [
+    "",
+    ""
+]
 doi = "10.1109/ICNP59255.2023.10355598"
 publisher = "Proceedings of IEEE ICNP'23"
 pdf = 'https://ieeexplore.ieee.org/abstract/document/10355598'

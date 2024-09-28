@@ -1,5 +1,5 @@
 +++
-title = 'Peng Zhang (张鹏)'
+title = 'Peng Zhang'
 date = 2000-04-30T14:27:08+08:00
 draft = false
 alumni = false
@@ -7,7 +7,7 @@ alumni = false
 type = 'people'
 layout = 'mentor'
 
-name = 'zhangpeng'
+name = 'pzhang'
 name_cn = '张鹏'
 name_en = 'Peng Zhang'
 degree = 'Professor'
@@ -17,7 +17,7 @@ email = 'p-zhang@xjtu.edu.cn'
 github = 'pzhang101'
 
 [[introduction]]
-    content = "Peng Zhang is a professor at Xi’an Jiaotong University. Before joining XJTU, Peng Zhang received his B.E. degree from Beijing University of Posts and Telecommunications in 2008, and Ph.D. degree from Tsinghua University (with honor) in 2013, both in computer science. He was a visiting researcher at Chinese University of Hong Kong (2009) and Yale University (2011-2012). His research interests include network verification, programmable networks, and network security. He is a member of IEEE and a member of CCF."
+    content = "Peng Zhang is a professor with School of Computer Science and Technology, Xi’an Jiaotong University (XJTU). Before joining XJTU, Peng Zhang received his B.E. degree from Beijing University of Posts and Telecommunications in 2008, and Ph.D. degree from Tsinghua University (with honor) in 2013, both in computer science. He was a visiting researcher at Chinese University of Hong Kong (2009) and Yale University (2011-2012). His research interests include network verification, network simulation, programmable networks."
 
 [[work]]
     school = "Xi'an Jiaotong University"

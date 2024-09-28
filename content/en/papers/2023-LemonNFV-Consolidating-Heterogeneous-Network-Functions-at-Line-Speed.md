@@ -5,6 +5,7 @@ type = 'paper'
 layout = 'paper'
 draft = false
 
+research_label = ["", ""]
 bibtex = """@inproceedings {286419,
   author = {Hao Li and Yihan Dang and Guangda Sun and Guyue Liu and Danfeng Shan and Peng Zhang},
   title = {{LemonNFV}: Consolidating Heterogeneous Network Functions at Line Speed},
@@ -17,6 +18,10 @@ bibtex = """@inproceedings {286419,
   publisher = {USENIX Association},
   month = apr
 }"""
+abstract = [
+    "",
+    ""
+]
 publisher = "Proceedings of USENIX NSDI'23"
 top = true
 pdf = 'https://www.usenix.org/conference/nsdi23/presentation/li-hao'

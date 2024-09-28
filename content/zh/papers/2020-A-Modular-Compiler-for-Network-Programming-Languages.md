@@ -12,6 +12,10 @@ bibtex = """@inproceedings{li2020modular,
   pages={198--210},
   year={2020}
 }"""
+abstract = [
+    "",
+    ""
+]
 doi="10.1145/3386367.3432063"
 publisher = "Proceedings of ACM CoNEXT'20"
 pdf = 'https://aquatoney.github.io/files/coder-conext20-li.pdf'

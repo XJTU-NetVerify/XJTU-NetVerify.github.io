@@ -15,6 +15,10 @@ bibtex = """@article{zhang2018fast,
   year={2018},
   publisher={IEEE}
 }"""
+abstract = [
+    "",
+    ""
+]
 doi="10.1109/TNET.2018.2885532"
 publisher = "IEEE/ACM Transactions on Networking"
 pdf = ''

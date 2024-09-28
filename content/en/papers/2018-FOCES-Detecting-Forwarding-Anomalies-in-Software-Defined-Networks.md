@@ -5,6 +5,7 @@ type = 'paper'
 layout = 'paper'
 draft = false
 
+research_label = ["", ""]
 bibtex = """@inproceedings{zhang2018foces,
   title={FOCES: Detecting forwarding anomalies in software defined networks},
   author={Zhang, Peng and Xu, Shimin and Yang, Zuoru and Li, Hao and Li, Qi and Wang, Huanzhao and Hu, Chengchen},
@@ -13,6 +14,10 @@ bibtex = """@inproceedings{zhang2018foces,
   year={2018},
   organization={IEEE}
 }"""
+abstract = [
+    "",
+    ""
+]
 doi = "10.1109/ICDCS.2018.00085"
 publisher = "Proceedings of IEEE ICDCS'18"
 pdf = 'http://nskeylab.xjtu.edu.cn/people/pzhang/files/2018/05/icdcs18.pdf'

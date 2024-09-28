@@ -1,5 +1,5 @@
 +++
-title = 'Peng Zhang (张鹏)'
+title = 'Peng Zhang'
 date = 2000-04-30T14:27:08+08:00
 draft = false
 alumni = false
@@ -7,7 +7,7 @@ alumni = false
 type = 'people'
 layout = 'mentor'
 
-name = 'zhangpeng'
+name = 'pzhang'
 name_cn = '张鹏'
 name_en = 'Peng Zhang'
 degree = 'Professor'

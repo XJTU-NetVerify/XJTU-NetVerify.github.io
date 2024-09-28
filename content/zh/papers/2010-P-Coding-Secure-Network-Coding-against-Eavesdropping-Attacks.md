@@ -13,6 +13,10 @@ bibtex = """@inproceedings{zhang2010p,
   year={2010},
   organization={IEEE}
 }"""
+abstract = [
+    "",
+    ""
+]
 doi="10.1109/INFCOM.2010.5462050"
 publisher = "Proceedings of IEEE INFOCOM'10"
 pdf = 'https://pdfs.semanticscholar.org/644b/fe52493f0e2a245b9eaf30bd2bb9e5c50f8b.pdf'

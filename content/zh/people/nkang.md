@@ -1,5 +1,5 @@
 +++
-title = 'Ning Kang (康宁)'
+title = 'Ning Kang'
 date = 2019-04-30T14:27:08+08:00
 draft = false
 alumni = false
@@ -15,6 +15,9 @@ image = '/people/nkang/photo.jpg'
 
 email = 'kangning2018@foxmail.com'
 github = '916267142'
+
+# Verification | Simulation | Synthesis
+research_label = ["Synthesis"]
 
 [[introduction]]
     content = "I'm a passionate boy from Anhui, China, and a member of the ANTS team. My interests include various activities such as badminton, swimming, and playing the piano. I'm also delighted to be a part of this team and to work together with everyone."

@@ -1,5 +1,5 @@
 +++
-title = 'Xu Liu (刘旭)'
+title = 'Xu Liu'
 date = 2019-04-30T14:26:08+08:00
 draft = false
 alumni = false
@@ -15,6 +15,9 @@ image = '/people/xliu/photo.jpg'
 
 email = 'x.liu.reason@outlook.com'
 github = 'x-reason'
+
+# Verification | Simulation | Synthesis
+research_label = ["Verification", "Synthesis"]
 
 [[introduction]]
     content = "I am a Ph.D candidate in Computer Science and Technology at Xi'an Jiaotong University. I am highly motivated and accomplished researcher in network reliability, specializing in network verification. I am open to discussion and cooperation on my research interests, including formal methods, network data plane verification, and network diagnosis and repair. With a strong track record of published articles, conference presentations, and a collaborative approach to interdisciplinary research, I am eager to dedicate my passion for innovation and commitment to academic excellence."

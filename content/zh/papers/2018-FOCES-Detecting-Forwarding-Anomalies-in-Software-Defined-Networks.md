@@ -13,6 +13,10 @@ bibtex = """@inproceedings{zhang2018foces,
   year={2018},
   organization={IEEE}
 }"""
+abstract = [
+    "",
+    ""
+]
 doi = "10.1109/ICDCS.2018.00085"
 publisher = "Proceedings of IEEE ICDCS'18"
 pdf = 'http://nskeylab.xjtu.edu.cn/people/pzhang/files/2018/05/icdcs18.pdf'

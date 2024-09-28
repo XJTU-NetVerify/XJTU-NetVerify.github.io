@@ -5,6 +5,7 @@ type = 'paper'
 layout = 'paper'
 draft = false
 
+research_label = ["", ""]
 bibtex = """@article{zhang2013lightweight,
   title={A lightweight encryption scheme for network-coded mobile ad hoc networks},
   author={Zhang, Peng and Lin, Chuang and Jiang, Yixin and Fan, Yanfei and Shen, Xuemin},
@@ -15,6 +16,10 @@ bibtex = """@article{zhang2013lightweight,
   year={2013},
   publisher={IEEE}
 }"""
+abstract = [
+    "",
+    ""
+]
 doi="10.1109/TPDS.2013.161"
 publisher = "IEEE Transactions on Parallel and Distributed Systems"
 pdf = 'https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=e791f1419af13d4b2e00cd610186ceb4bff973c4'

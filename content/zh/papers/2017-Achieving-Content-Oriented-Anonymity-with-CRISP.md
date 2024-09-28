@@ -15,6 +15,10 @@ bibtex = """@article{zhang2015achieving,
   year={2015},
   publisher={IEEE}
 }"""
+abstract = [
+    "",
+    ""
+]
 doi="10.1109/TDSC.2015.2498603"
 publisher = "IEEE Transactions on Dependable and Secure Computing"
 pdf = 'http://nskeylab.xjtu.edu.cn/people/pzhang/files/2016/07/tdsc16.pdf'

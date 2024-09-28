@@ -5,6 +5,7 @@ type = 'paper'
 layout = 'paper'
 draft = false
 
+research_label = ["", ""]
 bibtex = """@inproceedings{li2020modular,
   title={A modular compiler for network programming languages},
   author={Li, Hao and Zhang, Peng and Sun, Guangda and Hu, Chengchen and Shan, Danfeng and Pan, Tian and Fu, Qiang},
@@ -12,6 +13,10 @@ bibtex = """@inproceedings{li2020modular,
   pages={198--210},
   year={2020}
 }"""
+abstract = [
+    "",
+    ""
+]
 doi="10.1145/3386367.3432063"
 publisher = "Proceedings of ACM CoNEXT'20"
 pdf = 'https://aquatoney.github.io/files/coder-conext20-li.pdf'

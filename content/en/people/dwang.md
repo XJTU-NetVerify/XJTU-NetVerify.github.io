@@ -1,5 +1,5 @@
 +++
-title = 'Dan Wang (王丹)'
+title = 'Dan Wang'
 date = 2021-04-30T14:26:08+08:00
 draft = false
 alumni = false
@@ -15,6 +15,9 @@ image = '/people/dwang/photo.jpg'
 
 email = 'dan-wang@stu.xjtu.edu.cn'
 github = 'heroinedd'
+
+# Verification | Simulation | Synthesis
+research_label = ["Verification", "Simulation"]
 
 [[introduction]]
     content = "I am a PhD student in the NetVerify lab of ANTS group, Xi'an Jiaotong University, supervised by Prof. Peng Zhang. My research interests include verification and simulation of computer networks. Specifically, we have proposed the Symbolic Router Execution framework, which can comprehensively reason about network failures (SRE, SIGCOMM '22), and external routes (Expresso, SIGCOMM '24)."

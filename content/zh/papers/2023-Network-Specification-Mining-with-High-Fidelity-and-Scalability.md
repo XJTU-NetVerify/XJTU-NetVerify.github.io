@@ -12,6 +12,10 @@ bibtex = """@inproceedings{kang2023network,
   year={2023},
   organization={IEEE}
 }"""
+abstract = [
+    "",
+    ""
+]
 doi = "10.1109/ICNP59255.2023.10355598"
 publisher = "Proceedings of IEEE ICNP'23"
 pdf = 'https://ieeexplore.ieee.org/abstract/document/10355598'

@@ -1,5 +1,5 @@
 +++
-title = 'Yichi Zhang (张亦弛)'
+title = 'Yichi Zhang'
 date = 2023-04-30T14:27:08+08:00
 draft = false
 alumni = false
@@ -15,6 +15,9 @@ image = '/people/yczhang/photo.jpg'
 
 email = 'augists@duck.com'
 github = 'Augists'
+
+# Verification | Simulation | Synthesis
+research_label = ["Verification"]
 
 [[introduction]]
     content = "I am a master student of NetVerify lab, Xi'an Jiaotong University."

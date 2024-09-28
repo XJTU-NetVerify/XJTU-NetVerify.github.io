@@ -5,6 +5,7 @@ type = 'paper'
 layout = 'paper'
 draft = false
 
+research_label = ["", ""]
 bibtex = """@article{zhang2012anoc,
   title={ANOC: Anonymous network-coding-based communication with efficient cooperation},
   author={Zhang, Peng and Lin, Chuang and Jiang, Yixin and Lee, Patrick PC and Lui, John CS},
@@ -15,6 +16,10 @@ bibtex = """@article{zhang2012anoc,
   year={2012},
   publisher={IEEE}
 }"""
+abstract = [
+    "",
+    ""
+]
 doi="10.1109/JSAC.2012.121018"
 publisher = "IEEE Journal on Selected Areas in Communication"
 pdf = 'http://www.cs.cuhk.hk/~cslui/PUBLICATION/jsac-tr.pdf'

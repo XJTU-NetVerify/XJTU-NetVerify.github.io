@@ -15,6 +15,10 @@ bibtex = """@article{zhang2016denial,
   year={2016},
   publisher={IEEE}
 }"""
+abstract = [
+    "",
+    ""
+]
 doi="10.1109/MNET.2016.1600109NM"
 publisher = "IEEE Network Magazine"
 pdf = 'http://nskeylab.xjtu.edu.cn/people/pzhang/files/2016/12/network16.pdf'

@@ -4,6 +4,7 @@ date = 2016
 type = 'paper'
 layout = 'paper'
 
+research_label = ["", ""]
 bibtex = """@inproceedings{yang2016rethinking,
   title={Rethinking the design of openflow switch counters},
   author={Yang, Ji and Hu, Chengchen and Zheng, Peng and Wang, Ruilong and Zhang, Peng and Guan, Xiaohong},
@@ -11,6 +12,10 @@ bibtex = """@inproceedings{yang2016rethinking,
   pages={589--590},
   year={2016}
 }"""
+abstract = [
+    "",
+    ""
+]
 doi = "10.1145/2934872.2959062"
 publisher = "Poster Session of ACM SIGCOMM'16"
 top = true

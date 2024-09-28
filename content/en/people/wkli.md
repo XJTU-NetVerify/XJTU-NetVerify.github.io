@@ -1,5 +1,5 @@
 +++
-title = 'Wenkai Li (李文凯)'
+title = 'Wenkai Li'
 date = 2024-04-30T14:27:08+08:00
 draft = false
 alumni = false
@@ -10,11 +10,14 @@ layout = 'people'
 name = "wkli"
 name_cn = '李文凯'
 name_en = 'Wenkai Li'
-degree = 'Undergraduate (Senior Year)'
+degree = 'Master Student'
 image = '/people/wkli/photo.jpg'
 
 email = 'tartar2002@gmail.com'
 github = 'tuchendis'
+
+# Verification | Simulation | Synthesis
+research_label = ["Simulation"]
 
 [[introduction]] 
     content = "I'm currently a undergraduate student at Lanzhou University, and will join in the NetVerify lab on Sept. 2024. My research focus is dataplane verification."
