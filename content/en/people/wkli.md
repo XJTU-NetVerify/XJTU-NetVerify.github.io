@@ -18,11 +18,9 @@ github = 'tuchendis'
 
 research_label = ["Simulation"]
 
-[[introduction]] 
-    content = "I am a master student at Xi'an Jiaotong University (XJTU), advised by Prof. Peng Zhang.
+[[introduction]] content = "I am a master student at Xi'an Jiaotong University (XJTU), advised by Prof. Peng Zhang.
 
-My research interests are majorly in computer systems: networked systems and operating systems. Currently I'm working on the simulation of networks and network infrastructure design for LLM.
-"
+[[introduction]] content = "My research interests are majorly in computer systems: networked systems and operating systems. Currently I'm working on the simulation of networks and network infrastructure design for LLM."
 
 [[research]]
     interest = 'Network Simulation' 
