@@ -16,6 +16,7 @@ image = '/people/wkli/photo.jpg'
 email = 'tartar2002@gmail.com'
 github = 'tuchendis'
 
+# Verification | Simulation | Synthesis
 research_label = ["Simulation"]
 
 [[introduction]]
@@ -25,7 +26,7 @@ research_label = ["Simulation"]
     content = "My research interests are majorly in computer systems: networked systems and operating systems. Currently I'm working on the simulation of networks and network infrastructure design for LLM. Previous research experience includes data plane verification."
 
 [[research]]
-    interest = 'Network Simulation' 
+    interest = 'Network Simulation'
 
 [[education]] 
     school = "Lanzhou University" 

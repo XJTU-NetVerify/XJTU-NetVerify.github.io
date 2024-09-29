@@ -25,10 +25,10 @@ languageCode = 'en-us'
     [[languages.en.params.about]]
       content = "Undergraduate students who are interested in the field of systems and have self-driven are welcome to join the research group."
 
-    [[languages.en.menu.main]]
-        name = "About"
-        url = "about"
-        weight = 1
+    # [[languages.en.menu.main]]
+    #     name = "About"
+    #     url = "about"
+    #     weight = 1
     [[languages.en.menu.main]]
         name = "Research"
         url = "research"
@@ -78,10 +78,10 @@ languageCode = 'en-us'
     [[languages.zh.params.about]]
       content = "欢迎对系统领域感兴趣、有自我驱动力的本科生同学加入研究组。"
 
-    [[languages.zh.menu.main]]
-        name = "实验室介绍"
-        url = "about"
-        weight = 1
+    # [[languages.zh.menu.main]]
+    #     name = "实验室介绍"
+    #     url = "about"
+    #     weight = 1
 
     [[languages.zh.menu.main]]
         name = "研究领域"
