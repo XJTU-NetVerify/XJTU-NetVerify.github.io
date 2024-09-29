@@ -19,11 +19,11 @@ github = 'tuchendis'
 # Verification | Simulation | Synthesis
 research_label = ["Simulation"]
 
-[[introduction]] 
-    content = "I'm currently a undergraduate student at Lanzhou University, and will join in the NetVerify lab on Sept. 2024. My research focus is dataplane verification."
+[[introduction]] content = "I am a master student at Xi'an Jiaotong University (XJTU), advised by Prof. Peng Zhang."
 
-[[research]]
-    interest = 'Dataplane Verification' 
+[[introduction]] content = "My research interests are majorly in computer systems: networked systems and operating systems. Currently I'm working on the simulation of networks and network infrastructure design for LLM. Previous research experience includes data plane verification."
+
+[[research]] interest = 'Network Simulation'
 
 [[education]] 
     school = "Lanzhou University" 
