@@ -41,7 +41,7 @@ github = 'pzhang101'
     
 [[education]]
     school = "Beijing University of Posts and Telecommunications"
-    degree = 'B.S. in Computer Science'
+    degree = 'B.E. in Computer Science'
     time = '2004.9 - 2008.6'
 
 [[social]]

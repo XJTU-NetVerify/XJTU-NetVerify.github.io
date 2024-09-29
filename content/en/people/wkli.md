@@ -16,7 +16,6 @@ image = '/people/wkli/photo.jpg'
 email = 'tartar2002@gmail.com'
 github = 'tuchendis'
 
-# Verification | Simulation | Synthesis
 research_label = ["Simulation"]
 
 [[introduction]] 

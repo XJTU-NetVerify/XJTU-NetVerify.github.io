@@ -20,7 +20,7 @@ github = 'heroinedd'
 research_label = ["Verification", "Simulation"]
 
 [[introduction]]
-    content = "I am a PhD student in the NetVerify lab of ANTS group, Xi'an Jiaotong University, supervised by Prof. Peng Zhang. My research interests include verification and simulation of computer networks. Specifically, we have proposed the Symbolic Router Execution framework, which can comprehensively reason about network failures (SRE, SIGCOMM '22), and external routes (Expresso, SIGCOMM '24)."
+    content = "I am a Ph.D. student in the NetVerify lab of ANTS group, Xi'an Jiaotong University, supervised by Prof. Peng Zhang. My research interests include verification and simulation of computer networks. Specifically, we have proposed the Symbolic Router Execution framework, which can comprehensively reason about network failures (SRE, SIGCOMM '22), and external routes (Expresso, SIGCOMM '24)."
 
 [[research]]
     interest = 'Network control plane verification'
