@@ -44,6 +44,9 @@ jobs:
       - name: update people in zh
         run: rsync -a content/en/people/* content/zh/people/
 
+      - name: update research in zh
+        run: rsync -a content/en/research/* content/zh/research/
+
       - name: Build
         run: hugo --minify
 

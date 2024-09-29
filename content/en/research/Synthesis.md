@@ -1,5 +1,5 @@
 +++
-title = 'Synthesis'
+title = 'Network Synthesis'
 date = 2024-05-17T15:25:56+08:00
 draft = false
 type = 'research'
