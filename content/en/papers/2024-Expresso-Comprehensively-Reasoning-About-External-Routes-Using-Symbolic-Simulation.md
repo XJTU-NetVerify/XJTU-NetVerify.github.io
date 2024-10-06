@@ -5,7 +5,7 @@ type = 'paper'
 layout = 'paper'
 draft = false
 
-research_label = ["", ""]
+research_label = ["Verification", "Simulation"]
 bibtex = """@inproceedings{wang2024expresso,
   title={Expresso: Comprehensively Reasoning About External Routes Using Symbolic Simulation},
   author={Wang, Dan and Zhang, Peng and Gember-Jacobson, Aaron},
