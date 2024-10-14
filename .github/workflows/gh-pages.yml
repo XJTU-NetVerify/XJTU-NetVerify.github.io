@@ -42,9 +42,10 @@ jobs:
         run: rsync -a content/en/papers/* content/zh/papers/
 
       - name: update people in zh
-        run: cp -r content/en/people/alumni content/zh/people/
-             cp -r content/en/people/student content/zh/people/
-             cp -r content/en/people/mentor content/zh/people/
+        run: |
+          cp -r content/en/people/alumni content/zh/people/
+          cp -r content/en/people/student content/zh/people/
+          cp -r content/en/people/mentor content/zh/people/
         # run: rsync -a content/en/people/* content/zh/people/
 
       - name: update research in zh
