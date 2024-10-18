@@ -5,7 +5,7 @@ type = 'paper'
 layout = 'paper'
 draft = false
 
-research_label = ["", ""]
+research_label = ["Verification"]
 bibtex = """@inproceedings{zhang2016mind,
   title={Mind the gap: Monitoring the control-data plane consistency in software defined networks},
   author={Zhang, Peng and Li, Hao and Hu, Chengchen and Hu, Liujia and Xiong, Lei and Wang, Ruilong and Zhang, Yuemei},
