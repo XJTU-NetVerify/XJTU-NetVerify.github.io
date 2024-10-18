@@ -5,7 +5,7 @@ type = 'paper'
 layout = 'paper'
 draft = false
 
-research_label = ["", ""]
+research_label = ["Verification"]
 bibtex = """@inproceedings{zhang2016stick,
   title={Stick to the script: Monitoring the policy compliance of SDN data plane},
   author={Zhang, Peng and Li, Hao and Hu, Chengchen and Hu, Liujia and Xiong, Lei},
