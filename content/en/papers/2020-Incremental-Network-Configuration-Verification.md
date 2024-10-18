@@ -5,7 +5,7 @@ type = 'paper'
 layout = 'paper'
 draft = false
 
-research_label = ["Verification", "Simulation"]
+research_label = ["Verification"]
 bibtex = """@inproceedings{zhang2020incremental,
   title={Incremental network configuration verification},
   author={Zhang, Peng and Huang, Yuhao and Gember-Jacobson, Aaron and Shi, Wenbo and Liu, Xu and Yang, Hongkun and Zuo, Zhiqiang},
