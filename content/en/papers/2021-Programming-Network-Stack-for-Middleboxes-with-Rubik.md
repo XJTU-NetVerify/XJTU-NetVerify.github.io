@@ -5,7 +5,7 @@ type = 'paper'
 layout = 'paper'
 draft = false
 
-research_label = ["", ""]
+research_label = ["Synthesis"]
 bibtex = """@inproceedings {262003,
   author = {Hao Li and Changhao Wu and Guangda Sun and Peng Zhang and Danfeng Shan and Tian Pan and Chengchen Hu},
   title = {Programming Network Stack for Middleboxes with Rubik},
