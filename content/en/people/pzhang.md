@@ -48,6 +48,9 @@ github = 'pzhang101'
     website = 'blog'
     url = 'https://gr.xjtu.edu.cn/en/web/p-zhang/home'
 
+[[award]]
+    title = "Best Paper Honorable Mention, ACM SIGCOMM 2024"
+
 [[service]]
     commission = "Technical Program Committee (TPC)"
     conference = ["USENIX NSDI (2025)", "IEEE INFOCOM (2025, 2024, 2023, 2022, 2021)", "IEEE ICNP (2024)"]
