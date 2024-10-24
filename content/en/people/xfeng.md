@@ -35,13 +35,17 @@ github = 'fxxowo'
 [[award]]
   title = 'The 2022 International Collegial Programming Contest (ICPC)'
   award = 'Bronze Medal, Asia Shenyang Regional Contest' 
+  icon = true
 
 [[award]]
-  title = 'The 2024 GroupProgramming Ladder Tournament（GPLT)'
+  title = 'The 2024 Group Programming Ladder Tournament（GPLT)'
   award = 'Team first prize'
+  icon = true
 
 [[award]]
   title = '2023 National ScholarShip'
+  award = "National Scholarship"
+  icon = true
 +++
 
 

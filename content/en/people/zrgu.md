@@ -47,10 +47,12 @@ research_label = ["Verification", "Simulation"]
 [[award]]
     title = 'The 2021 International Collegial Programming Contest (ICPC)'
     award = 'Bronze Medal, Asia Jinan Regional Contest (Ranked 108th / 726)'
+    icon = true
 
 [[award]]
     title = '12th “Lanqiao” Cup National Software and Information Technology Contest'
     award = 'First Prize, Track of Java Software Development (Ranked 6th Nationally)'
+    icon = true
 
 [[social]]
     website = 'blog'

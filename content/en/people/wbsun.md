@@ -51,10 +51,16 @@ research_label = ["Verification", "Simulation"]
 
 [[award]]
     title = '2020 National ScholarShip'
+    award = "National Scholarship"
+    icon = true
 
 [[award]]
     title = '2021 National ScholarShip'
+    award = "National Scholarship"
+    icon = true
 
 [[award]]
     title = '2022 National ScholarShip'
+    award = "National Scholarship"
+    icon = true
 +++

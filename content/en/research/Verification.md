@@ -13,4 +13,5 @@ detailedIntro = [
 ]
 
 img = "/research/Verification.png"
+imgDark = "/research/Verification_dark.png"
 +++
