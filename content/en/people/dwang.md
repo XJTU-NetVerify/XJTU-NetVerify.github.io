@@ -40,6 +40,8 @@ research_label = ["Verification", "Simulation"]
 
 [[award]]
     title = "National Scholarships for Master's Degree Students, 2022"
+    award = "National Scholarship"
+    icon = true
 [[award]]
     title = "Best Paper Honorable Mention in ACM SIGCOMM '24"
 [[award]]

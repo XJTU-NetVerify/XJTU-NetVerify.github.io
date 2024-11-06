@@ -5,6 +5,7 @@ type = 'paper'
 layout = 'paper'
 draft = false
 
+award ="Best Paper Honorable Mention"
 research_label = ["Verification", "Simulation"]
 bibtex = """@inproceedings{wang2024expresso,
   title={Expresso: Comprehensively Reasoning About External Routes Using Symbolic Simulation},

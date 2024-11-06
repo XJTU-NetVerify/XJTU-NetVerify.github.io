@@ -50,6 +50,7 @@ research_label = ["Verification"]
 [[award]]
     title = 'BMW China Hackathon'
     award = 'Team Champion, 2021'
+    icon = true
 
 [[social]]
     website = 'blog'

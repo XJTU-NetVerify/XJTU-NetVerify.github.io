@@ -46,12 +46,15 @@ research_label = ["Simulation"]
 [[award]] 
     title = 'The 2023 International Collegial Programming Contest (ICPC)'
     award = "Gold Medal, Asia Xi'an Regional Contest"
+    icon = true
 
 [[award]] 
     title = 'The 2022 International Collegial Programming Contest (ICPC)'
     award = "Gold Medal, Asia Shenyang Regional Contest"
+    icon = true
 
 [[award]] 
     title = 'The 2021 International Collegial Programming Contest (ICPC)'
     award = "Silver Medal, Asia-East Continent Final Contest"
+    icon = true
 +++

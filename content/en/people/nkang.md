@@ -62,17 +62,25 @@ research_label = ["Synthesis"]
 [[award]]
     title = 'The 2018 International Collegial Programming Contest (ICPC)'
     award = "Bronze Medal, Asia Shang'hai Regional Contest"
+    icon = true
 
 [[award]]
     title = 'Internet Plus College Students Innovation and Entrepreneurship Competition'
     award = 'Silver Medal, 2017'
+    icon = true
 
 [[award]]
     title = "National Scholarships for Master's Degree Students, 2019"
+    award = "National Scholarship"
+    icon = true
 
 [[award]]
     title = "National Scholarships for Bachelor's Degree Students, 2016"
+    award = "National Scholarship"
+    icon = true
     
 [[award]]
     title = "National Scholarships for Bachelor's Degree Students, 2015"
+    award = "National Scholarship"
+    icon = true
 +++
