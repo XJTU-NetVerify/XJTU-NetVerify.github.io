@@ -15,6 +15,7 @@ image = "/people/pzhang/photo.jpg"
 
 email = 'p-zhang@xjtu.edu.cn'
 github = 'pzhang101'
+google_scholar = 'AdvgGYgAAAAJ'
 
 [[introduction]]
     content = "Peng Zhang is a professor with School of Computer Science and Technology, Xi’an Jiaotong University (XJTU). Before joining XJTU, Peng Zhang received his B.E. degree from Beijing University of Posts and Telecommunications in 2008, and Ph.D. degree from Tsinghua University (with honor) in 2013, both in computer science. He was a visiting researcher at Chinese University of Hong Kong (2009) and Yale University (2011-2012). His research interests include network verification, network simulation, programmable networks."
@@ -50,6 +51,8 @@ github = 'pzhang101'
 
 [[award]]
     title = "Best Paper Honorable Mention, ACM SIGCOMM 2024"
+    title = "K. C. Wong Scholar, Xi'an Jiaotong Univeristy, 2017"
+    title = "Young Talent Support Award, CCF, 2017"
 
 [[service]]
     commission = "Technical Program Committee (TPC)"

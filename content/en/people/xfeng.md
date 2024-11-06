@@ -17,9 +17,10 @@ email = 'fxxowo@163.com'
 github = 'fxxowo'
 
 [[introduction]]
-  content = "I am an undergraduate from NorthWest University."
+  content = "I am an undergraduate from NorthWest University, and will join XJTU for master degree in 2025."
+
 [[introduction]]
-  content = "My undergraduate degree is in the School of Information Science and Technology at NorthWest University. During this period, I served as the head of the psychological counseling center and the minister of the University Algorithm Competition Association." 
+  content = "I am now with the School of Information Science and Technology at NorthWest University. During this period, I served as the head of the psychological counseling center and the minister of the University Algorithm Competition Association." 
 
 [[research]]
   interest = 'Network Verification' 
@@ -27,7 +28,7 @@ github = 'fxxowo'
 [[education]]
   school = "NorthWest University"
   major = "Computer Science and Technology"
-  degree = 'Bachelor Degree'
+  degree = 'B.E.'
   rank = '2/88'
   gpa = '3.62/4.00'
   time = '2021.9 - now' 
