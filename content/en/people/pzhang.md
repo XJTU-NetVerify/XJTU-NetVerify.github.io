@@ -51,7 +51,9 @@ google_scholar = 'AdvgGYgAAAAJ'
 
 [[award]]
     title = "Best Paper Honorable Mention, ACM SIGCOMM 2024"
+[[award]]
     title = "K. C. Wong Scholar, Xi'an Jiaotong Univeristy, 2017"
+[[award]]
     title = "Young Talent Support Award, CCF, 2017"
 
 [[service]]
