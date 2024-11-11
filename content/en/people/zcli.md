@@ -23,16 +23,10 @@ research_label = ["Verification"]
     content = "I am a student in the ANTS group from Xi'an Jiaotong University. My research topics of interest include scalable network verification and parallel network verification. I am interested in challenges of improving performance of network verification tools by utilizing parallel computing technology and reducing redundancy in algorithms."
 
 [[introduction]]
-    content = "I obtained my bachelor degree in Computer Science from Xi'an Jiaotong University in 2022, and i'm going to obtain my master degree in 2025."
-
-[[introduction]]
-    content = "Welcome to join us."
+    content = "I obtained my bachelor degree in Computer Science from Xi'an Jiaotong University in 2022, and is expected to obtain my master degree in 2025."
 
 [[research]]
-    interest = 'Scalable Network Verification / Model Checking'
-[[research]]
-    time = 'Bachelor'
-    interest = 'Parallel Network Verification'
+    interest = 'Network Verification'
 
 [[education]]
     school = "Xi'an Jiaotong University"
@@ -41,7 +35,7 @@ research_label = ["Verification"]
 [[education]]
     school = "Xi'an Jiaotong University"
     major = "School of Computer Science and Technology"
-    degree = 'Bachelor Degree'
+    degree = 'B.E. in Computer Science'
     rank = '1/160'
 
 [[award]]

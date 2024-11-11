@@ -10,7 +10,7 @@ layout = 'people'
 name = 'dwang'
 name_cn = '王丹'
 name_en = 'Dan Wang'
-degree = 'Ph.D Student'
+degree = 'Ph.D. Student'
 image = '/people/dwang/photo.jpg'
 
 email = 'dan-wang@stu.xjtu.edu.cn'
@@ -20,22 +20,22 @@ github = 'heroinedd'
 research_label = ["Verification", "Simulation"]
 
 [[introduction]]
-    content = "I am a Ph.D student in the NetVerify lab of ANTS group, Xi'an Jiaotong University, supervised by Professor Peng Zhang. My research interest mainly focus on network verification. Specifically, we have proposed the ``Symbolic Router Execution'' framework, which utilizes symbolic simulation to comprehensively reason about network failures (SRE, SIGCOMM '22), and external routes (Expresso, SIGCOMM '24). Currently, I'm working on extending this framework to reason about all converge states of a network. Beyond this framework, I'm working on distributed network simulation, and access control policy verification on public clouds."
+    content = "I am a Ph.D. student in the NetVerify lab, advised by Prof. Peng Zhang. My research interest mainly focus on network verification. Specifically, we have proposed the ``Symbolic Router Execution'' framework, which utilizes symbolic simulation to comprehensively reason about network failures (SRE, SIGCOMM '22), and external routes (Expresso, SIGCOMM '24). Currently, I'm working on extending this framework to reason about all converge states of a network. Beyond this framework, I'm working on distributed network simulation, and access control policy verification on public clouds."
 
 [[research]]
-    interest = 'Network control plane verification, including distributed simulation, reasoning about all converge states.'
+    interest = 'Control plane verification'
 [[research]]
-    interest = 'Access control policy verification on public clouds'
+    interest = 'Access control verification'
 
 [[education]]
     school = "Xi'an Jiaotong University"
     major = "School of Computer Science and Technology"
-    degree = 'Ph.D Student in Computer Science'
+    degree = 'Ph.D. Student in Computer Science'
     time = '2021.9 - now'
 [[education]]
     school = "Xi'an Jiaotong University"
     major = "School of Computer Science and Technology"
-    degree = 'Bachelor Degree in Computer Science'
+    degree = 'B.E. in Computer Science'
     time = '2017.9 - 2021.6'
 
 [[award]]
