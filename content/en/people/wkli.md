@@ -13,7 +13,7 @@ name_en = 'Wenkai Li'
 degree = 'Master Student'
 image = '/people/wkli/photo.jpg'
 
-email = 'tartar2002@gmail.com'
+email = 'tartar2002@163.com'
 github = 'tuchendis'
 
 # Verification | Simulation | Synthesis
