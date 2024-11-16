@@ -42,6 +42,10 @@ research_label = ["Simulation"]
     enterprise = 'Huawei Technologies Co., Ltd.'
     work = 'HPC'
     time = '2023.7-2023.9'
+[[practice]]
+    enterprise = 'Microsoft Research Lab – Asia'
+    work = 'Network Simulation'
+    time = '2024.11-Now'
 
 [[award]] 
     title = 'The 2023 International Collegial Programming Contest (ICPC)'
