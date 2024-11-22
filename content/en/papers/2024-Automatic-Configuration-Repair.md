@@ -13,12 +13,12 @@ abstract = [
 ]
 doi = "10.1145/3696348.3696895"
 publisher = "Proceedings of ACM HotNets'24"
-pdf = ''
+pdf = 'https://conferences.sigcomm.org/hotnets/2024/papers/hotnets24-398.pdf'
 slide = ''
 video = ''
 poster = ''
 code = ''
-web = ''
+web = 'https://dl.acm.org/doi/10.1145/3696348.3696895'
 [[paper.author]]
     name = 'Xu Liu'
     id = 'xliu'

@@ -41,6 +41,6 @@ research_label = ["Verification", "Synthesis"]
 
 [[practice]]
     enterprise = 'ByteDance Ltd.'
-    work = 'Network Infrastructure Department'
+    work = 'Network Engineering Department'
     time = '2024.4 - now'
 +++
