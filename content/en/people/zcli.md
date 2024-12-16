@@ -32,11 +32,17 @@ research_label = ["Verification"]
     school = "Xi'an Jiaotong University"
     major = "School of Computer Science and Technology"
     degree = 'Master Degree'
+
 [[education]]
     school = "Xi'an Jiaotong University"
     major = "School of Computer Science and Technology"
     degree = 'B.E. in Computer Science'
     rank = '1/160'
+
+[[practice]]
+    enterprise = 'Alibaba Cloud Co., Ltd.'
+    work = 'GateWay Load Balancer'
+    time = '2024.6 - 2024.8'
 
 [[award]]
     title = 'Tencent Scholarship'
