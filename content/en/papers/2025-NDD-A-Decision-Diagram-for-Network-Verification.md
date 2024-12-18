@@ -1,6 +1,6 @@
 +++
 title = 'NDD: A Decision Diagram for Network Verification'
-date = 2025
+date = 202503
 type = 'paper'
 layout = 'paper'
 draft = false
