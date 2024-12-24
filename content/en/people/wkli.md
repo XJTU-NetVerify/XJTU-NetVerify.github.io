@@ -30,8 +30,8 @@ research_label = ["Simulation"]
 
 [[education]] 
     school = "Lanzhou University" 
-    major = "School of Computer Science and Technology"
-    degree = 'Bachelor Degree'
+    major = "Computer Science and Technology"
+    degree = 'B.E.'
     time = '2020.9 - 2024.6'
 
 [[practice]]
@@ -50,15 +50,15 @@ research_label = ["Simulation"]
 [[award]] 
     title = 'The 2023 International Collegial Programming Contest (ICPC)'
     award = "Gold Medal, Asia Xi'an Regional Contest"
-    icon = true
+    icon = false
 
 [[award]] 
     title = 'The 2022 International Collegial Programming Contest (ICPC)'
     award = "Gold Medal, Asia Shenyang Regional Contest"
-    icon = true
+    icon = false
 
 [[award]] 
     title = 'The 2021 International Collegial Programming Contest (ICPC)'
     award = "Silver Medal, Asia-East Continent Final Contest"
-    icon = true
+    icon = false
 +++

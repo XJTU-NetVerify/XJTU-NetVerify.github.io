@@ -10,7 +10,7 @@ layout = 'people'
 name = "nkang"
 name_cn = '康宁'
 name_en = 'Ning Kang'
-degree = 'Ph.D Student'
+degree = 'Ph.D. Candidate'
 image = '/people/nkang/photo.jpg'
 
 email = 'kangning2018@foxmail.com'
@@ -20,7 +20,7 @@ github = '916267142'
 research_label = ["Synthesis"]
 
 [[introduction]]
-    content = "I'm a passionate boy from Anhui, China, and a member of the ANTS team. My interests include various activities such as badminton, swimming, and playing the piano. I'm also delighted to be a part of this team and to work together with everyone."
+    content = "I'm Ph.D. student from the NetVerify Lab, Xi'an Jiaotong University. My research interests include various activities such as badminton, swimming, and playing the piano. I'm also delighted to be a part of this team and to work together with everyone."
 
 [[introduction]]
     content = "My previous research primarily focused on network data plane verification (APKeep, NSDI20) and network intent mining (NeMiner, ICNP23). Currently, I am working on improve the scalability of formal network control plane verification based on SMT solvers."
