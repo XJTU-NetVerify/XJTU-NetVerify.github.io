@@ -49,6 +49,10 @@ google_scholar = 'AdvgGYgAAAAJ'
     website = 'blog'
     url = 'https://gr.xjtu.edu.cn/en/web/p-zhang/home'
 
+[[social]]
+   website = "googlescholar"
+   url = "https://scholar.google.com/citations?user=AdvgGYgAAAAJ&hl=en"
+
 [[award]]
     title = "Best Paper Honorable Mention, ACM SIGCOMM 2024"
 [[award]]
