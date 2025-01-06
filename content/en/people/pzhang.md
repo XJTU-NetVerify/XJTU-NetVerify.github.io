@@ -65,5 +65,5 @@ google_scholar = 'AdvgGYgAAAAJ'
     conference = ["USENIX NSDI (2025)", "IEEE INFOCOM (2025, 2024, 2023, 2022, 2021)", "IEEE ICNP (2024)"]
 [[service]]
     commission = "Editorial Board"
-    conference = ["IEEE Journal on Selected Areas in Communications,  Series on Network Softwarization & Enable"]
+    conference = ["IEEE Journal on Selected Areas in Communications,  Series on Network Softwarization & Enabler"]
 +++
