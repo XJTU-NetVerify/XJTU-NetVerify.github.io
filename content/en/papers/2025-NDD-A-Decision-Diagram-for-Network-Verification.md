@@ -14,7 +14,8 @@ abstract = [
 ]
 doi = ""
 publisher = "Proceedings of USENIX NSDI'25"
-pdf = ''
+pdf = '/papers/NDD/NDD-final-version.pdf'
+code = 'https://github.com/XJTU-NetVerify/NDD'
 slide = ''
 video = ''
 top = true
