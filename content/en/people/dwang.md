@@ -20,7 +20,7 @@ github = 'heroinedd'
 research_label = ["Verification", "Simulation"]
 
 [[introduction]]
-    content = "I am a Ph.D. student in the NetVerify lab, advised by Prof. Peng Zhang. My research interest mainly focus on network verification. Specifically, we have proposed the ``Symbolic Router Execution'' framework, which utilizes symbolic simulation to comprehensively reason about network failures (SRE, SIGCOMM '22), and external routes (Expresso, SIGCOMM '24). Currently, I'm working on extending this framework to reason about all converge states of a network. Beyond this framework, I'm working on distributed network simulation, and access control policy verification on public clouds."
+    content = "I am a Ph.D. student in the NetVerify lab, advised by Prof. Peng Zhang. My research interest mainly focus on network verification. Specifically, we have proposed the ``Symbolic Router Execution'' framework, which utilizes symbolic simulation to comprehensively reason about network failures (SRE, SIGCOMM '22), and external routes (Expresso, SIGCOMM '24). Currently, I'm working on extending this framework to reason about network configuration updates. Beyond this framework, I'm working on distributed network simulation, and access control policy verification on public clouds."
 
 [[research]]
     interest = 'Control plane verification'
@@ -37,6 +37,11 @@ research_label = ["Verification", "Simulation"]
     major = "School of Computer Science and Technology"
     degree = 'B.E. in Computer Science'
     time = '2017.9 - 2021.6'
+
+[[practice]]
+    enterprise = 'ByteDance Ltd.'
+    work = 'Network Infrastructure Department'
+    time = '2024.11 - now'
 
 [[award]]
     title = "National Scholarships for Master's Degree Students, 2022"
