@@ -19,8 +19,8 @@ abstract = [
 ]
 doi = "10.1109/ICNP59255.2023.10355598"
 publisher = "Proceedings of IEEE ICNP'23"
-pdf = 'https://ieeexplore.ieee.org/abstract/document/10355598'
-slide = '/papers/Network Specification Mining with High Fidelity and Scalability/NetMiner_ICNP_10_10.pdf'
+pdf = '/papers/NetMiner/NetMiner_ICNP.pdf'
+slide = '/papers/NetMiner/NetMiner_ICNP_Slides.pdf'
 [[paper.author]]
     name = 'Ning Kang'
     id = "nkang"
