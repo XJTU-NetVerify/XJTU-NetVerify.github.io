@@ -124,6 +124,10 @@ languageCode = 'en-us'
     #     weight = 5
 
 [[params.introImages]]
+  src = "/intro/202502.jpeg"
+[[params.introImages]]
+  src = "/intro/202501.jpeg"
+[[params.introImages]]
   src = "/intro/group.jpeg"
 [[params.introImages]]
   src = "/intro/group2.jpeg"
