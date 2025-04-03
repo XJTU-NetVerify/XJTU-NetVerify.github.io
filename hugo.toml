@@ -25,11 +25,6 @@ languageCode = 'en-us'
     [[languages.en.params.about]]
       content = "Undergraduate students who are highly self-motivated, and interested in this research direction, are welcome to join our NetVerify lab (contact: p-zhang@xjtu.edu.cn)"
 
-    # "We are a research lab led by Prof. Peng Zhang, focusing on Network Verification. Network verfication is an exciting new direction in computer network: it leverages formal methods, together with simulation/emulation to ensure the correctness of large and complex computer networks, e.g., datacenter networks, and wide area networks."
-    # "Our lab has been working in network verifiction ever since 2015, with the work of VeriDP (CoNEXT'16). Then, we proposed data plane verifiers APKeep (NSDI'20) and MNV (CoNEXT'23). The current research focuse is control plane verification, with preliminary work like DNA (NSDI'22), SRE (SIGCOMM'22), and Expresso (SIGCOMM'24). Some of the work are already open sourced."
-    # "The research group belongs to Academician Xiaohong Guan's team, and its main research directions include: future Internet, data center network; trying to mine real problems from real scenarios to improve the stability and security of China's network infrastructure; publishing academic papers with international influence, and cultivating top talents in the field of network systems."
-    # "Undergraduate students who are interested in the field of systems and have self-driven are welcome to join the research group."
-
     # [[languages.en.menu.main]]
     #     name = "About"
     #     url = "about"
@@ -55,11 +50,11 @@ languageCode = 'en-us'
     #     url = "courses"
     #     weight = 4
     #
-    [[languages.en.menu.main]]
-        name = "Join us"
-        url = "joinus"
-        # url = "/joinus/ANTS-20240509.pptx"
-        weight = 5
+    #[[languages.en.menu.main]]
+    #    name = "Join us"
+    #    url = "joinus"
+    #    # url = "/joinus/ANTS-20240509.pptx"
+    #    weight = 5
 
   [languages.zh]
     contentDir = "content/zh"
@@ -108,10 +103,10 @@ languageCode = 'en-us'
         url = "papers"
         weight = 4
 
-    [[languages.zh.menu.main]]
-        name = "Join us"
-        url = "/joinus"
-        weight = 5
+    #[[languages.zh.menu.main]]
+    #    name = "Join us"
+    #    url = "/joinus"
+    #    weight = 5
 
     # [[languages.zh.menu.main]]
     #     name = "课程信息"
@@ -127,10 +122,10 @@ languageCode = 'en-us'
   src = "/intro/202502.jpeg"
 [[params.introImages]]
   src = "/intro/202501.jpeg"
-[[params.introImages]]
-  src = "/intro/group.jpeg"
-[[params.introImages]]
-  src = "/intro/group2.jpeg"
+#[[params.introImages]]
+#  src = "/intro/group.jpeg"
+#[[params.introImages]]
+#  src = "/intro/group2.jpeg"
 [[params.introImages]]
   src = "/intro/group3.jpeg"
 
@@ -140,7 +135,7 @@ languageCode = 'en-us'
 [[params.logo]]
   light = "/ants-logo.png"
   dark = "/ants-logo-dark.png"
-  url = "/"
+  url = "http://ants.xjtu.edu.cn"
 # [[params.logo]]
 #   src = "/netverify.png"
 #   url = "/"
