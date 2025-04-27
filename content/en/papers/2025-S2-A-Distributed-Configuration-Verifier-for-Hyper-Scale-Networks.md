@@ -1,3 +1,5 @@
++++
+
 title = 'S2: A Distributed Configuration Verifier for Hyper-Scale Networks'
 date = 2025
 type = 'paper'
@@ -33,3 +35,5 @@ top = true
     name = 'Weirong Jiang (ByteDance)'
 [[paper.author]]
     name = 'Yongping Tang (ByteDance)'
+
++++
