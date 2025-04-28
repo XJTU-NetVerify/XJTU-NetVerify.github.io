@@ -21,7 +21,7 @@ id = 'wkli'
 [[paper.author]]
 name = 'Ran Shu'
 
-[[paper.author]]
+[[paper.author]] 
 name = 'Peng Zhang'
 id = 'pzhang'
 
