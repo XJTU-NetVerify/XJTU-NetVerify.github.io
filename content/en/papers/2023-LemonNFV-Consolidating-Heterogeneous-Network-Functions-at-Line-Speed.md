@@ -1,6 +1,6 @@
 +++
 title = 'LemonNFV: Consolidating Heterogeneous Network Functions at Line Speed'
-date = 2023
+date = 2023-04-01
 type = 'paper'
 layout = 'paper'
 draft = false

@@ -1,6 +1,6 @@
 +++
 title = 'Network Specification Mining with High Fidelity and Scalability'
-date = 2023
+date = 2023-10-01
 type = 'paper'
 layout = 'paper'
 

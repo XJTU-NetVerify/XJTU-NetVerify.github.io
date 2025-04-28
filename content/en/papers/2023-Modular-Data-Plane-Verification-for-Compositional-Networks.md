@@ -1,6 +1,6 @@
 +++
 title = 'Modular Data Plane Verification for Compositional Networks'
-date = 2023
+date = 2023-12-01
 type = 'paper'
 layout = 'paper'
 

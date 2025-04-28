@@ -1,6 +1,6 @@
 +++
 title = 'Automatic Configuration Repair'
-date = 202407
+date = 2024-07-01
 type = 'paper'
 layout = 'paper'
 draft = false

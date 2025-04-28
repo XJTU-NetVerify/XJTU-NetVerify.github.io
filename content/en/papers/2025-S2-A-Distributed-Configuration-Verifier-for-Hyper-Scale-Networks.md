@@ -1,7 +1,6 @@
 +++
-
 title = 'S2: A Distributed Configuration Verifier for Hyper-Scale Networks'
-date = 2025
+date = 2025-09-01
 type = 'paper'
 layout = 'paper'
 draft = false
@@ -23,17 +22,21 @@ top = true
     id = 'pzhang'
 [[paper.author]]
     name = 'Wenbing Sun'
+    id = 'wbsun'
 [[paper.author]]
     name = 'Wenkai Li'
+    id = 'wkli'
 [[paper.author]]
     name = 'Xing Feng'
+    id = 'xfeng'
 [[paper.author]]
     name = 'Hao Li'
+    url = "https://gr.xjtu.edu.cn/en/web/hao.li"
 [[paper.author]]
-    name = 'Jiawei Chen (ByteDance)'
+    name = 'Jiawei Chen'
 [[paper.author]]
-    name = 'Weirong Jiang (ByteDance)'
+    name = 'Weirong Jiang'
 [[paper.author]]
-    name = 'Yongping Tang (ByteDance)'
+    name = 'Yongping Tang'
 
 +++
