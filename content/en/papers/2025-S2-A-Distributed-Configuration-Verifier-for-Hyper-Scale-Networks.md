@@ -23,17 +23,20 @@ top = true
     id = 'pzhang'
 [[paper.author]]
     name = 'Wenbing Sun'
+    id = 'wbsun'
 [[paper.author]]
     name = 'Wenkai Li'
+    id = 'wkli'
 [[paper.author]]
     name = 'Xing Feng'
+    id = 'xfeng'
 [[paper.author]]
     name = 'Hao Li'
 [[paper.author]]
-    name = 'Jiawei Chen (ByteDance)'
+    name = 'Jiawei Chen'
 [[paper.author]]
-    name = 'Weirong Jiang (ByteDance)'
+    name = 'Weirong Jiang'
 [[paper.author]]
-    name = 'Yongping Tang (ByteDance)'
+    name = 'Yongping Tang'
 
 +++
