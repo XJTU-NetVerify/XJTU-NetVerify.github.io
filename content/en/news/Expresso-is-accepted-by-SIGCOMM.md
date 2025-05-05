@@ -1,5 +1,5 @@
 +++
-title = 'Expresso is Accepted by SIGCOMM'
+title = 'Expresso is Accepted by SIGCOMM (Best Paper Honorable Mention)'
 date = 2024-05-04T14:40:06+08:00
 draft = false
 type = 'news'
