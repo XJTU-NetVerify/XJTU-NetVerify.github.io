@@ -17,7 +17,7 @@ doi = ""
 publisher = "Proceedings of USENIX NSDI'25"
 pdf = '/papers/NDD/NDD-final-version.pdf'
 code = 'https://github.com/XJTU-NetVerify/NDD'
-slide = ''
+slide = '/papers/NDD/NDD-A-Decision-Diagram-for-Network-Verification.pdf'
 video = ''
 top = true
 [[paper.author]]
