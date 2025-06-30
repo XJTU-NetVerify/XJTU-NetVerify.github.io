@@ -33,6 +33,11 @@ research_label = ["Verification", "Simulation"]
     degree = 'Ph.D. Student in Computer Science'
     time = '2021.9 - now'
 [[education]]
+    school = "University of Washington"
+    major = "Paul G. Allen School of Computer Science & Engineering"
+    degree = 'Visit Intern'
+    time = '2025.7 - 2026.6'
+[[education]]
     school = "Xi'an Jiaotong University"
     major = "School of Computer Science and Technology"
     degree = 'B.E. in Computer Science'
@@ -41,7 +46,7 @@ research_label = ["Verification", "Simulation"]
 [[practice]]
     enterprise = 'ByteDance Ltd.'
     work = 'Network Infrastructure Department'
-    time = '2024.11 - now'
+    time = '2024.11 - 2025.6'
 
 [[award]]
     title = "National Scholarships for Master's Degree Students, 2022"
