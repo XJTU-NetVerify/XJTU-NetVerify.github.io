@@ -10,7 +10,7 @@ layout = 'people'
 name = 'dwang'
 name_cn = '王丹'
 name_en = 'Dan Wang'
-degree = 'Ph.D. Student'
+degree = 'Ph.D. Candidate'
 image = '/people/dwang/photo.jpg'
 
 email = 'dan-wang@stu.xjtu.edu.cn'
