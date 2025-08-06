@@ -20,7 +20,7 @@ github = 'heroinedd'
 research_label = ["Verification", "Simulation"]
 
 [[introduction]]
-    content = "I am a Ph.D. student in the NetVerify lab, advised by Prof. Peng Zhang. My research interest mainly focus on network verification. Specifically, we have proposed the 'Symbolic Router Execution' framework, which utilizes symbolic simulation to comprehensively reason about network failures (SRE, SIGCOMM '22), and external routes (Expresso, SIGCOMM '24). Currently, I'm working on extending this framework to reason about network configuration updates. Beyond this framework, I also have worked on verifying hyper-scale networks through distributed simulation (S2, SIGCOMM '25). Besides network configuration verification, I also do research on access control policy verification on public clouds."
+    content = "I am a Ph.D. student in the NetVerify lab, advised by Prof. Peng Zhang. My research interest mainly focus on network verification. Specifically, we have proposed the 'Symbolic Router Execution' framework, which utilizes symbolic simulation to comprehensively reason about network failures (SRE, SIGCOMM '22), and external routes (Expresso, SIGCOMM '24). Beyond this framework, I also have worked on verifying hyper-scale networks through distributed simulation (S2, SIGCOMM '25). Besides network configuration verification, I also do research on access control policy verification on public clouds."
 
 [[research]]
     interest = 'Control plane verification'
