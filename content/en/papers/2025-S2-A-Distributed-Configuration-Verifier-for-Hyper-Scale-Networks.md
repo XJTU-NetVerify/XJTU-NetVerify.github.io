@@ -13,6 +13,7 @@ abstract = [
 ]
 doi = ""
 publisher = "Proceedings of ACM SIGCOMM'25"
+pdf='/papers/S2/s2_final_version.pdf'
 top = true
 [[paper.author]]
     name = 'Dan Wang'
