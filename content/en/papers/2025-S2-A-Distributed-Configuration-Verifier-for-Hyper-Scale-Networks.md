@@ -14,6 +14,8 @@ abstract = [
 doi = ""
 publisher = "Proceedings of ACM SIGCOMM'25"
 pdf='/papers/S2/s2_final_version.pdf'
+slide='/papers/S2/s2_slides.pdf'
+video='https://www.youtube.com/watch?v=r6Y73NGaQBw'
 top = true
 [[paper.author]]
     name = 'Dan Wang'
