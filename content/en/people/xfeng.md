@@ -10,7 +10,7 @@ layout = 'people'
 name = 'xfeng'
 name_cn = '冯幸'
 name_en = 'Xing Feng'
-degree = 'Undergraduate (Senior Year)'
+degree = 'Master Student'
 image = '/people/xfeng/photo.jpg'
 
 email = 'fxxowo@163.com'
