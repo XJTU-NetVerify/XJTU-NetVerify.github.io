@@ -17,10 +17,10 @@ email = 'fxxowo@163.com'
 github = 'fxxowo'
 
 [[introduction]]
-  content = "I am an undergraduate from NorthWest University, and will join XJTU for master degree in 2025."
+  content = "I am a master student at Xi'an Jiaotong University (XJTU), advised by Prof. Peng Zhang."
 
 [[introduction]]
-  content = "I am now with the School of Information Science and Technology at NorthWest University. During this period, I served as the head of the psychological counseling center and the minister of the University Algorithm Competition Association." 
+  content = "My research interests are majorly in DataPlane Verification and Distributed Network Simulation." 
 
 [[research]]
   interest = 'Network Verification' 
@@ -31,7 +31,7 @@ github = 'fxxowo'
   degree = 'B.E.'
   rank = '2/88'
   gpa = '3.62/4.00'
-  time = '2021.9 - now' 
+  time = '2021.9 - 2025.6' 
 
 [[award]]
   title = 'The 2022 International Collegial Programming Contest (ICPC)'
