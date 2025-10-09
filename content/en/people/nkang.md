@@ -20,13 +20,13 @@ github = '916267142'
 research_label = ["Synthesis"]
 
 [[introduction]]
-    content = "I'm Ph.D. student from the NetVerify Lab, Xi'an Jiaotong University. My research interests include various activities such as badminton, swimming, and playing the piano. I'm also delighted to be a part of this team and to work together with everyone."
+    content = "I'm Ph.D. student from the NetVerify Lab, Xi'an Jiaotong University. My interests include various activities such as badminton, swimming, and playing the piano. I'm also delighted to be a part of this team and to work together with everyone."
 
 [[introduction]]
-    content = "My previous research primarily focused on network data plane verification (APKeep, NSDI20) and network intent mining (NeMiner, ICNP23). Currently, I am working on improve the scalability of formal network control plane verification based on SMT solvers."
+    content = "My previous research primarily focused on network data plane verification (APKeep, NSDI20) and network intent mining (NeMiner, TON). Currently, I am working on improve the scalability of formal network control plane verification based on SMT solvers."
 
 [[research]]
-    interest =  'Network control plane verification / Network intent mining'
+    interest = 'Network control plane verification / Network intent mining'
 [[research]]
     time = 'Bachelor'
     interest = 'Indoor positioning / Network data plane verification'
