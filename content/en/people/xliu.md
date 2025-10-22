@@ -2,7 +2,7 @@
 title = 'Xu Liu'
 date = 2019-04-30T14:26:08+08:00
 draft = false
-alumni = false
+alumni = true
 
 type = 'people'
 layout = 'people'
