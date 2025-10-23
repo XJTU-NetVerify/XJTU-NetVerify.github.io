@@ -34,6 +34,6 @@ research_label = ["Synthesis"]
 [[education]]
     school = "Xi'an Jiaotong University"
     major = "School of Computer Science and Technology"
-    degree = 'Undergraduate Degree'
+    degree = 'B.E. in Computer Science'
     time = '2024.9 - now'
 +++
