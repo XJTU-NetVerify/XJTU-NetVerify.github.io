@@ -35,11 +35,11 @@ top = true
     name = 'Peng Zhang'
     id = 'pzhang'
 [[paper.author]]
-    name = 'Li Hao'
+    name = 'Hao Li'
 [[paper.author]]
-    name = 'Wen Sisi'
+    name = 'Sisi Wen'
 [[paper.author]]
-    name = 'Ji Chaoyang'
+    name = 'Chaoyang Ji'
 [[paper.author]]
-    name = 'Yang Yongqiang'
+    name = 'Yongqiang Yang'
 +++
