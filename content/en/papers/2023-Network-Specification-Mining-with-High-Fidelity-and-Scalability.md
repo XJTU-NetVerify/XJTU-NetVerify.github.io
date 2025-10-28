@@ -4,7 +4,7 @@ date = 2023-10-01
 type = 'paper'
 layout = 'paper'
 
-research_label = ["", ""]
+research_label = ["Synthesis"]
 bibtex = """@inproceedings{kang2023network,
   title={Network Specification Mining with High Fidelity and Scalability},
   author={Kang, Ning and Zhang, Peng and Li, Hao and Wen, Sisi and Ji, Chaoyang and Yang, Yongqiang},

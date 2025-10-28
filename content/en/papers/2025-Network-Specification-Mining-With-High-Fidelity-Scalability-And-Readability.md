@@ -5,7 +5,7 @@ type = 'paper'
 layout = 'paper'
 draft = false
 
-research_label = ["Mining"]
+research_label = ["Synthesis"]
 bibtex = """
 @ARTICLE{11178104,
   author={Kang, Ning and Zhang, Peng and Li, Hao and Wen, Sisi and Ji, Chaoyang and Yang, Yongqiang},
