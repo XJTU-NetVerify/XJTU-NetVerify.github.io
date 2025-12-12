@@ -12,7 +12,7 @@ name_cn = '刘旭'
 name_en = 'Xu Liu'
 degree = 'Ph.D. Candidate'
 image = '/people/xliu/photo.jpg'
-work = 'Huawei Technologies Co., Ltd.'
+work = 'Huawei'
 
 email = 'x.liu.reason@outlook.com'
 github = 'x-reason'
