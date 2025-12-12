@@ -22,6 +22,8 @@ abstract = [
 ]
 doi="10.1109/TNET.2020.2977006"
 publisher = "IEEE/ACM Transactions on Networking"
+ccf = "A"
+publish = "journal"
 pdf = 'http://kresttechnology.com/krest-academic-projects/krest-mtech-projects/CSE/M.Tech%20Computer%20Science%202020/Networking%2020-21/4.pdf'
 slide = ''
 video = ''

@@ -22,6 +22,8 @@ abstract = [
 ]
 doi="10.1109/TNET.2018.2885532"
 publisher = "IEEE/ACM Transactions on Networking"
+ccf = "A"
+publish = "journal"
 pdf = ''
 slide = ''
 video = ''

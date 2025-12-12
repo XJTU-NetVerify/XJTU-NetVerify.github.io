@@ -22,6 +22,8 @@ abstract = [
 ]
 doi = "10.1109/TNET.2020.3033588"
 publisher = "IEEE/ACM Transactions on Networking"
+ccf = "A"
+publish = "journal"
 pdf = 'https://aquatoney.github.io/files/foces-ton21-zhang.pdf'
 slide = ''
 video = ''

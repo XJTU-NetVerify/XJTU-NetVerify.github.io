@@ -65,6 +65,8 @@ Run server
 
 ```bash
 rm -rf public; hugo server
+# local test
+# hugo server -D --bind 0.0.0.0 --baseURL http://<your.ip.or.url>:1313
 ```
 
 runs on [localhost:1313](http://localhost:1313)

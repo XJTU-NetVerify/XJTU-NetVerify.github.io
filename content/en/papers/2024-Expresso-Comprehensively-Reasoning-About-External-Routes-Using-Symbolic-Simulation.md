@@ -19,6 +19,8 @@ abstract = [
 ]
 doi = "10.1145/3651890.3672220"
 publisher = "Proceedings of ACM SIGCOMM'24"
+ccf = "A"
+publish = "conference"
 pdf = 'https://dl.acm.org/doi/pdf/10.1145/3651890.3672220'
 slide = '/slides/expresso/expresso-slides.pdf'
 video = 'https://www.youtube.com/embed/cafm5zeSf68?si=trl416sgzCI0u0Ke'

@@ -16,6 +16,8 @@ bibtex = """@inproceedings {286419,
   pages = {1451--1468},
   url = {https://www.usenix.org/conference/nsdi23/presentation/li-hao},
   publisher = {USENIX Association},
+ccf = "A"
+publish = "conference"
   month = apr
 }"""
 abstract = [

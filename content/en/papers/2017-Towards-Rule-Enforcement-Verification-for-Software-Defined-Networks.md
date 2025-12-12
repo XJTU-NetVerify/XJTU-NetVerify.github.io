@@ -20,6 +20,8 @@ abstract = [
 ]
 doi="10.1109/INFOCOM.2017.8056994"
 publisher = "Proceedings of IEEE INFOCOM'17"
+ccf = "A"
+publish = "conference"
 pdf = 'http://nskeylab.xjtu.edu.cn/people/pzhang/files/2016/12/infocom17.pdf'
 slide = ''
 video = ''

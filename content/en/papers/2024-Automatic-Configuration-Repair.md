@@ -20,6 +20,8 @@ abstract = [
 ]
 doi = "10.1145/3696348.3696895"
 publisher = "Proceedings of ACM HotNets'24"
+ccf = "N/A"
+publish = "workshop"
 pdf = 'https://conferences.sigcomm.org/hotnets/2024/papers/hotnets24-398.pdf'
 slide = ''
 video = ''

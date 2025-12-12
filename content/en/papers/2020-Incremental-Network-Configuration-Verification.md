@@ -17,6 +17,8 @@ abstract = [
     "Network configurations are constantly changing, and each change poses a risk of catastrophic network outages. Consequently, the networking community has put significant effort into developing and optimizing configuration verifiers. However, we observe existing configuration verifiers still have a significant drawback: they are not optimized for configuration *changes*. That is, they always check a snapshot of network configuration from scratch, even though the configuration often changes slightly since the last verification. In this paper, we demonstrate the benefits, opportunities, and challenges of *incremental network configuration verification (INCV)*. We also demonstrate the feasibility of INCV by introducing RealConfig, an incremental configuration verifier that can check configuration changes within one second."
 ]
 publisher = "Proceedings of ACM HotNets'20"
+ccf = "N/A"
+publish = "workshop"
 pdf = 'http://nskeylab.xjtu.edu.cn/people/pzhang/files/2020/10/hotnets20.pdf'
 [[paper.author]]
     name = 'Peng Zhang'

@@ -15,6 +15,8 @@ bibtex = """@inproceedings {262003,
   pages = {551--570},
   url = {https://www.usenix.org/conference/nsdi21/presentation/li},
   publisher = {USENIX Association},
+ccf = "A"
+publish = "conference"
   month = apr
 }"""
 abstract = [

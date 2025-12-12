@@ -17,6 +17,8 @@ abstract = [
     "Networks are constantly changing. To avoid outages, operators need to know whether prospective changes in a network’s control plane will cause undesired changes in end-to-end forwarding behavior. For example, which pairs of end hosts are reachable before a configuration change but unreachable after the change? Control plane verifiers are ill-suited for answering such questions because they operate on a single snapshot to check its “compliance” with “explicitly specified” properties, instead of quantifying the “differences” in “affected” end-toend forwarding behaviors. We argue for a new control plane analysis paradigm that makes differences first class citizens. Differential Network Analysis (DNA) takes control plane changes, incrementally computes control and data plane state, and outputs consequent differences in end-to-end behavior. We break the computation into three stages—control plane simulation, data plane modeling, and property checking—and leverage differential dataflow programming frameworks, incremental data plane verification, and customized graph algorithms, respectively, to make each stage incremental. Evaluations using both real and synthetic control plane changes demonstrate that DNA can compute the resulting differences in reachability in a few seconds—up to 3 orders of magnitude faster than state-of-the-art control plane verifiers."
 ]
 publisher = "Proceedings of USENIX NSDI'22"
+ccf = "A"
+publish = "conference"
 top = true
 pdf = 'https://gr.xjtu.edu.cn/documents/1748990/0/dna_nsdi22.pdf/bc7e8943-85e4-ffa2-d00e-86fc09ea5313?t=1632275920827'
 code = "https://github.com/XJTU-NetVerify/dna"

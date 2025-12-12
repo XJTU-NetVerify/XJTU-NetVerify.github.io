@@ -20,6 +20,8 @@ abstract = [
 ]
 doi = "10.1145/3544216.3544264"
 publisher = "Proceedings of ACM SIGCOMM'22"
+ccf = "A"
+publish = "conference"
 pdf = 'https://dl.acm.org/doi/abs/10.1145/3544216.3544264'
 slide = 'https://aaron.gember-jacobson.com/docs/sigcomm2022sre_slides.pdf'
 video = 'https://www.youtube.com/embed/1rHItyAY4RE?si=V0ZQ67LENdvBQf6N'

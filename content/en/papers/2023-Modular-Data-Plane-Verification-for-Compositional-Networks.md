@@ -20,6 +20,8 @@ abstract = [
 ]
 doi = "10.1145/3629145"
 publisher = "Proceedings of ACM CoNEXT'23"
+ccf = "B"
+publish = "conference"
 web = 'https://dl.acm.org/doi/abs/10.1145/3629145'
 video = 'https://www.youtube.com/embed/SXem7FXMUZo?si=uVPMH7226YmTEO03'
 [[paper.author]]

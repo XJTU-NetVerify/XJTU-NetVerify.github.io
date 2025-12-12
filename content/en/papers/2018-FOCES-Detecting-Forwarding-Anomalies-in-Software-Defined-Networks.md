@@ -20,6 +20,8 @@ abstract = [
 ]
 doi = "10.1109/ICDCS.2018.00085"
 publisher = "Proceedings of IEEE ICDCS'18"
+ccf = "B"
+publish = "conference"
 pdf = 'http://nskeylab.xjtu.edu.cn/people/pzhang/files/2018/05/icdcs18.pdf'
 slide = ''
 video = ''

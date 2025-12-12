@@ -15,6 +15,8 @@ bibtex = """@inproceedings {246370,
     pages = {241--255},
     url = {https://www.usenix.org/conference/nsdi20/presentation/zhang-peng},
     publisher = {USENIX Association},
+ccf = "A"
+publish = "conference"
     month = feb
 }"""
 abstract = [

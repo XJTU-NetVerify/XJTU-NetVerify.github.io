@@ -23,6 +23,8 @@ abstract = [
 ]
 doi = "10.1109/TON.2025.3607440"
 publisher = "IEEE Transactions on Networking"
+ccf = "A"
+publish = "journal"
 pdf = '/papers/NetMiner/NetMiner_TON.pdf'
 code = ''
 slide = ''

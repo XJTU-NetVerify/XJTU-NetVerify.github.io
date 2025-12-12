@@ -18,6 +18,8 @@ abstract = [
 ]
 doi = "10.1145/2934872.2959061"
 publisher = "Poster Session of ACM SIGCOMM'16"
+ccf = "N/A"
+publish = "poster"
 top = true
 web = 'https://dl.acm.org/doi/abs/10.1145/2934872.2959061'
 poster = "http://nskeylab.xjtu.edu.cn/people/pzhang/files/2016/09/sigcomm16-li.pdf"

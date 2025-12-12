@@ -15,6 +15,8 @@ abstract = [
 ]
 doi = ""
 publisher = "Proceedings of USENIX NSDI'25"
+ccf = "A"
+publish = "conference"
 pdf = '/papers/NDD/NDD-final-version.pdf'
 code = 'https://github.com/XJTU-NetVerify/NDD'
 slide = '/papers/NDD/NDD-A-Decision-Diagram-for-Network-Verification.pdf'
