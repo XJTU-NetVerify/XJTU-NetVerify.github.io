@@ -18,7 +18,7 @@ github = 'pzhang101'
 google_scholar = 'AdvgGYgAAAAJ'
 
 [[introduction]]
-    content = "Peng Zhang is a professor with School of Computer Science and Technology, Xi’an Jiaotong University (XJTU). Before joining XJTU, Peng Zhang received his B.E. degree from Beijing University of Posts and Telecommunications in 2008, and Ph.D. degree from Tsinghua University (with honor) in 2013, both in computer science. He was a visiting researcher at Chinese University of Hong Kong (2009) and Yale University (2011-2012). His research interests include network verification, network simulation, programmable networks."
+    content = "Peng Zhang is a professor with School of Computer Science and Technology, Xi’an Jiaotong University (XJTU). Before joining XJTU, Peng Zhang received his B.E. degree from Beijing University of Posts and Telecommunications in 2008, and Ph.D. degree from Tsinghua University (with honor) in 2013, both in computer science. He was a visiting researcher at Chinese University of Hong Kong (2009) and Yale University (2011-2012). His research interests include network verification, network simulation, and network synthesis."
 
 [[work]]
     school = "Xi'an Jiaotong University"
@@ -54,6 +54,8 @@ google_scholar = 'AdvgGYgAAAAJ'
    url = "https://scholar.google.com/citations?user=AdvgGYgAAAAJ&hl=en"
 
 [[award]]
+    title = "Outstanding Paper Award, USENIX 2025"
+[[award]]
     title = "Best Paper Honorable Mention, ACM SIGCOMM 2024"
 [[award]]
     title = "K. C. Wong Scholar, Xi'an Jiaotong Univeristy, 2017"
@@ -62,7 +64,10 @@ google_scholar = 'AdvgGYgAAAAJ'
 
 [[service]]
     commission = "Program Committee"
-    conference = ["USENIX NSDI (2026, 2025)", "IEEE INFOCOM (2025, 2024, 2023, 2022, 2021)", "IEEE ICNP (2024)"]
+    conference = ["USENIX NSDI (2026, 2025)", "IEEE INFOCOM (2026, 2025, 2024, 2023, 2022, 2021)", "IEEE ICNP (2024)"]
+[[service]]
+    commission = "Organization Committee"
+    conference = ["APNET (2026, 2025)"]
 [[service]]
     commission = "Editorial Board"
     conference = ["IEEE Journal on Selected Areas in Communications,  Series on Network Softwarization & Enabler"]
