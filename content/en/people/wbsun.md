@@ -12,7 +12,7 @@ name_cn = '孙文冰'
 name_en = 'Wenbing Sun'
 degree = 'Master Student'
 image = '/people/wbsun/photo.jpg'
-work = 'Huawei Technologies Co., Ltd.'
+work = 'Huawei'
 
 email = 'wblingsun@gmail.com'
 github = 'wblingSun'
