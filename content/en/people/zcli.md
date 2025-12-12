@@ -12,7 +12,7 @@ name_cn = '李泽春'
 name_en = 'Zechun Li'
 degree = 'Master Student'
 image = '/people/zcli/photo.jpg'
-work = 'Alibaba Cloud Co., Ltd.'
+work = 'Alibaba Cloud'
 
 email = '1467874668@qq.com'
 github = 'LZC-xjtu'
