@@ -54,7 +54,7 @@ google_scholar = 'AdvgGYgAAAAJ'
    url = "https://scholar.google.com/citations?user=AdvgGYgAAAAJ&hl=en"
 
 [[award]]
-    title = "Outstanding Paper Award, USENIX 2025"
+    title = "Outstanding Paper Award, USENIX NSDI 2025"
 [[award]]
     title = "Best Paper Honorable Mention, ACM SIGCOMM 2024"
 [[award]]
@@ -64,7 +64,7 @@ google_scholar = 'AdvgGYgAAAAJ'
 
 [[service]]
     commission = "Program Committee"
-    conference = ["USENIX NSDI (2026, 2025)", "IEEE INFOCOM (2026, 2025, 2024, 2023, 2022, 2021)", "IEEE ICNP (2024)"]
+    conference = ["ACM SIGCOMM (2026)", "USENIX NSDI (2026, 2025)", "IEEE INFOCOM (2026, 2025, 2024, 2023, 2022, 2021)", "IEEE ICNP (2024)"]
 [[service]]
     commission = "Organization Committee"
     conference = ["APNET (2026, 2025)"]
