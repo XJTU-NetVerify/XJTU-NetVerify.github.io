@@ -11,7 +11,7 @@ bibtex = """
 abstract = [
     "Modern cloud applications heavily rely on Identity and Access Management (IAM) services to enforce flexible access control over their data. However, the flexibility comes at a cost: IAM policies are often complex and prone to misconfigurations, leading to risks of data exposure. There is an increasing need to mine a compact set of intents that describe what the policies collectively try to achieve, thereby enabling operators to better understand their policies. However, existing tools on mining access control intent have two major limitations: (1) the mining process is slow and even times out on some complex policies; (2) the mined intents are excessive in number and thus still hard to understand. To overcome these limitations, this paper presents <i>AccessRefinery</i>, which can speed up the mining process while reducing the number of intents. The key idea for the speedup is to reduce the redundancy of the multi-round SMT solving, by preprocessing the constraints into bit-vector constraints. For intent reduction, <i>AccessRefinery</i> computes a compact set of intents that can cover the mined intents, by solving a min-set-cover problem. Experiments based on real and synthetic datasets show that <i>AccessRefinery</i> achieves a ~10–100× speedup in intent mining, and reduces the number of intents by up to ~10×."
 ]
-publisher = "Proceedings of IEEE/ACM FSE'26"
+publisher = "Proceedings of ACM FSE'26"
 ccf = "A"
 publish = "conference"
 top = true
