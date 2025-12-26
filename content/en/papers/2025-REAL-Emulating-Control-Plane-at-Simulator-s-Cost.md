@@ -25,6 +25,7 @@ top = true
     id = 'zxia'
 [[paper.author]]
     name = 'Hao Li'
+    url = "https://gr.xjtu.edu.cn/en/web/hao.li"
 [[paper.author]]
     name = 'Jinyu Fu'
 [[paper.author]]
