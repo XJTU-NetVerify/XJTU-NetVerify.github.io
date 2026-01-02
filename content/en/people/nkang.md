@@ -15,22 +15,22 @@ image = '/people/nkang/photo.jpg'
 email = 'kangning2018@foxmail.com'
 
 # Verification | Simulation | Synthesis
-research_label = ["Synthesis"]
+research_label = ["Verification"]
 
 [[introduction]]
     content = "I am a Ph.D. student in the NetVerify Lab at Xi’an Jiaotong University, advised by Prof. Peng Zhang. My research focuses on advancing formal methods from scalable and practical perspectives. I design a data structure to accelerate multi-round and incremental SMT solving, which has been successfully applied to access control policy analysis (AccessRefinery, FSE 2026). Moreover, I study how to efficiently encode network configurations as SMT constraints, thereby accelerating network verification (VeriBoost, FM 2026, under review). Besides, I also work on mining network specifications to help operators automatically write verification targets (NetMiner, ICNP 2023; NetMiner, TON 2025). Outside of research, I enjoy playing badminton and swimming, and I enjoy discussing academic topics with others. I am in the job market (Spring 2025); feel free to contact me!"
 
 [[research]]
-    interest = 'Formal methods'
+    interest = 'Formal Methods'
 
 [[research]]
-    interest = 'Network verification'
+    interest = 'Network Verification'
 
 [[research]]
-    interest = 'Network specification mining'
+    interest = 'Network Specification Mining'
 
 [[research]]
-    interest = 'Access control policy analysis'
+    interest = 'Access Control Policy Analysis'
 
 [[education]]
     school = "Xi'an Jiaotong University"
