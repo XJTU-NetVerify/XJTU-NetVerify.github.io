@@ -14,8 +14,6 @@ degree = 'Ph.D. Candidate'
 image = '/people/nkang/photo.jpg'
 email = 'kangning2018@foxmail.com'
 
-<!-- github = '916267142' -->
-
 # Verification | Simulation | Synthesis
 research_label = ["Synthesis"]
 
