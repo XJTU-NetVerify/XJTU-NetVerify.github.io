@@ -77,17 +77,17 @@ research_label = ["Verification"]
     icon = true
 
 [[award]]
-    title = "ACM International Collegial Programming Contest (ICPC)，2016"
-    award = "Bronze Medal, Asia Shang'hai Regional Contest"
+    title = "ACM International Collegial Programming Contest (ICPC) Bronze Medal，2016"
+    award = "Asia Shang'hai Regional Contest"
     icon = true
 
 [[award]]
-    title = "National Scholarships for Bachelor's Degree Students, 2016"
+    title = "National Scholarships"
     award = "China’s Highest-class National Scholarship for Undergraduates"
     icon = true
 
 [[award]]
-    title = "National Scholarships for Bachelor's Degree Students, 2015"
+    title = "National Scholarships"
     award = "China’s Highest-class National Scholarship for Undergraduates"
     icon = true
 +++
