@@ -67,27 +67,12 @@ research_label = ["Verification"]
     award = "Xi'an Jiaotong University"
 
 [[award]]
-    title = 'Mathematical Modeling Contest Silver Medal, 2017'
-    award = 'China’s Top National Competition for Undergraduates'
-    icon = true
-
-[[award]]
-    title = "National Scholarships, 2017"
+    title = "National Scholarships, 2015-2017"
     award = "China’s Highest-class National Scholarship for Undergraduates"
     icon = true
 
 [[award]]
     title = "ACM International Collegial Programming Contest (ICPC) Bronze Medal，2016"
     award = "Asia Shang'hai Regional Contest"
-    icon = true
-
-[[award]]
-    title = "National Scholarships"
-    award = "China’s Highest-class National Scholarship for Undergraduates"
-    icon = true
-
-[[award]]
-    title = "National Scholarships"
-    award = "China’s Highest-class National Scholarship for Undergraduates"
     icon = true
 +++
