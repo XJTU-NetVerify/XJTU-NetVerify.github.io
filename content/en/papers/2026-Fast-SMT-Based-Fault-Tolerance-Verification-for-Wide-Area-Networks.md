@@ -1,5 +1,5 @@
 +++
-title = 'AccessRefinery: Fast Mining Concise Access Control Intents on Public Cloud'
+title = 'Fast SMT-Based Fault Tolerance Verification for Wide Area Networks'
 date = 2026-05-20
 type = 'paper'
 layout = 'paper'
