@@ -13,12 +13,13 @@ name_en = 'Ning Kang'
 degree = 'Ph.D. Candidate'
 image = '/people/nkang/photo.jpg'
 email = 'kangning2018@foxmail.com'
+github = '916267142'
 
 # Verification | Simulation | Synthesis
 research_label = ["Verification"]
 
 [[introduction]]
-    content = "I am a Ph.D. student in the NetVerify Lab at Xi’an Jiaotong University, advised by Prof. Peng Zhang. My research focuses on advancing formal methods from scalable and practical perspectives. I design a data structure to accelerate multi-round and incremental SMT solving, which has been successfully applied to access control policy analysis (AccessRefinery, FSE 2026). Moreover, I study how to efficiently encode network configurations as SMT constraints, thereby accelerating network verification (VeriBoost, FM 2026). Besides, I also work on mining network specifications to help operators automatically write verification targets (NetMiner, ICNP 2023; NetMiner, TON 2025). Outside of research, I enjoy playing badminton and swimming, and I enjoy discussing academic topics with others. I am in the job market (Spring 2025); feel free to contact me!"
+    content = "I am a Ph.D. student in the NetVerify Lab at Xi’an Jiaotong University, advised by Prof. Peng Zhang. My research focuses on advancing formal methods from scalable and practical perspectives. I design a data structure to accelerate multi-round and incremental SMT solving, which has been successfully applied to access control policy analysis (AccessRefinery, FSE 2026). Moreover, I study how to efficiently encode network configurations as SMT constraints, thereby accelerating network verification (VeriBoost, FM 2026). Besides, I also work on mining network specifications to help operators automatically write verification targets (NetMiner, ICNP 2023; NetMiner, TON 2025). Outside of research, I enjoy playing badminton and swimming, and I enjoy discussing academic topics with others. I am in the job market (Spring 2026); feel free to contact me!"
 
 [[research]]
     interest = 'Formal Methods'
@@ -65,6 +66,7 @@ research_label = ["Verification"]
 [[award]]
     title = "Outstanding Graduate Student, 2019"
     award = "Xi'an Jiaotong University"
+    icon = true
 
 [[award]]
     title = "National Scholarships, 2015-2017"
