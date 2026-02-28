@@ -14,6 +14,7 @@ abstract = [
 publisher = "Proceedings of FME FM'26"
 ccf = "A"
 publish = "conference"
+code = 'https://github.com/XJTU-NetVerify/veriboost'
 pdf='/papers/VeriBoost/veriboost_final_version.pdf'
 top = true
 [[paper.author]]
