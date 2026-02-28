@@ -14,7 +14,7 @@ abstract = [
 publisher = "Proceedings of FME FM'26"
 ccf = "A"
 publish = "conference"
-pdf='/papers/VeriBoost/veriboost_draft.pdf'
+pdf='/papers/VeriBoost/veriboost_final_version.pdf'
 top = true
 [[paper.author]]
     name = 'Ning Kang'
