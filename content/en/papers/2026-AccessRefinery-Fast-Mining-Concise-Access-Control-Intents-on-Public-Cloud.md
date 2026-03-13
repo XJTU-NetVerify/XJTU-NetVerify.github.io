@@ -14,7 +14,8 @@ abstract = [
 publisher = "Proceedings of ACM FSE'26"
 ccf = "A"
 publish = "conference"
-pdf='/papers/VeriBoost/accessrefinery_final_version.pdf'
+pdf='/papers/AccessRefinery/accessrefinery_final_version.pdf'
+code = 'https://github.com/916267142/accessrefinery'
 top = true
 [[paper.author]]
     name = 'Ning Kang'
