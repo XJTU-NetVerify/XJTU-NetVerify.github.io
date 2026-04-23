@@ -119,7 +119,7 @@ languageCode = 'en-us'
     #     weight = 5
 
 [[params.introImages]]
-  src = "/intro/20260420-135122.jpg"
+  src = "/intro/IMG_5266.jpg"
 [[params.introImages]]
   src = "/intro/20250609-003354.jpeg"
 [[params.introImages]]
