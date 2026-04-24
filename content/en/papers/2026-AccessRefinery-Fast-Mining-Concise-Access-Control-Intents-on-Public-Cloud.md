@@ -15,7 +15,7 @@ publisher = "Proceedings of ACM FSE'26"
 ccf = "A"
 publish = "conference"
 pdf='/papers/AccessRefinery/accessrefinery_final_version.pdf'
-code = 'https://github.com/916267142/accessrefinery'
+code = 'https://github.com/XJTU-NetVerify/accessrefinery'
 top = true
 [[paper.author]]
     name = 'Ning Kang'
