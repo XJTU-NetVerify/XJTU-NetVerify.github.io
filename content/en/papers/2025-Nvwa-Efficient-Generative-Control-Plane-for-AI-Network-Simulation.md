@@ -14,8 +14,8 @@ doi = ""
 publisher = "Proceedings of APNet'25"
 ccf = "C"
 publish = "workshop"
-pdf='/papers/Nvwa/nvwa_apnet25.pdf'
-slide='/papers/Nvwa/nvwa_apnet25_slides.pdf'
+pdf='/papers/Nvwa_apnet25/nvwa_apnet25.pdf'
+slide='/papers/Nvwa_apnet25/nvwa_apnet25_slides.pdf'
 top = true
 
 [[paper.author]]
