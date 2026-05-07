@@ -14,7 +14,7 @@ abstract = [
   "To this end, this paper introduces Network Decision Diagram (NDD), a new decision diagram customized for network verification. In a nutshell, NDD wraps BDD with another layers of decision diagram, such that each NDD node represents a field of the network, and each edge is labeled with a BDD encoding the values of that field. We designed and implemented an library for NDD, which features a native support for equivalence classes, and higher efficiency in memory and computation. Using the NDD library, we re-implemented five BDD-based verifiers with minor modifications to their original codes, and observed a 100x reduction in memory cost and 100x speedup. This indicates that NDD provides a drop-in replacement of BDD for network verifiers."
 ]
 doi = ""
-publisher = "Proceedings of USENIX NSDI'25"
+publisher = "Proceedings of USENIX NSDI '25"
 ccf = "A"
 publish = "conference"
 pdf = '/papers/NDD/NDD-final-version.pdf'

@@ -16,7 +16,7 @@ pdf = '/papers/Relia/ASE_final_version.pdf'
 slide = '/papers/Relia/relia_v2.4.pdf'
 poster = '/papers/Relia/research-169-poster.pdf'
 video = 'https://www.youtube.com/watch?v=dsq9FZRjmnM'
-publisher = "Proceedings of IEEE/ACM ASE'25"
+publisher = "Proceedings of IEEE/ACM ASE '25"
 ccf = "A"
 publish = "conference"
 top = true

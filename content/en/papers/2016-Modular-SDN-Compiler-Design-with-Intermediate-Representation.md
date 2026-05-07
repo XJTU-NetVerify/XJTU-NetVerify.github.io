@@ -17,7 +17,7 @@ abstract = [
     ""
 ]
 doi = "10.1145/2934872.2959061"
-publisher = "Poster Session of ACM SIGCOMM'16"
+publisher = "Poster Session of ACM SIGCOMM '16"
 ccf = "N/A"
 publish = "poster"
 top = true

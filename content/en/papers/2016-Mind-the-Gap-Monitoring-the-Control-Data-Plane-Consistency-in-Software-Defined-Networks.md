@@ -18,7 +18,7 @@ abstract = [
     ""
 ]
 doi="10.1145/2999572.2999605"
-publisher = "Proceedings of ACM CoNEXT'16"
+publisher = "Proceedings of ACM CoNEXT '16"
 ccf = "B"
 publish = "conference"
 pdf = 'https://aquatoney.github.io/files/veridp-conext16-zhang.pdf'
