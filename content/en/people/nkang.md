@@ -66,12 +66,10 @@ research_label = ["Verification"]
 [[award]]
     title = "Outstanding Graduate Student, 2019"
     award = "Xi'an Jiaotong University"
-    icon = true
 
 [[award]]
     title = "National Scholarships, 2015-2017"
     award = "China’s Highest-class National Scholarship for Undergraduates"
-    icon = true
 
 [[award]]
     title = "ACM International Collegial Programming Contest (ICPC) Bronze Medal，2016"
