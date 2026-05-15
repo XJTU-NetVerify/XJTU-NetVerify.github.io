@@ -17,7 +17,7 @@ email = '18234991499@163.com'
 github = 'liusy1499-eng'
 
 # Verification | Simulation | Synthesis
-research_label = ["Verification"]
+research_label = ["Simulation"]
 
 [[introduction]]
     content = "I am an undergraduate student at Jilin University. I will join Xi'an Jiaotong University (XJTU) as a master student in Fall 2026, advised by Prof. Peng Zhang."
@@ -47,17 +47,14 @@ research_label = ["Verification"]
 [[award]]
     title = "Outstanding Student, 2022-2023"
     award = "Jilin University"
-    icon = true
 
 [[award]]
     title = "National Endeavor Scholarship, 2022-2024"
     award = "Jilin University"
-    icon = true
 
 [[award]]
     title = "Outstanding Student Leader, 2023-2024"
     award = "Jilin University"
-    icon = true
 
 
 +++
