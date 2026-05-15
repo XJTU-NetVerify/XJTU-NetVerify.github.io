@@ -6,7 +6,7 @@ layout = 'paper'
 draft = false
 top = true
 
-research_label = ["Verification", "Simulation"]
+research_label = ["Verification"]
 bibtex = """@inproceedings{zhang2022symbolic,
   title={Symbolic router execution},
   author={Zhang, Peng and Wang, Dan and Gember-Jacobson, Aaron},
