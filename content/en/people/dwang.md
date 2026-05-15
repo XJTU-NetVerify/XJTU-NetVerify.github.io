@@ -17,7 +17,7 @@ email = 'dan-wang@stu.xjtu.edu.cn'
 github = 'heroinedd'
 
 # Verification | Simulation | Synthesis
-research_label = ["Verification", "Simulation"]
+research_label = ["Verification", "Synthesis"]
 
 [[introduction]]
     content = "I am a Ph.D. student in the NetVerify lab, advised by Prof. Peng Zhang. My research interest mainly focuses on network verification. Specifically, we have proposed the 'Symbolic Router Execution' framework, which utilizes symbolic simulation to comprehensively reason about network failures (SRE, SIGCOMM 2022), and external routes (Expresso, SIGCOMM 2024). Beyond this framework, I have also worked on verifying hyper-scale networks through distributed simulation (S2, SIGCOMM 2025). Besides network configuration verification, I also research on accelerating formal analysis of access control policies on public clouds (RELIA, ASE 2025). I'm in the job market now (Fall 2025), feel free to contact me!"
@@ -51,9 +51,9 @@ research_label = ["Verification", "Simulation"]
 [[award]]
     title = "National Scholarships for Master's Degree Students, 2022"
     award = "National Scholarship"
-    icon = true
 [[award]]
     title = "Best Paper Honorable Mention in ACM SIGCOMM '24"
+    icon = true
 [[award]]
     title = "Outstanding Graduates of Xi'an Jiaotong University, 2021"    
 
