@@ -6,7 +6,7 @@ layout = 'paper'
 draft = false
 
 award ="Best Paper Honorable Mention"
-research_label = ["Verification", "Simulation"]
+research_label = ["Verification"]
 bibtex = """@inproceedings{wang2024expresso,
   title={Expresso: Comprehensively Reasoning About External Routes Using Symbolic Simulation},
   author={Wang, Dan and Zhang, Peng and Gember-Jacobson, Aaron},
