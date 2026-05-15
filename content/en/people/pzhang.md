@@ -64,10 +64,10 @@ google_scholar = 'AdvgGYgAAAAJ'
 
 [[service]]
     commission = "Program Committee"
-    conference = ["ACM SIGCOMM (2026)", "USENIX NSDI (2026, 2025)", "IEEE INFOCOM (2026, 2025, 2024, 2023, 2022, 2021)", "IEEE ICNP (2024)"]
+    conference = ["ACM SIGCOMM (2026)", "USENIX NSDI (2026, 2025)", "IEEE INFOCOM (2027, 2026, 2025, 2024, 2023, 2022, 2021)", "IEEE ICNP (2024)"]
 [[service]]
     commission = "Organization Committee"
-    conference = ["APNET (2026, 2025)"]
+    conference = ["APNET (Poster co-Chair 2026, Sponsor co-Chair 2025)", "ACM SIGCOMM FMANO Workshop (PC co-Chair 2026, PC co-Chair co-Chair 2025)"]
 [[service]]
     commission = "Editorial Board"
     conference = ["IEEE Journal on Selected Areas in Communications,  Series on Network Softwarization & Enabler"]
