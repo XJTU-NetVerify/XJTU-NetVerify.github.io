@@ -19,6 +19,12 @@ jobs:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.161.1'
+          extended: true
+
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
@@ -49,7 +55,9 @@ jobs:
         # rsync -a content/en/research/* content/zh/research/
 
       - name: Build
-        run: npm run build
+        # Call hugo directly (not `npm run build`) so the pinned Hugo from
+        # setup-hugo is used instead of hugo-bin in node_modules/.bin.
+        run: hugo --minify --buildFuture
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
