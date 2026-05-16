@@ -4,7 +4,7 @@ title = 'Nüwa: A Generative Control Plane for AI Network Simulation'
 date = 2026-08-01
 type = 'paper'
 layout = 'paper'
-draft = true
+draft = false
 
 research_label = ["Simulation"]
 bibtex = """
