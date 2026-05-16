@@ -17,7 +17,7 @@ email = 'endaytrer@gmail.com'
 github = 'endaytrer'
 
 # Verification | Simulation | Synthesis
-research_label = ["Verification", "Simulation"]
+research_label = ["Verification", "Synthesis"]
 
 [[introduction]]
     content = "I am a master student at Xi'an Jiaotong University (XJTU), advised by Prof. Peng Zhang."
