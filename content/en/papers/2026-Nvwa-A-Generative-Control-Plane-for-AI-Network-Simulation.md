@@ -1,7 +1,7 @@
 +++
 
-title = 'Nüwa: Efficient Generative Control Plane for AI Network Simulation'
-date = 2025-08-01
+title = 'Nüwa: A Generative Control Plane for AI Network Simulation'
+date = 2026-08-01
 type = 'paper'
 layout = 'paper'
 draft = true
