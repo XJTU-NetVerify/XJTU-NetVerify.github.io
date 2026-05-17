@@ -16,6 +16,8 @@ ccf = "A"
 publish = "conference"
 code = 'https://github.com/XJTU-NetVerify/veriboost'
 pdf='/papers/VeriBoost/veriboost_final_version.pdf'
+slide='/papers/VeriBoost/veriboost_slides.pdf'
+video = 'https://www.youtube.com/watch?v=cYBjmJfICG0'
 top = true
 [[paper.author]]
     name = 'Ning Kang'
