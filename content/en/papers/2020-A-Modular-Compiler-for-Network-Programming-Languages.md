@@ -18,7 +18,7 @@ abstract = [
     ""
 ]
 doi="10.1145/3386367.3432063"
-publisher = "Proceedings of ACM CoNEXT'20"
+publisher = "Proceedings of ACM CoNEXT '20"
 ccf = "B"
 publish = "conference"
 pdf = 'https://aquatoney.github.io/files/coder-conext20-li.pdf'
