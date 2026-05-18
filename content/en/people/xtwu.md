@@ -29,7 +29,7 @@ research_label = ["Verification"]
     interest =  'SMT Solver'
 
 [[research]]
-    interest =  'Regular Expression And String Constraints'
+    interest =  'String Solver'
 
 [[education]]
     school = "Xi'an Jiaotong University"
