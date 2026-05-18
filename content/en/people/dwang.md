@@ -49,12 +49,11 @@ research_label = ["Verification", "Synthesis"]
     time = '2024.11 - 2025.6'
 
 [[award]]
-    title = "National Scholarships for Master's Degree Students, 2022"
-    award = "National Scholarship"
-[[award]]
-    title = "Best Paper Honorable Mention in ACM SIGCOMM '24"
+    title = "ACM SIGCOMM 2024"
+    award = "Best Paper Honorable Mention"
     icon = true
 [[award]]
+    title = "National Scholarships for Master's Degree Students, 2022"
+[[award]]
     title = "Outstanding Graduates of Xi'an Jiaotong University, 2021"    
-
 +++
