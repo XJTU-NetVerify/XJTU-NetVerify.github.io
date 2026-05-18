@@ -1,6 +1,6 @@
 +++
 title = 'Mitigating CPU Frontend for Complex Data Plane Applications'
-date = 2025-12-23
+date = 2026-05-04
 type = 'paper'
 layout = 'paper'
 draft = false
