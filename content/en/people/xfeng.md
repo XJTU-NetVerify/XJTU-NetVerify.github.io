@@ -17,10 +17,7 @@ email = 'fxxowo@163.com'
 github = 'fxxowo'
 
 [[introduction]]
-  content = "I am a master student at Xi'an Jiaotong University (XJTU), advised by Prof. Peng Zhang."
-
-[[introduction]]
-  content = "My research interests are majorly in DataPlane Verification and Distributed Network Simulation." 
+  content = "I am a master student at Xi'an Jiaotong University (XJTU), advised by Prof. Peng Zhang. My research interests are majorly in DataPlane Verification and Distributed Network Simulation." 
 
 [[research]]
   interest = 'Network Verification' 
@@ -36,7 +33,7 @@ github = 'fxxowo'
 [[award]]
   title = 'The 2022 International Collegial Programming Contest (ICPC)'
   award = 'Bronze Medal, Asia Shenyang Regional Contest' 
-  icon = false
+  icon = true
 
 [[award]]
   title = 'The 2024 Group Programming Ladder Tournament（GPLT)'
@@ -44,9 +41,7 @@ github = 'fxxowo'
   icon = true
 
 [[award]]
-  title = '2023 National ScholarShip'
-  award = "National Scholarship"
-  icon = true
+  title = 'National ScholarShip, 2023'
 +++
 
 
