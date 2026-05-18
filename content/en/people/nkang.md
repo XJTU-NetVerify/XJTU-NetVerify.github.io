@@ -62,17 +62,13 @@ research_label = ["Verification", "Synthesis"]
     enterprise = 'Newegg.'
     work = 'TBuilding a team collaboration bot (Hubot) to automate team workflows'
     time = '2018.9 - 2018.12'
-
+    
+[[award]]
+    title = "The 2016 International Collegial Programming Contest (ICPC)"
+    award = " Bronze Medal, Asia Shang'hai Regional Contest"
+    icon = true
 [[award]]
     title = "Outstanding Graduate Student, 2019"
-    award = "Xi'an Jiaotong University"
-
 [[award]]
-    title = "National Scholarships, 2015-2017"
-    award = "China’s Highest-class National Scholarship for Undergraduates"
-
-[[award]]
-    title = "ACM International Collegial Programming Contest (ICPC) Bronze Medal，2016"
-    award = "Asia Shang'hai Regional Contest"
-    icon = true
+    title = "National Scholarship, 2015-2017"
 +++
