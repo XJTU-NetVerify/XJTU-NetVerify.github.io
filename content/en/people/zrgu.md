@@ -29,7 +29,8 @@ research_label = ["Verification", "Synthesis"]
     content = "In extracurricular life, I love photography, tennis, running, graphics design, web development, video editing, etc."
 
 [[research]]
-    interest = 'Network Emulation'
+    interest = 'Network configuration repair'
+    interest = 'SMT solver'
 
 [[education]]
     school = "Xi'an Jiaotong University"
