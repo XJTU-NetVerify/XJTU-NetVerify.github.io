@@ -1,6 +1,6 @@
 +++
 title = 'Explainable Network Verification via Localized Subspecification'
-date = 2026-08-1
+date = 2026-08-02
 type = 'paper'
 layout = 'paper'
 draft = false
