@@ -30,6 +30,7 @@ research_label = ["Verification", "Synthesis"]
 
 [[research]]
     interest = 'Network configuration repair'
+[[research]]
     interest = 'SMT solver'
 
 [[education]]
