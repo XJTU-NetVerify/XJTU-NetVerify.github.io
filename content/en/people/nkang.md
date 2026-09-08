@@ -10,7 +10,7 @@ layout = 'people'
 name = "nkang"
 name_cn = '康宁'
 name_en = 'Ning Kang'
-degree = 'Ph.D. Candidate'
+degree = 'Assistant Professor'
 image = '/people/nkang/photo.jpg'
 email = 'kangning2018@foxmail.com'
 github = '916267142'
@@ -19,7 +19,15 @@ github = '916267142'
 research_label = ["Verification", "Synthesis"]
 
 [[introduction]]
-    content = "I am a Ph.D. student in the NetVerify Lab at Xi’an Jiaotong University, advised by Prof. Peng Zhang. My research focuses on advancing formal methods from scalable and practical perspectives. I design a data structure to accelerate multi-round and incremental SMT solving, which has been successfully applied to access control policy analysis (AccessRefinery, FSE 2026). Moreover, I study how to efficiently encode network configurations as SMT constraints, thereby accelerating network verification (VeriBoost, FM 2026). Besides, I also work on mining network specifications to help operators automatically write verification targets (NetMiner, ICNP 2023; NetMiner, TON 2025). Outside of research, I enjoy playing badminton and swimming, and I enjoy discussing academic topics with others. I am in the job market (Spring 2026); feel free to contact me!"
+    content = "
+    I am an Assistant Professor in the NetVerify Lab at Xi’an Jiaotong University. 
+    I received a Ph.D. in Computer Science from Xi’an Jiaotong University under the supervision of Prof. Peng Zhang. 
+    My research focuses on advancing formal methods from scalable and practical perspectives. 
+    I design data structures to accelerate multi-round and incremental SMT solving, which have been successfully applied to access control policy analysis (AccessRefinery, FSE 2026). 
+    I also study how to efficiently encode network configurations as SMT constraints, thereby accelerating network verification (VeriBoost, FM 2026). 
+    In addition, I work on mining network specifications to help operators automatically generate verification targets (NetMiner, ICNP 2023; NetMiner, TON 2025). 
+    Outside of research, I enjoy playing badminton and swimming, as well as discussing academic topics with others.
+"
 
 [[research]]
     interest = 'Formal Methods'
