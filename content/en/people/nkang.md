@@ -5,7 +5,7 @@ draft = false
 alumni = false
 
 type = 'people'
-layout = 'people'
+layout = 'faculty'
 
 name = "nkang"
 name_cn = '康宁'

@@ -10,7 +10,7 @@ layout = 'people'
 name = 'wbsun'
 name_cn = '孙文冰'
 name_en = 'Wenbing Sun'
-degree = 'Master Student'
+degree = 'Master, 2025'
 image = '/people/wbsun/photo.jpg'
 work = 'Huawei'
 

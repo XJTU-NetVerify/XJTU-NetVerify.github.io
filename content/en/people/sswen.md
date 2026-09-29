@@ -9,5 +9,6 @@ layout = 'people'
 
 name = 'sswen'
 name_cn = '文思思'
+degree = 'Master, 2023'
 work = "ByteDance"
 +++

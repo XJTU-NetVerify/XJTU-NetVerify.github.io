@@ -13,7 +13,7 @@ name_en = 'Zhenrong Gu'
 degree = 'Master Student'
 image = '/people/zrgu/photo.jpg'
 
-email = 'endaytrer@gmail.com'
+email = 'me@danielgu.org'
 github = 'endaytrer'
 
 # Verification | Simulation | Synthesis
@@ -23,27 +23,34 @@ research_label = ["Verification", "Synthesis"]
     content = "I am a master student at Xi'an Jiaotong University (XJTU), advised by Prof. Peng Zhang."
 
 [[introduction]]
-    content = "My research interests are majorly in computer systems: networked systems and operating systems. Currently I'm working on the scalable emulation of data center networks. Previous research experiences include computer vision and natural language processing."
+    content = "My research interests span vastly across computer sciences: majorly focusing on formal methods, computer systems, and software engineering. Currently I'm working on formal verification and automated reasoning: satisfiability modulo theories (SMT) solvers and binary decision diagrams (BDD). Previous research experiences include network configuration repair (ACR), network simulation & verification, and AI."
 
 [[introduction]]
-    content = "In extracurricular life, I love photography, tennis, running, graphics design, web development, video editing, etc."
+    content = "In extracurricular life, I love tennis, photography, video editing, sketching, graphics design, web development, open source development, etc."
 
+[[research]]
+    interest = 'Binary Decision Diagrams (BDD)'
+[[research]]
+    interest = 'Satisfiability Modulo Theories (SMT)'
 [[research]]
     interest = 'Network configuration repair'
 [[research]]
-    interest = 'SMT solver'
+    interest = 'Network simulation'
 
 [[education]]
     school = "Xi'an Jiaotong University"
     major = "School of Computer Science and Technology"
     degree = 'B.E. in Computer Science'
-    rank = '3/37'
-    gpa = '4.00/4.3'
-    averagescore = '92.1'
+    rank = '4/37'
+    gpa = '3.95/4.3'
+    averagescore = '91.6'
     time = '2020.9 - 2024.6'
+
 [[education]]
     school = 'University of Wisconsin-Madison'
     degree = 'Visiting International Student Program (VISP), Computer Science Thematic Track'
+    gpa = '4.0/4.0'
+    averagescore = 'A'
     time = '2022.9 - 2022.12'
 
 [[award]]
@@ -59,9 +66,6 @@ research_label = ["Verification", "Synthesis"]
 [[social]]
     website = 'blog'
     url = 'https://danielgu.org'
-[[social]]
-    website = 'twitter'
-    url = 'https://twitter.com/endaytrer'
 [[social]]
     website = 'instagram'
     url = 'https://www.instagram.com/endaytrer'

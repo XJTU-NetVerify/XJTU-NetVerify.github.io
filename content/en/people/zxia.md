@@ -10,7 +10,7 @@ layout = 'people'
 name = 'zxia'
 name_cn = '夏泽'
 name_en = 'Ze Xia'
-degree = 'Master Student'
+degree = 'Master, 2026'
 image = '/people/zxia/photo.jpg'
 work = "ByteDance"
 

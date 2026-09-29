@@ -1,6 +1,6 @@
 +++
 title = 'People'
-mentor = "Director"
+faculty = "Faculty"
 students = "Member"
 alumni_title = "Alumni"
 date = 2024-04-28T20:26:03+08:00

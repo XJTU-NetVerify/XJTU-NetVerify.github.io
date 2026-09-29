@@ -10,7 +10,7 @@ layout = 'people'
 name = "xliu"
 name_cn = '刘旭'
 name_en = 'Xu Liu'
-degree = 'Ph.D. Candidate'
+degree = 'Ph.D., 2025'
 image = '/people/xliu/photo.jpg'
 work = 'Huawei'
 

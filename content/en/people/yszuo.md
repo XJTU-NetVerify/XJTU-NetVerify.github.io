@@ -9,5 +9,6 @@ layout = 'people'
 
 name = 'yszuo'
 name_cn = '左岳尚'
+degree = 'Master'
 work = "Alibaba Cloud"
 +++

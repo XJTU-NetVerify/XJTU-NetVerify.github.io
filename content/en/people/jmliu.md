@@ -10,7 +10,7 @@ layout = 'people'
 name = 'jmliu'
 name_cn = '刘济萌'
 name_en = 'Jimeng Liu'
-degree = 'Undergraduate'
+degree = 'Master Student'
 image = '/people/jmliu/photo.jpg'
 
 email = 'xiaoliupek@outlook.com'

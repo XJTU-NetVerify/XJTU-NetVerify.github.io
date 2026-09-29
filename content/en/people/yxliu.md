@@ -9,5 +9,6 @@ layout = 'people'
 
 name = 'yxliu'
 name_cn = '刘雨潇'
+degree = 'Master'
 work = "Huawei"
 +++

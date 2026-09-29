@@ -10,7 +10,7 @@ layout = 'people'
 name = 'zcli'
 name_cn = '李泽春'
 name_en = 'Zechun Li'
-degree = 'Master Student'
+degree = 'Master, 2025'
 image = '/people/zcli/photo.jpg'
 work = 'Alibaba Cloud'
 

@@ -10,7 +10,7 @@ layout = 'people'
 name = 'syliu'
 name_cn = '刘思源'
 name_en = 'Siyuan Liu'
-degree = 'Undergraduate'
+degree = 'Master Student'
 image = '/people/syliu/photo.jpg'
 
 email = '18234991499@163.com'
