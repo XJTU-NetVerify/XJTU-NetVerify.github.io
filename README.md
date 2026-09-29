@@ -24,7 +24,7 @@
 * `content`
     * `content/news`: news listed on index without href and image. only title, date, description will be shown
     * `content/papers`: publications. if the author in people -> use id, else if has own homepage -> use url, else -> omit
-    * `content/people`: layout 'people' or 'mentor'
+    * `content/people`: layout 'people' or 'faculty'
     * `content/zh`: Chinese version now only support index and about
 * `public`: use `rm -rf public; hugo server` to re-render this project
 * `static`: all static resources. make the `public` directory clear by setting the same dir name
