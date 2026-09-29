@@ -1,13 +1,13 @@
 baseurl = "https://xjtu-netverify.github.io"
 title = "NetVerify"
 theme = "blist"
-languageCode = 'en-us'
+locale = 'en-us'
 
 [languages]
   [languages.en]
     contentDir = "content/en"
     weight = 1
-    languageName = "English"
+    label = "English"
     [languages.en.params]
       introTitle = "Net<b>Verify</b> Lab"
       introSubtitle = "@ ANTS (<b>A</b>dvanced <b>N</b>e<b>T</b>worked <b>S</b>ystem) Group in XJTU (<b>X</b>i'an <b>J</b>iao<b>t</b>ong <b>U</b>niversity)"
@@ -59,7 +59,7 @@ languageCode = 'en-us'
   [languages.zh]
     contentDir = "content/zh"
     weight = 2
-    languageName = "Chinese"
+    label = "Chinese"
     [languages.zh.params]
       description = "网络验证团队"
       introTitle = "<b>网络验证团队</b>"
