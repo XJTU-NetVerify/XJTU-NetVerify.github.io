@@ -4,4 +4,5 @@ date = 2026-02-07T03:01:00+08:00
 draft = false
 type = 'news'
 layout = 'en'
+description = 'Authors: Ning Kang, Peng Zhang, Hao Li, Jianyuan Zhang'
 +++

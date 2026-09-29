@@ -4,4 +4,5 @@ date = 2025-09-25T23:59:59-12:00
 draft = false
 type = 'news'
 layout = 'en'
+description = 'Authors: Dan Wang, Peng Zhang, Zhenrong Gu, Weibo Lin, Shibiao Jiang, Zhu He, Xu Du, Longfei Chen, Jun Li, Xiaohong Guan'
 +++
