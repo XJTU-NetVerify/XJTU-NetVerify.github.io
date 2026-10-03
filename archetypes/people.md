@@ -2,10 +2,9 @@
 title = 'Ming Zhongwen (中文名)'
 date = 2023-04-30T14:27:08+08:00
 draft = false
-alumni = false
 
 type = 'people'
-layout = 'people'
+layout = 'student'
 
 name = 'wmzhong'
 name_cn = '中文名'

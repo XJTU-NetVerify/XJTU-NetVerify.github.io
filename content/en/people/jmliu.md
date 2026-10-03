@@ -2,10 +2,9 @@
 title = 'Jimeng Liu'
 date = 2024-09-29T14:25:08+08:00
 draft = false
-alumni = false
 
 type = 'people'
-layout = 'people'
+layout = 'student'
 
 name = 'jmliu'
 name_cn = '刘济萌'

@@ -2,10 +2,9 @@
 title = 'Dan Wang'
 date = 2021-04-30T14:26:08+08:00
 draft = false
-alumni = false
 
 type = 'people'
-layout = 'people'
+layout = 'student'
 
 name = 'dwang'
 name_cn = '王丹'

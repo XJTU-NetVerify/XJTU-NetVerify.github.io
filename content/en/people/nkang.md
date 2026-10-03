@@ -2,7 +2,6 @@
 title = 'Ning Kang'
 date = 2019-04-30T14:27:08+08:00
 draft = false
-alumni = false
 
 type = 'people'
 layout = 'faculty'

@@ -2,10 +2,9 @@
 title = 'Ze Xia'
 date = 2023-04-30T22:22:00+08:00
 draft = false
-alumni = true
 
 type = 'people'
-layout = 'people'
+layout = 'alumni'
 
 name = 'zxia'
 name_cn = '夏泽'

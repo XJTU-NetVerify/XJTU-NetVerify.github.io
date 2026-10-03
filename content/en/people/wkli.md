@@ -2,11 +2,9 @@
 title = 'Wenkai Li'
 date = 2024-04-30T14:27:08+08:00
 draft = false
-alumni = false
 
 type = 'people' 
-layout = 'people'
-
+layout = 'student'
 name = "wkli"
 name_cn = '李文凯'
 name_en = 'Wenkai Li'

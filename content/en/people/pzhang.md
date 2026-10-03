@@ -2,10 +2,10 @@
 title = 'Peng Zhang'
 date = 2000-04-30T14:27:08+08:00
 draft = false
-alumni = false
 
 type = 'people'
 layout = 'faculty'
+select_publications = true
 
 name = 'pzhang'
 name_cn = '张鹏'

@@ -2,10 +2,9 @@
 title = 'Wenbing Sun'
 date = 2022-04-30T14:27:08+08:00
 draft = false
-alumni = true
 
 type = 'people'
-layout = 'people'
+layout = 'alumni'
 
 name = 'wbsun'
 name_cn = '孙文冰'
