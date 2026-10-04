@@ -12,6 +12,7 @@ locale = 'en-us'
       introTitle = "Net<b>Verify</b> Lab"
       introSubtitle = "@ ANTS (<b>A</b>dvanced <b>N</b>e<b>T</b>worked <b>S</b>ystem) Group in XJTU (<b>X</b>i'an <b>J</b>iao<b>t</b>ong <b>U</b>niversity)"
       news = "News"
+      aboutTitle = "About Us"
 
     [[languages.en.params.about]]
       content = "We are a research lab of ANTS (Advanced NeTworked Systems) group, led by Prof. Peng Zhang."
@@ -66,6 +67,7 @@ locale = 'en-us'
       introSubtitle = "西安交通大学网络系统组 @ ANTS (<b>A</b>dvanced <b>N</b>etwork <b>T</b>echnology & <b>S</b>ystem) Group in XJTU (<b>X</b>i'an <b>J</b>iao<b>t</b>ong <b>U</b>niversity)"
 
       news = "新闻"
+      aboutTitle = "关于我们"
       homepage.social.title = "联系我们团队"
       homepage.social.description = "如果你对我们 NetVerify 团队感兴趣，欢迎联系我们！"
 
