@@ -1,6 +1,6 @@
 +++
 title = 'Yijia Wang'
-date = 2026-6-01T08:00:00+08:00
+date = 2026-10-13T08:00:00+08:00
 draft = false
 
 type = 'people'
