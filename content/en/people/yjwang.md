@@ -10,7 +10,7 @@ name = "yjwang"
 name_cn = '王议甲'
 name_en = 'Yijia Wang'
 degree = 'Undergraduate'
-image = '/people/yjwang/photo.jpg'
+image = '/people/yjwang/photo.png'
 
 email = 'wyjia0610@foxmail.com'
 github = 'wtjwtm'
