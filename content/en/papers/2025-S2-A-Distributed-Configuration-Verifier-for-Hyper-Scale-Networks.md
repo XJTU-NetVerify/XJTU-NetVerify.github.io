@@ -31,7 +31,6 @@ top = true
     id = 'wbsun'
 [[paper.author]]
     name = 'Wenkai Li'
-    id = 'wkli'
 [[paper.author]]
     name = 'Xing Feng'
     id = 'xfeng'

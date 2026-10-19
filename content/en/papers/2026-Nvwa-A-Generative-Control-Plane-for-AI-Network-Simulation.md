@@ -35,7 +35,6 @@ top = true
 
 [[paper.author]]
 name = 'Wenkai Li'
-id = 'wkli'
 
 [[paper.author]]
 name = 'Ran Shu'
