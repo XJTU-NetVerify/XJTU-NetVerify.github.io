@@ -4,6 +4,6 @@ date = 2026-07-23T16:00:00+08:00
 draft = false
 type = 'news'
 layout = 'zh'
-description = '作者：马锦超，舒然，单丹枫，Wenxue Cheng，Jinnuo Du，Zhixiong Niu，张鹏，Yongqiang Xiong'
+description = ''
 thumbnail = '/intro/group2.jpg'
 +++

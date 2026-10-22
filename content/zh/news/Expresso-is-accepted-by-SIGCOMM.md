@@ -4,5 +4,5 @@ date = 2024-05-04T14:40:06+08:00
 draft = false
 type = 'news'
 layout = 'zh'
-description = '作者：王丹，张鹏，Aaron Gember-Jacobson'
+description = ''
 +++

@@ -4,6 +4,6 @@ date = 2026-09-24T16:00:00+08:00
 draft = false
 type = 'news'
 layout = 'zh'
-description = '作者：邓辉琦，Yibo Li，Quanshi Zhang，张鹏，Hongbin Pei，Xia Hu'
+description = ''
 thumbnail = '/intro/group2.jpg'
 +++
