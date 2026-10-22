@@ -184,6 +184,9 @@ locale = 'en-us'
   # The page bundle that is shown on the front page
   frontBundle = "news"
 
+  # Number of news items shown on the front page before "Show more news"
+  newsLimit = 5
+
   # Used to hide the post metadata such as posted date, reading time and word count
   # Can be used at site level or page level
   hideMeta = false
