@@ -17,9 +17,6 @@ locale = 'en-us'
     [[languages.en.params.about]]
       content = "We are a research lab of ANTS (Advanced NeTworked Systems) group, led by Prof. Peng Zhang. Our lab focuses on the verification, simulation, and synthesis of large-scale computer networks."
 
-    [[languages.en.params.about]]
-      content = "Undergraduate students who are self-motivated, and interested in this research direction, are welcome to join our NetVerify lab (contact: p-zhang@xjtu.edu.cn)"
-
     # [[languages.en.menu.main]]
     #     name = "About"
     #     url = "about"
@@ -67,9 +64,6 @@ locale = 'en-us'
 
     [[languages.zh.params.about]]
       content = "我们是一个由张鹏教授领导的先进网络系统（ANTS）小组研究实验室，专注于大规模计算机网络的验证、模拟和合成。"
-
-    [[languages.zh.params.about]]
-      content = "欢迎自学能力强、对该研究方向感兴趣的本科生加入我们的 NetVerify 实验室（联系人：p-zhang@xjtu.edu.cn）。"
 
     [[languages.zh.menu.main]]
         name = "研究领域"
