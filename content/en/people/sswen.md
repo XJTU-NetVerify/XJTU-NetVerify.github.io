@@ -8,6 +8,7 @@ layout = 'alumni'
 
 name = 'sswen'
 name_cn = '文思思'
-degree = 'Master, 2023'
+degree = 'Master'
+graduation = 2023
 work = "ByteDance"
 +++

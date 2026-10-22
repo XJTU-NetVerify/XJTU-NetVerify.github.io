@@ -10,6 +10,8 @@ name = 'wmzhong'
 name_cn = '中文名'
 name_en = 'Ming Zhongwen'
 degree = 'Master Student'
+# For alumni (layout = 'alumni'): set graduation year, used to order the alumni list
+# graduation = 2026
 image = '/people/wmzhong/photo.jpg'
 
 email = ''

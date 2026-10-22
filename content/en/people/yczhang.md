@@ -9,7 +9,8 @@ layout = 'alumni'
 name = 'yczhang'
 name_cn = '张亦弛'
 name_en = 'Yichi Zhang'
-degree = 'Master, 2026'
+degree = 'Master'
+graduation = 2026
 image = '/people/yczhang/photo.jpg'
 work = 'Huawei'
 

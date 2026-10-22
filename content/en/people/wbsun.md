@@ -9,7 +9,8 @@ layout = 'alumni'
 name = 'wbsun'
 name_cn = '孙文冰'
 name_en = 'Wenbing Sun'
-degree = 'Master, 2025'
+degree = 'Master'
+graduation = 2025
 image = '/people/wbsun/photo.jpg'
 work = 'Huawei'
 

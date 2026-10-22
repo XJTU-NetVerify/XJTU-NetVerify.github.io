@@ -8,6 +8,7 @@ layout = 'alumni'
 
 name = 'yxliu'
 name_cn = '刘雨潇'
-degree = 'Master, 2022'
+degree = 'Master'
+graduation = 2022
 work = "Huawei"
 +++

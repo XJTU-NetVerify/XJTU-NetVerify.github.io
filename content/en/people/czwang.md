@@ -10,7 +10,8 @@ layout = 'alumni'
 name = 'czwang'
 name_cn = '王崇智'
 name_en = 'Chongzhi Wang'
-degree = 'Master, 2024'
+degree = 'Master'
+graduation = 2024
 image = '/people/czwang/photo.jpg'
 
 email = 'chongzhiw@163.com'

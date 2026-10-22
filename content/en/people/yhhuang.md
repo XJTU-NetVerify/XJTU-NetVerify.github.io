@@ -8,6 +8,7 @@ layout = 'alumni'
 
 name = 'yhhuang'
 name_cn = '黄宇浩'
-degree = 'Master, 2023'
+degree = 'Master'
+graduation = 2023
 work = "Ant Group"
 +++

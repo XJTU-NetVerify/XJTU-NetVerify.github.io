@@ -8,6 +8,7 @@ layout = 'alumni'
 
 name = 'yszuo'
 name_cn = '左岳尚'
-degree = 'Master, 2022'
+degree = 'Master'
+graduation = 2022
 work = "Alibaba Cloud"
 +++
