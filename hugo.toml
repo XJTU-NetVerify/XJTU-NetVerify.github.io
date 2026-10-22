@@ -66,23 +66,10 @@ locale = 'en-us'
       homepage.social.description = "如果你对我们 NetVerify 团队感兴趣，欢迎联系我们！"
 
     [[languages.zh.params.about]]
-      content = "我们是一个由张鹏教授领导的先进网络系统（ANTS）小组研究实验室。"
-    [[languages.zh.params.about]]
-      content = "我们的实验室专注于大规模计算机网络的验证、模拟和合成。"
-    [[languages.zh.params.about]]
-      content = "我们提出了数据平面验证器 APKeep（NSDI'20）和 MNV（CoNEXT'23），以及控制平面验证器 DNA（NSDI'22）、SRE（SIGCOMM'22）和 Expresso（SIGCOMM'24）。其中一些已经开源。"
+      content = "我们是一个由张鹏教授领导的先进网络系统（ANTS）小组研究实验室，专注于大规模计算机网络的验证、模拟和合成。"
+
     [[languages.zh.params.about]]
       content = "欢迎自学能力强、对该研究方向感兴趣的本科生加入我们的 NetVerify 实验室（联系人：p-zhang@xjtu.edu.cn）。"
-
-    # 网络验证是计算机网络领域一个令人兴奋的新方向：它利用形式化方法和仿真/模拟来确保大型复杂计算机网络（如数据中心网络和广域网）的正确性。
-    # 自 2015 年以来，我们实验室一直致力于网络验证工作，推出了 VeriDP（CoNEXT'16）。随后，我们提出了数据平面验证器 APKeep（NSDI'20）和 MNV（CoNEXT'23）。目前的研究重点是控制平面验证，初步工作包括 DNA（NSDI'22）、SRE（SIGCOMM'22）和 Expresso（SIGCOMM'24）。其中一些工作已经开源。
-    # 研究组隶属于管晓宏院士团队，主要研究方向包括：未来互联网、数据中心网络；力图从真实场景中挖掘真实问题，提高我国网络基础设施的稳定性和安全性；发表有国际影响力的学术论文，培养网络系统领域顶尖人才。
-    # 欢迎对系统领域感兴趣、有自我驱动力的本科生同学加入研究组。
-
-    # [[languages.zh.menu.main]]
-    #     name = "实验室介绍"
-    #     url = "about"
-    #     weight = 1
 
     [[languages.zh.menu.main]]
         name = "研究领域"
