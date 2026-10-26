@@ -10,7 +10,7 @@ name = 'scy'
 name_cn = '桑琛宜'                           
 name_en = 'Chenyi Sang'                      
 degree = 'Undergraduate'                    
-image = '/people/scy/photo.jpg'             # 头像在网站中的访问路径；应把照片放在仓库 static/people/scy/photo.jpg
+image = '/people/scy/photo.png'             # 头像在网站中的访问路径；应把照片放在仓库 static/people/scy/photo.png
 
 email = '3427458619@qq.com'          
 github = 'sangchenyi'                       # GitHub 用户名；网站会自动生成 https://github.com/sangchenyi
