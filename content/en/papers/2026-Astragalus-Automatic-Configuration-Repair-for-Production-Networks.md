@@ -18,11 +18,12 @@ bibtex = """@misc{gu2026astragalus,
 abstract = [
  "Network configurations are prone to errors, which can lead to catastrophic service outages. A tool that can achieve automatic configuration repair (ACR) is highly desired by operators. Existing tools for ACR follow a <i>semantics-driven</i> approach: they model network semantics as a set of SMT constraints, and solve them for a location or fix of the error. Due to the complex semantics of networks, constructing and solving these constraints can be prohibitively expensive, making these tools neither general nor scalable. Inspired by automatic program repair (APR), we explore another direction, i.e., a <i>syntax-driven</i> approach, which generates and validates syntactically-valid candidate updates without modeling program semantics, often drawing on existing code in the same repository. Following this direction, we propose Astragalus, a syntax-driven method for ACR. It uses multiple iterations of a \"localize-fix-validate\" pipeline to search for repairs, and proves quite effective on configurations of our production network. Specifically, we show that Astragalus can repair every incident in multiple sizes of a synthesized network, and 97.5% of the incidents on a real network, both with 15 types of errors injected, within an average time of 6.93 seconds. It has also provided valid repair suggestions in under 6 minutes for 7 recent network incidents or undesired changes, in a real production network with O(1,000)∼O(10,000) devices."
 ]
-doi = ""
+doi = '10.1145/3828523.3857085'
 publisher = "Proceedings of ACM SIGOPS ATC '26"
 ccf = "A"
 publish = "conference"
 preprint = "https://arxiv.org/abs/2605.22092"
+pdf = '/papers/Astragalus/main.pdf'
 slide = ''
 video = ''
 top = true
