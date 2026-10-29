@@ -10,7 +10,7 @@ name = 'zrgu'
 name_cn = '顾真榕'
 name_en = 'Zhenrong Gu'
 degree = 'Master Student'
-image = '/people/zrgu/photo.jpg'
+image = '/people/zrgu/photo_life.jpg'
 
 email = 'me@danielgu.org'
 github = 'endaytrer'
