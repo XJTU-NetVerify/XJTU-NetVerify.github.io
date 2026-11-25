@@ -8,7 +8,7 @@ top = true
 
 research_label = ["Verification"]
 abstract = []
-publish = "Dissertation for Ph.D. degree, Xi'an Jiaotong University"
+publisher = "Dissertation for Ph.D. degree, Xi'an Jiaotong University"
 pdf = '/papers/Dan-Wang-Dissertation/dissertation-en.pdf'
 [[paper.author]]
     name = 'Dan Wang'
